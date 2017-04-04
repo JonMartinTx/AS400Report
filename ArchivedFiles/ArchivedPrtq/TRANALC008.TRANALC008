@@ -1,0 +1,44 @@
+1
+-
+0   1255                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ALCORN STATE UNIVERSITY                                                 *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  008 - ALCORN - SMALL FARM LOANS                                                                                                                             1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   1255                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ALCORN STATE UNIVERSITY                                                 *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  008 - ALCORN - SMALL FARM LOANS                                                                                                                             2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       177        2,957,215.63         1,106,145.12-         53,853.00-                       1,797,217.51
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       177        2,957,215.63         1,106,145.12-         53,853.00-                       1,797,217.51
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               1,106,145.12                                                                         1,106,145.12
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE               1,106,145.12                                                                         1,106,145.12

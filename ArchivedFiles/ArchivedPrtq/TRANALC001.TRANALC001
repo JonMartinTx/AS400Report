@@ -1,0 +1,57 @@
+1
+-
+0   1255                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ALCORN STATE UNIVERSITY                                                                                                                    RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 FLANNIGAN KEVIN      901 PYMT-ACH   REHABILI      198689                                                                                385.58
+    460-27-0880 - 01 06     3/20/17    3/16/17 A        82       30.00-    28.83-     1.17-                                               356.75
+0 WHITE ERIC            61 15DAYPAST  ACTIVE                                                                                              341.00 OLD:      00016
+    425-25-6017 - 01 06     3/11/17    0/00/00 S                                                                                          341.00 NEW:
+1
+-
+0   1255                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ALCORN STATE UNIVERSITY                                                 *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 901 - Payment received by EDSI-ACH        1            28.83-         1.17-                                             30.00-
+0       ** TOTALS                           1            28.83-         1.17-                                             30.00-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   1255                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ALCORN STATE UNIVERSITY                                                 *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     8,689        8,830,137.36         4,035,417.04-      1,028,774.73-     3,303,217.04-       462,728.55
+  NEW LOANS/ADVANCES
+  COLLECTIONS             1                                    28.83-                                                 28.83-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE     8,689        8,830,137.36         4,035,445.87-      1,028,774.73-     3,303,217.04-       462,699.72
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               4,035,417.04     1,127,759.92        50,896.28                                       5,214,073.24
+0 PAYMENTS                  **         28.83             1.17                                                               30.00
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE               4,035,445.87     1,127,761.09        50,896.28                                       5,214,103.24

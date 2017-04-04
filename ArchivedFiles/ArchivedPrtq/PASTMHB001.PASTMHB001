@@ -1,0 +1,754 @@
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         1
+0                                                                           ***** 10 TO 29 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                           0.00
+                                                             Loan Balance:                          0.00
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                     0.00
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                             0.00
+0                                                            Number Past Due:                          0
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         2
+0                                                                           ***** 30 TO 59 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ NERIO RODOLFO ROBERTO    8354 PIONEER FLD                                BAD   6/01/14    4000.00       0.00        0.00       27.16        0.00      0/00/00
+ 632-22-7670 - 01                                        469-340-7786     OK    3/01/17    4000.00       0.00        0.00       15.34       42.75         0.00
+                          SAN ANTONIO, TX 78253            5.00    31      2/15/16         170.00        0.00                    0.25     4032.58     ACTIVE
+-NERIO RODOLFO ROBERTO    8354 PIONEER FLD                                BAD   6/01/14    4000.00       0.00        0.00       27.16        0.00      0/00/00
+ 632-22-7670 - 02                                        469-340-7786     OK    3/01/17    4000.00       0.00        0.00       15.34       42.75         0.00
+                          SAN ANTONIO, TX 78253            5.00    31      2/15/16         170.00        0.00                    0.25     4032.58     ACTIVE
+-NERIO RODOLFO ROBERTO    8354 PIONEER FLD                                BAD   6/01/14    4000.00       0.00        0.00       27.16        0.00      0/00/00
+ 632-22-7670 - 03                                        469-340-7786     OK    3/01/17    4000.00       0.00        0.00       15.34       42.75         0.00
+                          SAN ANTONIO, TX 78253            5.00    31      2/15/16         170.00        0.00                    0.25     4032.58     ACTIVE
+-NERIO RODOLFO ROBERTO    8354 PIONEER FLD                                BAD   6/01/14    4000.00       0.00        0.00       27.16        0.00      0/00/00
+ 632-22-7670 - 04                                        469-340-7786     OK    3/01/17    4000.00       0.00        0.00       15.34       42.75         0.00
+                          SAN ANTONIO, TX 78253            5.00    31      2/15/16         170.00        0.00                    0.25     4032.58     ACTIVE
+-WAREHIME BRIGETTE ELIZABE845 EAST AMITY ROAD            254-913-8138     OK    6/01/12     847.00       0.00      423.50        7.38        0.00      0/00/00
+ 632-24-1705 - 01                                                         BAD   3/01/17     423.50       0.00        0.00        1.63        9.08         0.00
+                          SALADO, TX 76571                 5.00    31      1/26/16         126.00        0.00                    0.07      426.99     ACTIVE
+-WAREHIME BRIGETTE ELIZABE845 EAST AMITY ROAD            254-913-8138     OK    6/01/12    5500.00       0.00     2750.00       47.95        0.00      0/00/00
+ 632-24-1705 - 02                                                         BAD   3/01/17    2750.00       0.00        0.00       10.55       58.96         0.00
+                          SALADO, TX 76571                 5.00    31      1/26/16         126.00        0.00                    0.46     2772.69     ACTIVE
+-WAREHIME BRIGETTE ELIZABE845 EAST AMITY ROAD            254-913-8138     OK    6/01/12    5500.00       0.00     2750.00       47.95        0.00      0/00/00
+ 632-24-1705 - 03                                                         BAD   3/01/17    2750.00       0.00        0.00       10.55       58.96         0.00
+                          SALADO, TX 76571                 5.00    31      1/26/16         126.00        0.00                    0.46     2772.69     ACTIVE
+-WOOD BRITTANY            27234 PAULA LN                 281-813-5817     OK    6/01/11    4000.00       0.00     2800.00       75.30        0.00      0/00/00
+ 632-18-5602 - 01                                                         BAD   3/01/17    1200.00       0.00        0.00        9.70       85.50         0.00
+                          OAK RIDGE, TX 77385-9952         5.00    59      9/15/15          85.00        0.00                    0.50     1215.29     ACTIVE
+-WOOD BRITTANY            27234 PAULA LN                 281-813-5817     OK    6/01/11    4000.00       0.00     2800.00       75.30        0.00      0/00/00
+ 632-18-5602 - 02                                                         BAD   3/01/17    1200.00       0.00        0.00        9.70       85.50         0.00
+                          OAK RIDGE, TX 77385-9952         5.00    59      9/15/15          85.00        0.00                    0.50     1215.29     ACTIVE
+-YOUNGBLOOD EDWIN DEAN    4470 SHANKLIN LN               254-939-8823     OK    1/01/06   10000.00    7966.80        0.00      105.77        0.00      2/21/17
+ 452-98-9268 - 01                                                         BAD   3/01/17    2033.20    2905.52        0.00        2.23      109.00       214.00
+                          BELTON, TX 76513                 5.00    31      2/21/17         107.00       31.00                    1.00     2045.07     RENEGOTIAT
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         3
+0                                                                           ***** 30 TO 59 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                       45847.00
+                                                             Loan Balance:                      26356.70
+0                                                            Principal Past Due:                  468.29
+                                                             Interest Past Due:                   105.72
+                                                             Late Chg/Penalty Due:                  3.99
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                           578.00
+0                                                            Number Past Due:                          4
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         4
+0                                                                           ***** 60 TO 89 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                           0.00
+                                                             Loan Balance:                          0.00
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                     0.00
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                             0.00
+0                                                            Number Past Due:                          0
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         5
+0                                                                           **** 90 TO 119 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    2000.00     198.89        0.00       29.84        0.00     10/16/16
+ 643-24-7762 - 01                                                         BAD   3/01/17    1801.11      99.30        0.00       33.56       63.58       218.00
+                          FT WORTH, TX 76133               5.00    90     10/16/16         218.00        0.00                    0.18     1842.50     ACTIVE
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                        2000.00
+                                                             Loan Balance:                       1801.11
+0                                                            Principal Past Due:                   29.84
+                                                             Interest Past Due:                    33.56
+                                                             Late Chg/Penalty Due:                  0.18
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                            63.58
+0                                                            Number Past Due:                          1
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         6
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ABBEY JARRELL            917 FILLY LN                   254-742-0439     OK    6/01/03    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 452-91-7654 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1301.08     3354.08         0.00
+                          TEMPLE, TX 76504                 5.00  4748      6/06/02          40.00        0.00                   53.00     3362.58     ACTIVE
+-ADAMS HANNAH SAGE        1201 PINE PORTAGE LOOP                          BAD   6/01/12    4000.00       0.00        0.00     1007.09        0.00      0/00/00
+ 641-05-5735 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      650.41     1658.50         0.00
+                          LEANDER, TX 78641                5.00  1186      3/01/13          85.00        0.00                    1.00     4668.39     COLLAGENCY
+-ADAMS HANNAH SAGE        1201 PINE PORTAGE LOOP                          BAD   6/01/12    4000.00       0.00        0.00     1007.09        0.00      0/00/00
+ 641-05-5735 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      650.41     1658.50         0.00
+                          LEANDER, TX 78641                5.00  1186      3/01/13          85.00        0.00                    1.00     4668.39     COLLAGENCY
+-ALBRIGHT MICHAEL         8630 FAIRHAVEN ST                               BAD   6/05/84    2450.00    2402.67        0.00       47.33        0.00     11/16/05
+ 262-49-8195 - 01                                                         BAD   3/01/17      47.33    1018.09        0.00       32.59       93.92        21.32
+                          SAN ANTONIO, TX 78229-2036       5.00  5510     11/16/05          30.00       94.00                   14.00       94.12     ACTIVE
+-ALEMAN EDUARDO           PO BOX 230                     254-933-7768     BAD   1/01/04    2000.00     383.74     1400.00      216.26        0.00      4/06/11
+ 452-77-4579 - 01                                        254-501-0800     BAD   3/01/17     216.26      96.26        0.00       63.90      301.16        81.00
+                          LINTHICUM HEIGHTS, MD 21009-02   5.00  2162      4/06/11          40.00       11.00                   21.00      302.08     ACTIVE
+-ALEXANDER JARVIS D       2404 OAK MANOR NO B                             BAD   6/01/07    3000.00       0.00        0.00     2968.79        0.00      0/00/00
+ 453-61-9367 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00     1351.21     4322.00         0.00
+                          ARLINGTON, TX 76012              5.00  3287      1/19/07          40.00        0.00                    2.00     4365.95     COLLAGENCY
+-ALLEY MICHAEL LEE        101 OAK ST STE A               254-547-6119     OK    5/30/01    2000.00     357.46        0.00     1642.54        0.00      7/24/06
+ 342-72-3023 - 01                                                         BAD   3/01/17    1642.54      82.54        0.00      871.66     2552.20        82.00
+                          COPPERAS COVE, TX 76522-2402     5.00  3865      7/24/06          40.00        6.00                   38.00     2559.17     ACTIVE
+-ALLINGER STEVEN JAMES    1407 SHARPS RD                                  BAD   9/05/91    1500.00       0.00        0.00     1500.00        0.00     11/05/94
+ 460-33-1329 - 01                                                         BAD   3/01/17    1500.00      55.23        0.00     1801.33     3337.33        37.50
+                          AUSTIN, TX 78734-3129            5.00  8676      1/05/95          30.00       21.00                   36.00     3343.70     ACTIVE
+-ANDERSON ANDERA          5325 WEDDINGTON CT             817-346-6251     OK    5/05/92    2000.00     198.80        0.00     1801.20        0.00      2/13/97
+ 451-23-7895 - 01                                                         BAD   3/01/17    1801.20     275.69        0.00     1910.69     3748.89        37.50
+                          FORT WORTH, TX 76133             5.00  8615      2/13/97          30.00       13.00                   37.00     3756.54     ACTIVE
+-ANDERSON KRISTIN LEIGH   2305 CHARISMA DR               817-917-7524     OK    5/30/01   16000.00   13137.75        0.00     2862.25        0.00      7/20/11
+ 460-93-9558 - 01                                                         BAD   3/20/17    2862.25    4801.25        0.00      832.92     3707.17       340.00
+                          FORT WORTH, TX 76131-1260        5.00  2294      7/20/11         170.00       61.00                   12.00     3720.89     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         7
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ANDREWS JENNIFER DIANE   6825 MEADOWBREEZE PKWY         361-334-1940     OK    6/01/04    4000.00     255.86     1200.00     2544.14        0.00     10/21/09
+ 450-87-7238 - 01                                                         BAD   3/01/17    2544.14     583.14        0.00      937.34     3510.48        70.00
+                          CORPUS CHRISTI, TX 78414-2737    5.00  3531     10/21/09          43.00       20.00                   29.00     3521.29     ACTIVE
+-ANNESS HELEN MARIE       303 SUSANNA ST                 254-839-5906     OK    1/30/99    3749.00    1287.34        0.00     2461.66        0.00      6/11/07
+ 445-74-2295 - 01                                                         BAD   3/01/17    2461.66     722.66        0.00     1197.78     3691.44        50.00
+                          WACO, TX 76705-1377              5.00  3684      6/11/07          48.00       42.00                   32.00     3701.89     ACTIVE
+-BAILEY TERRANCE          6901 REIN DRIVE                254-519-2735     OK    1/05/88     750.00     229.52        0.00      520.48        0.00      3/05/94
+ 465-77-5766 - 01                                                         BAD   3/01/17     520.48     200.44        0.00      594.32     1114.80        29.99
+                          KILLEEN, TX 76542-9073           5.00 10379     12/05/94          30.00       50.00                    0.00     1117.01     COLLAGENCY
+-BALL MOSHELL LYNN        2127 JESTER FARMS              512-259-9088     OK    6/01/04    4000.00       0.00        0.00     3789.82        0.00      0/00/00
+ 638-01-9111 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     2402.18     6247.00         0.00
+                          ROUND ROCK, TX 78664-4590        5.00  4383      1/20/04          43.00        0.00                   55.00     6474.16     ACTIVE
+-BAUTISTA JOHN EDWARD     550 HEIMER RD APT 1006                          BAD   1/30/97    1000.00     643.80        0.00      356.20        0.00      6/07/99
+ 459-93-8153 - 01                                                         BAD   3/01/17     356.20      76.20        0.00      316.02      723.22       378.00
+                          SAN ANTONIO, TX 78232-5143       5.00  6667      6/07/99          40.00        8.00                   51.00      724.74     ACTIVE
+-BELANGER ANNA            3502 RED BUD DR                                 BAD   4/05/92    6316.00      40.68        0.00     6275.32        0.00      2/26/93
+ 231-35-1461 - 01                                                         BAD   3/01/17    6275.32      26.32        0.00    13652.46    19945.78        67.00
+                          TEMPLE, TX 76502-2248           10.00  8737     12/05/94          67.00        0.00                   18.00    19999.08     COLLAGENCY
+-BELL BRANDY LYNN         505 W VIRGINIA AVE             254-773-5346     OK    1/01/03    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 465-71-4273 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1342.73     3400.73         0.00
+                          TEMPLE, TX 76501                 5.00  4900      9/03/02          40.00        0.00                   58.00     3409.22     ACTIVE
+-BITTERS ROSE M           ROSE M POWELL                  496-682-7881     OK    6/01/06    3100.00    1224.44      930.00      468.96        0.00      7/06/12
+ 633-01-2770 - 01         10650 STEPPINGTON DR APT 144                    BAD   3/01/17     945.56     165.56        0.00       51.04      522.00        50.00
+                          DALLAS, TX 75230-4644            5.00   396     12/31/14          40.00        0.00                    2.00     1002.61     COLLAGENCY
+-BOWLING MICHAEL DURELL   216 CUTTING HORSE LN                            BAD   6/30/00    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 457-25-8039 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      704.50     1798.50         0.00
+                          KELLER, TX 76248-3115            5.00  5145      6/11/02          40.00        0.00                   94.00     1802.74     ACTIVE
+-BREWER NATHAN RAY        1714 N 18TH ST                 817-526-0809     OK    9/05/87    2620.00    1506.97        0.00     1113.03        0.00      5/29/96
+ 461-39-1250 - 01                                                         BAD   3/01/17    1113.03     640.63        0.00     1155.84     2334.87        30.00
+                          KILLEEN, TX 76541-6310           5.00  7488      8/21/96          30.00       12.00                   66.00     2339.60     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         8
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ BROWN BRENDA JOYCE       3606 DEL MAR CT                254-833-6858     OK    9/01/07    2000.00     389.56      600.00     1010.44        0.00      6/16/09
+ 451-39-3017 - 01                                                         BAD   3/20/17    1010.44      95.44        0.00      307.14     1332.58        40.00
+                          KILLEEN, TX 76549-5483           5.00  2204      8/18/09          40.00        0.00                   15.00     1337.43     ACTIVE
+-BROWN BRYAN WAYNE        2626 N REAGAN NO 118           214-668-5293     OK    6/30/96    1500.00       0.00     1050.00      450.00        0.00      0/00/00
+ 457-93-9821 - 01                                                         BAD   3/01/17     450.00       0.00        0.00      418.13      922.13         0.00
+                          DALLAS, TX 75219                 5.00   578      8/24/15          40.00        0.00                   54.00      924.04     ACTIVE
+-BROWN KRISTIE LYN        13100 PANDORA DR APT 1021                       BAD   5/30/01    2675.00    2019.58        0.00      655.42        0.00     10/12/10
+ 467-83-4460 - 01                                                         BAD   3/01/17     655.42    1068.42        0.00      209.46      864.88       105.00
+                          DALLAS, TX 75238-4070            5.00  3684     10/12/10          40.00       62.00                    0.00      867.66     COLLAGENCY
+-BROWN SEDANIO DEMARIO    206 E SYCAMORE LANE            903-291-1865     OK    6/01/03    6000.00       0.00        0.00     6000.00        0.00      0/00/00
+ 461-85-2103 - 01                                                         BAD   3/01/17    6000.00       0.00        0.00     3853.13     9918.13         0.00
+                          LONGVIEW, TX 75604               5.00  4687      1/28/03          64.00        0.00                   65.00     9943.61     ACTIVE
+-BURKS SUE ANN            101 S 33RD STREET              817-778-8659     OK    6/30/97    6000.00     203.99        0.00     5796.01        0.00      7/07/98
+ 585-54-5494 - 01                                                         BAD   3/01/17    5796.01      85.01        0.00     5408.54    11223.55       100.00
+                          TEMPLE, TX 76504                 5.00  6789      7/07/98          64.00        0.00                   19.00    11248.17     ACTIVE
+-CALBREATH CRYSTAL        PO BOX 75                                       BAD   6/05/78    5020.00    2706.39        0.00     2313.61        0.00     10/17/00
+ 456-86-9356 - 01                                                         BAD   3/01/17    2313.61    3063.56        0.00     1136.93     3464.54        52.47
+                          TEMPLE, TX 76501                 3.00 11810     10/17/00          48.60       20.00                   14.00     3470.43     ACTIVE
+-CARPENTER STACY DENISE   PO BOX 207                     254-541-1552     OK    1/01/08   12000.00       0.00        0.00     7874.86        0.00      0/00/00
+ 467-37-7291 - 01                                                         BAD   3/01/17   12000.00       0.00        0.00     5053.14    12959.00         0.00
+                          WEIR, TX 78674-0207              5.00  3073      1/17/06         128.00        0.00                   31.00    17135.10     ACTIVE
+-CARTER BETHANI R         PO BOX 1456                                     BAD   6/01/10    1747.00       0.00        0.00      327.24        0.00      0/00/00
+ 640-18-6574 - 01                                                         BAD   3/01/17    1747.00       0.00        0.00       72.76      402.00         0.00
+                          SPRINGTOWN, TX 76082             5.00   304      7/22/15          40.00        0.00                    2.00     1829.18     COLLAGENCY
+-CASE JACQUIE             1700 RANCH HOUSE RD            817-773-4470     OK    1/01/12    4000.00       0.00     2000.00      240.61        0.00      0/00/00
+ 644-07-3854 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00       58.08      299.35         0.00
+                          WILLOW PARK, TX 76087            5.00   212      3/31/15         128.00        0.00                    0.66     2067.23     COLLAGENCY
+-CASE JACQUIE             1700 RANCH HOUSE RD            817-773-4470     OK    1/01/12    4000.00       0.00     2000.00      240.61        0.00      0/00/00
+ 644-07-3854 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00       58.08      299.35         0.00
+                          WILLOW PARK, TX 76087            5.00   212      3/31/15         128.00        0.00                    0.66     2067.23     COLLAGENCY
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         9
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ CASE JACQUIE             1700 RANCH HOUSE RD            817-773-4470     OK    1/01/12    4000.00       0.00     2000.00      240.61        0.00      0/00/00
+ 644-07-3854 - 03                                                         BAD   3/01/17    2000.00       0.00        0.00       58.08      299.35         0.00
+                          WILLOW PARK, TX 76087            5.00   212      3/31/15         128.00        0.00                    0.66     2067.23     COLLAGENCY
+-COLLINS DAVID NATHAN     150 ORCHARD DR                 864-574-2383     OK    6/05/91     400.00      56.66        0.00      343.34        0.00      5/26/92
+ 249-33-4741 - 01                                                         BAD   3/01/17     343.34       3.34        0.00      407.74      830.08        60.00
+                          INMAN, SC 29349-9647             5.00  8646     12/05/94          30.00        0.00                   79.00      831.54     ACTIVE
+-COLLINS MARK ALAN        4035 E NORTH ST                254-386-8935     OK    1/01/05    4530.00       0.00        0.00     4530.00        0.00      0/00/00
+ 551-71-7003 - 01                                                         BAD   3/01/17    4530.00       0.00        0.00     2587.67     7165.67         0.00
+                          TUCSON, AZ 85712-2527            5.00  4169      8/30/04          64.00        0.00                   48.00     7184.90     ACTIVE
+-CORNELUIS TERRI L        RR 1 BOX 292A                  417-683-5131     OK    5/05/73     700.00      15.00        0.00      685.00        0.00      0/00/00
+ 432-04-2909 - 01                                                         BAD   3/01/17     685.00       1.75        0.00      479.36     1193.36         0.00
+                          AVA, MO 65608-9794               3.00  4900      3/28/95          30.00        0.00                   29.00     1195.11     ACTIVE
+-CRAWFORD PAMELA          550 STAFFORD RUN APT 913                        BAD   6/05/87    1610.00     550.45        0.00     1059.55        0.00      8/10/98
+ 223-96-0229 - 01                                                         BAD   3/01/17    1059.55     617.05        0.00      990.54     2086.09        60.00
+                          STAFFORD, TX 77477-5649          5.00  8341      8/10/98          30.00       32.50                   36.00     2090.59     ACTIVE
+-CUMBY FREDRICK C         108 NE 4TH ST                  903-878-2853     OK    1/01/07    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 451-87-5444 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      650.41     2682.41         0.00
+                          KERENS, TX 75144                 5.00  2374     11/03/09          40.00        0.00                   32.00     2690.90     ACTIVE
+-DEFREITAS LAURA TIFFANY  3227 MCKINNEY AVE NO 12-G      469-644-6959     OK    1/01/08    4000.00       0.00        0.00     2658.63        0.00      0/00/00
+ 464-79-9765 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     1684.37     4374.00         0.00
+                          DALLAS, TX 75204                 5.00  3073      1/17/06          43.00        0.00                   31.00     5732.36     ACTIVE
+-DUBLIN AMY               103 MCFADDAN LANE                               BAD   1/01/15    2750.00       0.00        0.00      485.24        0.00      0/00/00
+ 465-71-8238 - 01                                                         BAD   3/01/17    2750.00       0.00        0.00      194.76      682.00         0.00
+                          TEMPLE, TX 76502-3545            5.00   517      9/02/14          40.00        0.00                    2.00     2958.44     COLLAGENCY
+-DUNLAP JEAN MELTON       APT 204                                         BAD   9/05/71    1002.00     485.48        0.00      516.52        0.00      0/00/00
+          94 - 01                                                         BAD   1/01/17     516.52     115.27        0.00      623.67     1268.69         0.00
+                          DALLAS, TX 75211                 3.00 16042      2/29/80          45.00        0.00                  128.50     1272.51     ACTIVE
+-ESCOBEDO SYLVIA          123 W JANIN CIR                                 BAD  12/05/74    1100.00    1018.30        0.00       81.70        0.00      7/06/82
+ 461-98-0119 - 01                                                         BAD   2/01/17      81.70     225.26        0.00       74.24      290.69        69.72
+                          PORTLAND, TX 78374-1413          3.00 15068     11/05/91         135.00        0.00                  134.75      291.29     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        10
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ EZELL SHIRLEY EDNA       1081 BOXER PASS DR             210-945-2397     OK    6/30/96    2975.00       0.00        0.00     2975.00        0.00      0/00/00
+ 452-84-1165 - 01                                                         BAD   3/01/17    2975.00       0.00        0.00     2965.19     5994.19         0.00
+                          SCHERTZ, TX 78154-2975           5.00  7276      3/24/93          40.00        0.00                   54.00     6006.82     ACTIVE
+-FLORES ALEJANDRA         P O BOX 1112                                    BAD   6/01/15    4000.00       0.00        0.00      310.00        0.00      0/00/00
+ 354-86-9026 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      200.00      511.00         0.00
+                          GRANGER, TX 76530                5.00   365      4/06/15          85.00        0.00                    1.00     4217.99     COLLAGENCY
+-FLORES ALEJANDRA         P O BOX 1112                                    BAD   6/01/15    4000.00       0.00        0.00      310.00        0.00      0/00/00
+ 354-86-9026 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      200.00      511.00         0.00
+                          GRANGER, TX 76530                5.00   365      4/06/15          85.00        0.00                    1.00     4217.99     COLLAGENCY
+-FLORES YVETTE S          908 E BARTON AVE               254-778-1411     OK    5/30/01    4000.00     311.05     2000.00     1688.95        0.00      6/19/06
+ 453-61-7788 - 01                                                         BAD   3/01/17    1688.95     191.95        0.00      904.39     2636.34        75.00
+                          TEMPLE, TX 76501                 5.00  4018      6/19/06          43.00       10.00                   43.00     2643.51     ACTIVE
+-GAINES SANDY             1306 KILGORE                   254-235-2728     OK    1/05/92    4000.00     798.70        0.00     3201.30        0.00      5/23/06
+ 453-35-3677 - 01                                        254-339-3910     OK    3/01/17    3201.30    2352.15        0.00     1726.07     4961.37       130.00
+                          WACO, TX 76705-3414              5.00  3743      5/23/06          43.00       71.45                   34.00     4974.96     ACTIVE
+-GARCIA BELINDA           8603 NIGHTHAWK CIR             254-228-6723     OK    1/01/03    6000.00       0.00        0.00     6000.00        0.00      0/00/00
+ 466-71-4533 - 01                                                         BAD   3/01/17    6000.00       0.00        0.00     3853.13     9904.13         0.00
+                          TEMPLE, TX 76502-5244            5.00  4687     10/23/01          64.00        0.00                   51.00     9929.61     ACTIVE
+-GARRETT KATHY WILLIAMS   2405 S. 13TH STREET                             BAD   9/05/76    1537.00       0.00        0.00     1537.00        0.00      0/00/00
+ 454-06-4587 - 01                                                         BAD   3/01/17    1537.00       0.00        0.00     1828.83     3570.83         0.00
+                          TEMPLE, TX 76504                 3.00 14520      8/05/95          30.00        0.00                  205.00     3574.74     ACTIVE
+-GARZA JOE M              900 COLLEGE ST #8395           970-690-4976     OK    1/01/07   18000.00       0.00        0.00    13100.82        0.00      0/00/00
+ 462-73-4072 - 01                                                         BAD   3/01/17   18000.00       0.00        0.00     8482.18    21617.00         0.00
+                          BELTON, TX 76513                 5.00  3439      7/12/06         191.00        0.00                   34.00    26592.62     ACTIVE
+-GILLILAND VIRGIE         901 E YOUNG AVE TRLR 99                         BAD   1/05/94    1200.00     169.71        0.00     1030.29        0.00      1/07/03
+ 459-04-4941 - 01                                                         BAD   3/01/17    1030.29     430.55        0.00      744.16     1812.45        10.00
+                          TEMPLE, TX 76501-1578            5.00  5296      1/07/03          30.00       24.50                   38.00     1816.83     ACTIVE
+-GODSEY KEN               901 WATER ST APT 1                              BAD   1/05/92    3400.00       0.00        0.00     3400.00        0.00      0/00/00
+ 466-61-2815 - 01                                                         BAD   3/01/17    3400.00       0.00        0.00     3981.70     7427.70         0.00
+                          CORPUS CHRISTI, TX 78404-2300    5.00  8523      8/05/95          37.00        0.00                   46.00     7442.14     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        11
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ GOGLE ASHLEY SOPHIA      5401 WINDING BROOK DR          409-941-0724     OK    4/01/03    3713.00     137.65        0.00     3427.48        0.00      8/31/06
+ 455-81-9196 - 01                                        409-392-6902     OK    3/01/17    3575.35      77.35        0.00     1818.52     5279.00       245.00
+                          DICKINSON, TX 77539-7171         5.00  3712      8/31/06          43.00       30.00                   33.00     5442.05     ACTIVE
+-GONZALEZ SUELLEN ROCHELLE1617 CANYON CREEK DR NO 213    254-466-2407     OK    6/01/02    4000.00    3185.58        0.00      814.42        0.00      7/21/16
+  71-70-8349 - 01                                                         BAD   3/20/17     814.42    1545.42        0.00       26.55      840.97        35.75
+                          TEMPLE, TX 76502                 5.00  1198      7/21/16          43.00       26.00                    0.00      844.88     COLLAGENCY
+-GRAVES GLENDA HUBBERT    1408 W DRY ST                                   BAD   6/05/74     450.00     113.61        0.00      336.39        0.00      0/00/00
+ 449-98-4411 - 01                                                         BAD   3/01/17     336.39      66.39        0.00      408.86      948.75         0.00
+                          SAN SABA, TX 76877-5408          3.00 15251      9/05/95          30.00        0.00                  203.50      949.60     ACTIVE
+-GREER MARTA              5121 ROBERTA DRIVE                              BAD   1/05/92    4750.00     105.59        0.00     4644.41        0.00      3/09/17
+ 454-08-1680 - 01                                                         BAD   3/01/17    4644.41    3966.41        0.00     6568.71    11213.12        35.75
+                          NORTH RICHLAND, TX 76180        10.00  7946      3/09/17          51.00       12.00                    0.00    11252.56     COLLAGENCY
+-GUERRA ALFREDO           3920 SATURN ST                 972-355-3077     OK    1/05/91    2000.00     652.15        0.00     1347.85        0.00      1/07/99
+ 451-67-9185 - 01                                                         BAD   3/01/17    1347.85     330.10        0.00     1223.76     2624.61        37.50
+                          FLOWER MOUND, TX 75028           5.00  7215      1/07/99          30.00       13.50                   53.00     2630.33     ACTIVE
+-GUNNELLS DOMINIQUE       12484 ABRAMS RD APT 2404                        BAD   1/01/16    4000.00       0.00        0.00      131.26        0.00      0/00/00
+ 632-24-9693 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00       82.74      214.40         0.00
+                          DALLAS, TX 75243                 5.00   151      4/06/15         107.00        0.00                    0.40     4100.13     COLLAGENCY
+-GUNNELLS DOMINIQUE       12484 ABRAMS RD APT 2404                        BAD   1/01/16    4000.00       0.00        0.00      131.26        0.00      0/00/00
+ 632-24-9693 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00       82.74      214.40         0.00
+                          DALLAS, TX 75243                 5.00   151      4/06/15         107.00        0.00                    0.40     4100.13     COLLAGENCY
+-GUNNELLS DOMINIQUE       12484 ABRAMS RD APT 2404                        BAD   1/01/16    2000.00       0.00        0.00       65.63        0.00      0/00/00
+ 632-24-9693 - 03                                                         BAD   3/01/17    2000.00       0.00        0.00       41.37      107.20         0.00
+                          DALLAS, TX 75243                 5.00   151      4/06/15         107.00        0.00                    0.20     2050.06     COLLAGENCY
+-HARRIS REA MEADOR        123 RUBY RD                                     BAD   9/05/71     500.00       0.00        0.00      500.00        0.00      0/00/00
+         109 - 01                                                         BAD   1/01/17     500.00       0.00        0.00      603.87     1232.37         0.00
+                          HARKER HEIGHTS, TX 76541         3.00 16042      2/29/80          45.00        0.00                  128.50     1236.07     ACTIVE
+-HAWKINS CHRISTINE L      4101 WINDWOOD DR               254-690-9222     OK    9/30/98    2000.00       0.00      600.00     1400.00        0.00      0/00/00
+ 451-79-1587 - 01                                                         BAD   3/01/17    1400.00       0.00        0.00      980.96     2462.96         0.00
+                          KILLEEN, TX 76542-4577           5.00  5114      8/31/01          40.00        0.00                   82.00     2468.90     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        12
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ HAYNES KARA NICOLE       6753 DUSTY LANE                                 BAD   6/01/09    4000.00    1182.92     2800.00       17.08        0.00     12/10/14
+ 643-12-4324 - 01                                                         BAD   3/10/17      17.08     655.08        0.00        0.79       17.87        43.00
+                          TEMPLE, TX 76502                 5.00   326     12/16/14          43.00       12.00                    0.00       17.94     ACTIVE
+-HEJL JUSTIN LEE          3030 DESIRABLE CIR             979-733-7777     OK    1/01/05   12000.00   11652.17        0.00      347.83        0.00      4/12/16
+ 456-75-1430 - 01                                                         BAD   3/01/17     347.83    3195.83        0.00       15.39      366.22       128.00
+                          BRENHAM, TX 77833-4455           5.00   335      4/12/16         128.00        4.00                    3.00      367.70     COLLAGENCY
+-HERRON JOSHUA DAINE      4021 BLOCK DR NO 1175          972-255-4162     OK    1/30/99    4500.00     290.76        0.00     4209.24        0.00      8/02/00
+ 452-55-5654 - 01                                                         BAD   3/01/17    4209.24     189.24        0.00     2861.11     7163.35       486.00
+                          IRVING, TX 75038                 5.00  4961      2/25/03          48.00        6.00                   93.00     7181.22     ACTIVE
+-HOWARD SHEROONE          P.O. BOX 18                                     BAD   9/05/71    1000.00     265.25        0.00      734.75        0.00      0/00/00
+         116 - 01                                                         BAD   1/01/17     734.75      36.43        0.00      887.38     1750.63         0.00
+                          PITTSFIELD, MA 01201             3.00 16224      2/29/80          45.00        0.00                  128.50     1756.07     ACTIVE
+-HUBBARD JOYCE            821 NE 28 TH. B                                 BAD   5/05/64    1500.00     547.83        0.00      952.17        0.00      0/00/00
+         124 - 01                                                         BAD   2/01/17     952.17     342.66        0.00     1366.57     2448.99         0.00
+                          GRAND PRAIRE, TX 75050           3.00 17227      2/29/80          45.00        0.00                  130.25     2455.96     ACTIVE
+-HUGHES KELLY R           1709 W TATE ST                 254-640-1940     OK    1/30/01    9000.00       0.00     4500.00     4500.00        0.00     12/03/12
+ 464-39-8204 - 01                                                         BAD   3/01/17    4500.00     338.00        0.00     2156.71     6679.71       181.00
+                          WACO, TX 76706                   5.00  3957     12/03/12          96.00       31.00                   23.00     6698.82     ACTIVE
+-HUYNH LYNDA PHUONG       16903 WORTLEY DR               832-800-2002     OK    6/01/10    6000.00       0.00     4200.00      394.74        0.00      0/00/00
+ 462-45-4772 - 01                                        832-800-2000     OK    3/01/17    1800.00       0.00        0.00       52.28      447.86         0.00
+                          HOUSTON, TX 77084                5.00   212      4/24/15         149.00        0.00                    0.84     1860.76     COLLAGENCY
+-HUYNH LYNDA PHUONG       16903 WORTLEY DR               832-800-2002     OK    6/01/10    4000.00       0.00     2800.00      263.14        0.00      0/00/00
+ 462-45-4772 - 02                                        832-800-2000     OK    3/01/17    1200.00       0.00        0.00       34.85      298.55         0.00
+                          HOUSTON, TX 77084                5.00   212      4/24/15         149.00        0.00                    0.56     1240.51     COLLAGENCY
+-HUYNH LYNDA PHUONG       16903 WORTLEY DR               832-800-2002     OK    6/01/10    4000.00       0.00     2800.00      263.14        0.00      0/00/00
+ 462-45-4772 - 03                                        832-800-2000     OK    3/01/17    1200.00       0.00        0.00       34.85      298.55         0.00
+                          HOUSTON, TX 77084                5.00   212      4/24/15         149.00        0.00                    0.56     1240.51     COLLAGENCY
+-INGRAM CYNDI AGUILAR     524 SCARBOROUGH ST                              BAD   6/05/88    1500.00     882.22        0.00      617.78        0.00      8/10/98
+ 458-69-4413 - 01                                                         BAD   3/01/17     617.78     346.48        0.00      573.58     1235.76        42.50
+                          ROCKDALE, TX 76567-3427          5.00  6972      8/10/98          27.00       19.23                   44.40     1238.38     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        13
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ INGRAM CYNDI AGUILAR     524 SCARBOROUGH ST                              BAD   6/05/88    1000.00     588.08        0.00      411.92        0.00      8/10/98
+ 458-69-4413 - 02                                                         BAD   3/01/17     411.92     230.99        0.00      382.44      823.96        42.50
+                          ROCKDALE, TX 76567-3427          5.00  6942      8/10/98          27.00       12.82                   29.60      825.71     ACTIVE
+-IRICK LESLIE CAROL       1604 MAN O'WAR DR              254-289-5458     OK    6/01/09    4000.00       0.00     2000.00     1282.77        0.00      0/00/00
+ 460-79-2339 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      308.23     1595.00         0.00
+                          HARKER HEIGHTS, TX 76548         5.00  1127      6/25/12          43.00        0.00                    4.00     2320.72     COLLAGENCY
+-JARMA LEAH CHRISTINE     7611 VALLEY TRAILS ST          254-493-5508     OK    1/01/07   18000.00     547.36        0.00     8633.09        0.00      2/12/08
+ 458-93-1985 - 01                                                         BAD   3/01/17   17452.64     233.64        0.00     5309.91    13945.00       400.00
+                          SAN ANTONIO, TX 78250-3165       5.00  2223      3/03/10         191.00        2.00                    2.00    22838.66     COLLAGENCY
+-JOHNSON BOBBY JOHN       1115116 MESA DR APT 121        254-458-4586     OK   10/01/03    2000.00      56.79        0.00     1943.21        0.00     10/24/05
+ 243-49-1089 - 01                                                         BAD   3/01/17    1943.21     128.21        0.00      891.21     2866.42       200.00
+                          HUMBLE, TX 77396-2395            5.00  3347     12/21/05          40.00       15.00                   32.00     2874.67     ACTIVE
+-JOHNSON SHANA RENEE      402 PINE ST                                     BAD   1/30/99     950.00       0.00      285.00      665.00        0.00     11/11/10
+ 454-83-6585 - 01                                                         BAD   3/01/17     665.00      60.55        0.00      427.53     1121.53       121.55
+                          ROCKDALE, TX 76567-3110          5.00  5326     11/11/10          40.00       61.00                   29.00     1124.35     ACTIVE
+-JOHNSON SHELONDA         4316 MAYBERRY LN                                BAD   1/05/94    1905.00       0.00        0.00     1905.00        0.00     11/10/95
+ 450-65-6445 - 01                                                         BAD   3/01/17    1905.00      73.50        0.00     2054.19     4018.19        90.00
+                          FORT WORTH, TX 76123-3560        5.00  7154     11/10/95          30.00       16.50                   59.00     4026.28     ACTIVE
+-JONES OLIVIA RENNA       210 SW PECAN DR                404-292-6015     OK    1/30/00   14000.00    2121.90        0.00     8853.09        0.00      7/06/10
+ 465-59-6869 - 01                                                         BAD   3/01/17   11878.10    1201.60        0.00     4371.41    13224.50        19.25
+                          MCQUEENEY, TX 78123              5.00  2708      7/06/10         149.00        3.00                    0.00    16299.95     COLLAGENCY
+-JUSTICE STEPHANIE FARRELL901 WESTPOINT DR               254-421-1999     OK    1/01/02    2000.00       0.00        0.00      348.49        0.00      2/21/13
+ 465-71-9567 - 01                                                         BAD   3/01/17    2000.00     942.73        0.00       91.51      446.00       986.73
+                          TEMPLE, TX 76504                 5.00   335      2/26/13          40.00       44.00                    6.00     2106.00     ACTIVE
+-KIRKLAND JANICE          5206 BRYAN IRVIN RD NO 2125                     BAD   6/05/84    1200.00     851.48        0.00      348.52        0.00      4/13/00
+ 465-39-4062 - 03                                                         BAD   3/01/17     348.52     332.98        0.00      235.49      587.65        46.76
+                          FT WORTH, TX 76132               4.00  6455      4/13/00          68.59       16.48                    3.64      588.83     ACTIVE
+-KIRKLAND JANICE          5206 BRYAN IRVIN RD NO 2125                     BAD   6/05/84    3250.00    2250.62        0.00      999.38        0.00      4/13/00
+ 465-39-4062 - 04                                                         BAD   3/01/17     999.38     985.90        0.00      844.13     1853.73        46.76
+                          FT WORTH, TX 76132               5.00  6455      4/13/00          68.59       44.63                   10.22     1857.97     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        14
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ LANOUX DEIRDRE           313 BRIAR PARK DRIVE           512-799-4329     OK    1/01/14    2750.00     417.94        0.00      445.42        0.00     10/31/15
+ 433-49-8210 - 01                                                         BAD   3/01/17    2332.06     141.06        0.00      155.58      603.00       200.00
+                          GEORGETOWN, TX 78626             5.00   487     10/31/15          40.00        2.00                    2.00     2499.54     COLLAGENCY
+-LEE KAY S                P O BOX 806                                     BAD   5/05/79     600.00       0.00        0.00      600.00        0.00      3/31/89
+ 467-02-9188 - 01                                                         BAD   3/01/17     600.00      34.85        0.00      634.19     1248.19        34.85
+                          BROKEN BOW, OK 74728             3.00 13214      5/05/95          30.00        0.00                   14.00     1249.72     ACTIVE
+-LOCKWOOD EDWARD J        2931 DONNELL DR                678-576-0170     OK    9/01/08    8000.00       0.00        0.00     4605.62        0.00      0/00/00
+ 114-72-1707 - 01                                                         BAD   3/01/17    8000.00       0.00        0.00     3044.38     7682.00         0.00
+                          ROUND ROCK, TX 78664-5707        5.00  2526      6/10/10          85.00        0.00                   32.00    11110.36     ACTIVE
+-LONDON CHARLOTTE         7404 S. ABERDEEN                                BAD  12/05/71     500.00       0.00        0.00      500.00        0.00      0/00/00
+         130 - 01                                                         BAD   2/01/17     500.00       0.00        0.00      601.40     1231.65         0.00
+                          CHICAGO, IL 60621                3.00 16073      2/29/80          45.00        0.00                  130.25     1235.30     ACTIVE
+-LOPEZ ANGELICA           124 EAST 12TH AVE              254-933-7208     OK    8/01/09    4000.00     406.91        0.00     1870.99        0.00      2/09/12
+ 643-12-0538 - 01                                                         BAD   3/01/17    3593.09     274.59        0.00      973.51     2858.50        38.50
+                          BELTON, TX 76513                 5.00  2039      2/09/12          43.00        9.00                   14.00     4595.85     ACTIVE
+-LUTTRELL MICHAEL A       14447 STILL MEADOW                              BAD   6/01/08    4000.00       0.00        0.00     2526.37        0.00      0/00/00
+ 594-74-9914 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     1601.63     4160.00         0.00
+                          HOUSTON, TX 77079                5.00  2922      1/15/08          43.00        0.00                   32.00     5650.62     ACTIVE
+-MALDONADO KEISHLA MARIE  1720 WELLS BRANCH PKWY         407-493-4777     OK    1/01/14    2000.00     127.40        0.00      804.02        0.00      1/27/15
+ 598-24-0931 - 01         APT 2310                                        BAD   3/01/17    1872.60      32.60        0.00      195.98     1002.00       160.00
+                          AUSTIN, TX 78728                 5.00   762      1/27/15          40.00        0.00                    2.00     2078.54     COLLAGENCY
+-MALONE BETTY             803 S. 36TH STREET                              BAD   9/05/74     200.00     103.14        0.00       96.86        0.00      4/25/95
+         164 - 01                                                         BAD   2/01/17      96.86      87.86        0.00       63.50      233.86       100.00
+                          TEMPLE, TX 76501                 3.00 14702      4/25/95          90.00       59.00                   73.50      234.57     ACTIVE
+-MARSHALL SHANNON DENNIS  2520 N MAIN ST                                  BAD   1/05/91    2500.00     820.33        0.00     1679.67        0.00      9/10/03
+ 488-66-4679 - 01                                                         BAD   3/01/17    1679.67     855.66        0.00     1132.51     2826.18        20.25
+                          BELTON, TX 76513-1520            5.00  6850      9/10/03          30.00       18.00                   14.00     2833.31     ACTIVE
+-MARTIN CLIFTON WILEY     417 CHINABERRY TRL                              BAD   6/01/10    4000.00       0.00        0.00     1023.31        0.00      0/00/00
+ 449-73-4347 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      653.69     1679.00         0.00
+                          FORNEY, TX 75126-6938            5.00  1186      1/16/09          43.00        0.00                    2.00     4672.68     COLLAGENCY
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        15
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ MASON CHERYL D           129 HURST CIR                                   BAD   6/05/83     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 215-76-4251 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      463.79      997.79         0.00
+                          FERRIS, TX 75125                 3.00 11289      5/05/96          30.00        0.00                   34.00      999.07     ACTIVE
+-MCCONICO ADRIENE ADAMS   601 COUNTY ROAD 605A UNIT 1                     BAD   8/05/78    1500.00      85.39      225.00     1189.61        0.00      4/06/87
+ 248-17-7893 - 01                                                         BAD   3/01/17    1189.61     145.86       45.00     1064.45     2297.06       156.25
+                          CLEBURNE, TX 76031-8988          3.00 12019      7/05/89          30.00        0.00                   43.00     2300.10     ACTIVE
+-MCCORMICK JOSHUA         RR 3 BOX 44                                     BAD   1/05/93     525.00     130.02        0.00      394.98        0.00     10/31/95
+ 454-43-7614 - 01                                                         BAD   3/01/17     394.98      52.24        0.00      421.58      862.56       131.76
+                          WEIMAR, TX 78962                 5.00  8311     10/31/95          30.00       14.00                   46.00      864.23     ACTIVE
+-MCDANIEL JEREMY SHAWN    P O BOX 8211                   254-859-3368     OK    1/01/02    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 455-85-0858 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1442.73     3476.73         0.00
+                          WACO, TX 76714-8211              5.00  5265      8/29/01          40.00        0.00                   34.00     3485.22     ACTIVE
+-MCKINNEY DANIELE LEQUOYA 1305 TIMBERLINE                817-799-2813     OK    1/30/98    3000.00       0.00        0.00     3000.00        0.00      0/00/00
+ 453-43-5503 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00     2764.48     5813.48         0.00
+                          WACO, TX 76705                   5.00  6728      2/18/97          40.00        0.00                   49.00     5826.22     ACTIVE
+-MILES CHRISTOPHER LEE    13920 MANDOLIN DRIVE, APT 2432 254-405-2766     BAD   6/01/12    5000.00     192.03        0.00      416.51        0.00      6/03/16
+ 637-24-6069 - 01                                                         BAD   3/01/17    4807.97     184.97        0.00      178.49      597.00        54.00
+                          HOUSTON, TX 77070                5.00   335      6/03/16          54.00        3.00                    2.00     5008.88     COLLAGENCY
+-MINYARD RICHARD TYLER    406 O'CAMPO CT                                  BAD   1/01/09    4000.00     388.70        0.00     2041.80        0.00      7/25/11
+ 440-98-8615 - 01                                                         BAD   3/01/17    3611.30     354.49        0.00     1012.64     3054.44        38.50
+                          WACO, TX 76708                   5.00  2192      7/25/11          64.00        1.32                    0.00     4639.28     COLLAGENCY
+-MINYARD RICHARD TYLER    406 O'CAMPO CT                                  BAD   1/01/09    2000.00     194.08        0.00     1020.65        0.00      7/25/11
+ 440-98-8615 - 02                                                         BAD   3/01/17    1805.92     177.25        0.00      506.39     1527.04        38.50
+                          WACO, TX 76708                   5.00  2192      7/25/11          64.00        0.66                    0.00     2319.98     COLLAGENCY
+-MITCHELL DEBORAH         PO BOX 518                     505-885-1189     OK    1/05/91     750.00       0.00        0.00      750.00        0.00      0/00/00
+ 585-29-3836 - 01                                                         BAD   3/01/17     750.00       0.00        0.00      949.88     1746.88         0.00
+                          CARLSBAD, NM 88221-0518          5.00  9224     12/05/94          30.00        0.00                   47.00     1750.07     ACTIVE
+-MOORE REBECCA JO ANN     P O BOX 1015                   512-635-4276     OK    8/30/01    3000.00      42.50        0.00     2957.50        0.00      2/26/08
+ 459-15-2673 - 01                                                         BAD   3/01/17    2957.50     205.50        0.00     1977.80     4964.30        35.00
+                          GEORGETOWN, TX 78627             5.00  5204      2/26/08          40.00       58.00                   29.00     4976.86     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        16
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ NEAL ROSIE               C/O CAROLYN ARNOLD                              BAD   1/05/84    1950.00       0.00        0.00     1950.00        0.00      0/00/00
+ 515-07-6243 - 01         UMHB STATION BOX 8003                           BAD   3/01/17    1950.00       0.00        0.00     3185.32     5241.32         0.00
+                          BELTON, TX 76513                 5.00 11958      6/26/95          30.00        0.00                  106.00     5249.60     ACTIVE
+-NEASE CHRISTEN           1473 HAMPTON RD                                 BAD   6/01/14    5000.00       0.00        0.00      432.14        0.00      0/00/00
+ 644-22-5279 - 01                                                         BAD   3/01/17    5000.00       0.00        0.00      269.86      704.00         0.00
+                          GRAPEVINE, TX 76051              5.00   396      2/24/15          54.00        0.00                    2.00     5293.10     COLLAGENCY
+-O'BRIEN LISA MICHELLE    1810 VALLEY OAKS DR                             BAD   9/01/02    8000.00       0.00        0.00     8000.00        0.00      9/14/04
+ 466-85-6749 - 01                                                         BAD   3/01/17    8000.00     360.87        0.00     5143.79    13157.79       227.87
+                          HARKER HEIGHTS, TX 76548-8750    5.00  4900      9/14/04          85.00       12.00                   14.00    13191.76     ACTIVE
+-OH SUNG HEE              8289 SANDS POINT DR            713-778-9941     OK    6/05/85    2000.00     326.39        0.00     1673.61        0.00      8/13/96
+ 461-15-1881 - 01                                                         BAD   3/01/17    1673.61     242.11        0.00     1742.76     3430.37       112.50
+                          HOUSTON, TX 77036-2756           5.00  7154      8/13/96          30.00       38.50                   14.00     3437.48     ACTIVE
+-ONEAL SR FRANK           1605 SELENE                    817-625-1703     OK    5/05/83     400.00     199.45        0.00      200.55        0.00      2/05/90
+ 458-21-5614 - 01                                                         BAD   3/01/17     200.55      48.05        0.00      161.89      376.44        37.50
+                          FT WORTH, TX 76106-3935          3.00 12028     12/05/94          30.00        0.00                   14.00      376.95     ACTIVE
+-ORISAKWE DAMIAN EDWARD   501 PORT ARTHUR                                 BAD   1/01/13    2000.00       0.00        0.00      886.30        0.00      0/00/00
+ 491-98-0017 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      233.70     1122.00         0.00
+                          LITTLE ELM, TX 75068             5.00   852      2/10/14          40.00        0.00                    2.00     2244.19     COLLAGENCY
+-PARSONS JENNIFER LYNN    4205 OVERLOOK DR               512-966-2306     OK    6/01/04    4000.00       0.00        0.00     2786.13        0.00      0/00/00
+ 461-85-9536 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     1900.87     4724.00         0.00
+                          WACO, TX 76708                   5.00  3318      1/25/07          43.00        0.00                   37.00     5954.86     ACTIVE
+-PARTEN JAMES DELLIS      151 REGAL DR APT 19                             BAD   6/01/06   12174.00    9239.38        0.00     2934.62        0.00      1/08/14
+ 637-10-8299 - 01                                                         BAD   3/01/17    2934.62    2650.62        0.00      461.91     3398.53       130.00
+                          HEWITT, TX 76643-2961            5.00   852      1/08/14         130.00        0.00                    2.00     3410.99     COLLAGENCY
+-PATTERSON NATHANIEL TRACY1003 EAGLES WAY                512-259-5214     OK    1/30/99    1500.00     373.72        0.00     1126.28        0.00      9/22/00
+ 632-07-9145 - 01                                                         BAD   3/01/17    1126.28      65.28        0.00      926.31     2075.59        41.00
+                          LEANDER, TX 78641-8742           5.00  6027      9/22/00          40.00        6.00                   23.00     2080.38     ACTIVE
+-PINEIRO MARIA            CMR 421 BOX 69                                  BAD   6/05/82    1700.00       0.00        0.00     1700.00        0.00     11/05/89
+ 454-15-1897 - 01                                                         BAD   3/01/17    1700.00      12.06        0.00     1844.18     3557.14        66.67
+                          APO, AE 09056                    3.00 12425     12/05/94          30.00       36.17                   12.96     3561.48     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        17
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ PINEIRO MARIA            CMR 421 BOX 69                                  BAD   6/05/82     650.00       0.00        0.00      650.00        0.00     11/05/89
+ 454-15-1897 - 02                                                         BAD   3/01/17     650.00       4.61        0.00      986.83     1641.69        66.67
+                          APO, AE 09056                    5.00 12425     12/05/94          30.00       13.83                    4.86     1644.45     ACTIVE
+-PRESLEY AARON LEE        202 WOODBRIDGE BLVD APT 222    254-913-4399     OK    6/01/03    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 460-71-8950 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1058.60     3110.60         0.00
+                          TEMPLE, TX 76504-2124            5.00  3713      5/02/12          40.00        0.00                   52.00     3119.09     ACTIVE
+-PRUITT MICHELE ANN       1208 URBANTKE CT APT 7                          BAD   1/01/14    2000.00       0.00        0.00      376.65        0.00      0/00/00
+ 404-15-6568 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      241.92      618.90         0.00
+                          COPPERAS COVE, TX 76522-3489     5.00   882      1/19/10          64.00        0.00                    0.33     2250.74     COLLAGENCY
+-PRUITT MICHELE ANN       1208 URBANTKE CT APT 7                          BAD   1/01/14    4000.00       0.00        0.00      753.60        0.00      0/00/00
+ 404-15-6568 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      483.83     1238.09         0.00
+                          COPPERAS COVE, TX 76522-3489     5.00   882      1/19/10          64.00        0.00                    0.66     4501.48     COLLAGENCY
+-PULLEN TERRY GENE        646 JL BRAZZIL LP                               BAD   6/01/11    1193.00     393.24        0.00      799.76        0.00      3/10/17
+ 467-93-0235 - 01                                                         BAD   3/10/17     799.76     293.76        0.00        0.01      799.77        50.00
+                          WACO, TX 76705                   5.00  1308      3/09/17          40.00       13.00                    0.00      803.28     ACTIVE
+-RICE JAKE ROBERT         8600 BRODIE LANE NO 711        512-644-5878     OK    6/01/06    4000.00    1957.33        0.00     1179.17        0.00      9/11/14
+ 414-63-7903 - 01                                                         BAD   3/01/17    2042.67    1322.73        0.00      227.77     1406.94      3283.06
+                          AUSTIN, TX 78745                 5.00   885      9/11/14          43.00        3.00                    0.00     2270.44     HOLDING TE
+-RIDLEY PATRICK JOHN      7814 REDBRUSH                  254-913-7737     OK    1/01/07    1020.00       0.00      510.00      510.00        0.00      0/00/00
+ 453-87-7932 - 01                                                         BAD   3/01/17     510.00       0.00        0.00      123.94      650.94         0.00
+                          TEMPLE, TX 76502-5519            5.00  1765      4/23/12          40.00        0.00                   17.00      653.10     ACTIVE
+-ROSE REBECCA S           800 MOUNTAIN VIEW                               BAD   1/01/07    2000.00     351.99        0.00     1648.01        0.00     11/22/10
+ 458-91-8775 - 01                                                         BAD   3/01/17    1648.01     308.01        0.00      517.43     2165.44        35.00
+                          PFLUGERVILLE, TX 78660           5.00  2953     11/22/10          40.00        5.00                    0.00     2172.44     COLLAGENCY
+-ROWLAND MARC             6915 DEER RIDGE LN                              BAD   6/05/85    4000.00    3019.07        0.00      980.93        0.00     12/11/01
+ 452-88-9911 - 01                                                         BAD   3/01/17     980.93    1873.93        0.00     1041.61     2036.54        18.75
+                          HOUSTON, TX 77086                5.00 11166     12/11/01          43.00       72.00                   14.00     2040.71     ACTIVE
+-RUSSELL DONNA MARIE      771 BENCHMARK TR                                BAD   3/01/12    4000.00       0.00        0.00     1013.31        0.00      0/00/00
+ 466-39-1255 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      655.89     1670.00         0.00
+                          BELTON, TX 76513                 5.00  1186      1/18/11         107.00        0.00                    0.80     4673.67     COLLAGENCY
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        18
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ RUSSELL DONNA MARIE      771 BENCHMARK TR                                BAD   3/01/12    4000.00       0.00        0.00     1013.31        0.00      0/00/00
+ 466-39-1255 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      655.89     1670.00         0.00
+                          BELTON, TX 76513                 5.00  1186      1/18/11         107.00        0.00                    0.80     4673.67     COLLAGENCY
+-RUSSELL DONNA MARIE      771 BENCHMARK TR                                BAD   3/01/12    2000.00       0.00        0.00      506.66        0.00      0/00/00
+ 466-39-1255 - 03                                                         BAD   3/01/17    2000.00       0.00        0.00      327.94      835.00         0.00
+                          BELTON, TX 76513                 5.00  1186      1/18/11         107.00        0.00                    0.40     2336.84     COLLAGENCY
+-SALVATO MARY             2210 KIPLING F                                  BAD   8/05/68    2050.00     693.90        0.00     1356.10        0.00      0/00/00
+         147 - 01                                                         BAD   3/01/17    1356.10     176.91        0.00     1522.39     3008.43         0.00
+                          HOUSTON, TX 76112                3.00 14855      1/05/95          59.51        0.00                  129.94     3018.68     ACTIVE
+-SANCHEZ LETICIA RODRIGUE 2305 ISIAH ST                  956-383-5065     OK    1/05/84     450.00       0.12      315.00      134.88        0.00     11/30/88
+ 449-47-1134 - 01                                                         BAD   3/01/17     134.88       1.88       68.59      151.74      367.62         2.00
+                          EDINBURG, TX 78542-3878          5.00  7032      8/05/95          30.00        2.00                   81.00      368.19     ACTIVE
+-SCHULZ GREG              2005 SKYLARK DR                                 BAD   6/05/93    6600.00    1318.84        0.00     5281.16        0.00     10/23/97
+ 458-69-3881 - 01                                                         BAD   3/01/17    5281.16     947.67        0.00     5114.00    10451.16       100.00
+                          WACO, TX 76712-8604              5.00  7093     10/23/97          70.00       28.50                   56.00    10473.59     ACTIVE
+-SCOTT-HILL PATRICIA JEAN 409 E WALKER AVE               254-742-1935     OK   10/01/03    4000.00    3889.87        0.00      109.88        0.00      3/13/17
+ 462-94-8323 - 01                                                         BAD   3/01/17     110.13    1056.13        0.00        0.00      110.88        45.00
+                          TEMPLE, TX 76501                 5.00   121      3/13/17          43.00       18.00                    1.00      111.42     ACTIVE
+-SHIREL DONALD DWIGHT     6702 NOTRE DAME DR                              BAD   9/30/97    3000.00       0.00        0.00     3000.00        0.00      0/00/00
+ 407-15-3022 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00     2815.45     5845.45         0.00
+                          AUSTIN, TX 78733                 5.00  6850      2/07/97          40.00        0.00                   30.00     5858.19     ACTIVE
+-SMITH LORETTA            11991 AUDELIA RD *216                           BAD   6/05/79    3200.00    3078.11        0.00      121.89        0.00      7/30/97
+ 459-92-4092 - 01                                                         BAD   3/01/17     121.89     780.95        0.00       71.94      207.83         2.00
+                          DALLAS, TX 75243                 3.00  9652      7/30/97          31.00       47.00                   14.00      208.14     ACTIVE
+-SOCKWELL JAMES L         218 MEMORY LANE                                 BAD   6/01/12    2000.00       0.00        0.00      182.18        0.00      0/00/00
+ 641-12-5044 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      116.44      299.28         0.00
+                          HARKER HEIGHTS, TX 76548         5.00   425      6/29/15          64.00        0.00                    0.66     2125.60     COLLAGENCY
+-SOCKWELL JAMES L         218 MEMORY LANE                                 BAD   6/01/12    4000.00       0.00        0.00      364.50        0.00      0/00/00
+ 641-12-5044 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      232.88      598.70         0.00
+                          HARKER HEIGHTS, TX 76548         5.00   425      6/29/15          64.00        0.00                    1.32     4251.18     COLLAGENCY
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        19
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SOTIROPOULOS PATROULA KAT5054 BAYOU VISTA DR                             BAD   6/01/10    5000.00    1634.83        0.00      151.96        0.00     12/10/14
+ 462-93-6884 - 01                                                         BAD   3/01/17    3365.17     240.05        0.00      383.08      233.12       830.94
+                          HOUSTON, TX 77091                5.00   151     12/10/14          54.00        4.00                    2.00     3764.54     ACTIVE
+-STEPHENS STACIE RENEE    1304 WIDE ANTLER COVE                           BAD   1/01/12    4000.00       0.00        0.00      805.51        0.00      0/00/00
+ 644-05-1904 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      517.26     1322.77         0.00
+                          CEDAR PARK, TX 78613             5.00   943     10/22/13         128.00        0.00                    0.00     4534.24     COLLAGENCY
+-STEPHENS STACIE RENEE    1304 WIDE ANTLER COVE                           BAD   1/01/12    4000.00       0.00        0.00      805.51        0.00      0/00/00
+ 644-05-1904 - 02                                                         BAD   3/01/17    4000.00       0.00        0.00      517.26     1322.77         0.00
+                          CEDAR PARK, TX 78613             5.00   943     10/22/13         128.00        0.00                    0.00     4534.24     COLLAGENCY
+-STEPHENS STACIE RENEE    1304 WIDE ANTLER COVE                           BAD   1/01/12    4000.00       0.00        0.00      805.51        0.00      0/00/00
+ 644-05-1904 - 03                                                         BAD   3/01/17    4000.00       0.00        0.00      517.26     1322.77         0.00
+                          CEDAR PARK, TX 78613             5.00   943     10/22/13         128.00        0.00                    0.00     4534.24     COLLAGENCY
+-STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    4000.00     396.83        0.00       60.58        0.00     10/16/16
+ 643-24-7762 - 02                                                         BAD   3/01/17    3603.17     198.64        0.00       67.13      128.09       218.00
+                          FT WORTH, TX 76133               5.00   121     10/16/16         218.00        0.00                    0.38     3685.98     ACTIVE
+-STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    4000.00     396.83        0.00       60.58        0.00     10/16/16
+ 643-24-7762 - 03                                                         BAD   3/01/17    3603.17     198.64        0.00       67.13      128.09       218.00
+                          FT WORTH, TX 76133               5.00   121     10/16/16         218.00        0.00                    0.38     3685.98     ACTIVE
+-STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    4000.00     396.83        0.00       60.58        0.00     10/16/16
+ 643-24-7762 - 04                                                         BAD   3/01/17    3603.17     198.64        0.00       67.13      128.09       218.00
+                          FT WORTH, TX 76133               5.00   121     10/16/16         218.00        0.00                    0.38     3685.98     ACTIVE
+-STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    4000.00     396.83        0.00       60.58        0.00     10/16/16
+ 643-24-7762 - 05                                                         BAD   3/01/17    3603.17     198.64        0.00       67.13      128.09       218.00
+                          FT WORTH, TX 76133               5.00   121     10/16/16         218.00        0.00                    0.38     3685.98     ACTIVE
+-STEWARD KOREY ANTWONE    6620 ARMANDO AVE                                BAD   1/01/15    2500.00     248.00        0.00       37.92        0.00     10/16/16
+ 643-24-7762 - 06                                                         BAD   3/01/17    2252.00     124.15        0.00       41.96       79.88       218.00
+                          FT WORTH, TX 76133               5.00   121     10/16/16         218.00        0.00                    0.00     2303.52     ACTIVE
+-STROUPE MYRON            118 COLONEL DR                 214-577-3929     OK    6/01/04    1000.00       0.00      700.00      300.00        0.00      0/00/00
+ 458-11-3741 - 01                                                         BAD   3/01/17     300.00       0.00        0.00       12.50      314.50         0.00
+                          GARLAND, TX 75043-2347           5.00   304      7/22/15          40.00        0.00                    2.00      315.78     COLLAGENCY
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        20
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ TALBERT EMILY ANNE       621 BOSQUE BEND LN             254-855-5656     OK    6/01/08    4000.00      16.15        0.00     1593.86        0.00      3/21/12
+ 645-26-4932 - 01                                                         BAD   3/01/17    3983.85      26.85        0.00      986.14     2597.00        43.00
+                          CHINA SPRING, TX 76633-2901      5.00  1826      3/21/12          43.00        0.00                   17.00     5003.91     ACTIVE
+-TEEGARDIN THERESIA YOUNG RR 2 BOX 24-1                                   BAD   6/05/91    2000.00      75.08        0.00     1924.92        0.00     11/22/10
+ 450-59-7729 - 01                                                         BAD   3/01/17    1924.92     506.92        0.00     1396.44     3321.36         3.50
+                          KILLEEN, TX 76542-9802           5.00  6789     11/22/10          30.00       26.00                    0.00     3329.53     COLLAGENCY
+-THEODORE JAMES CHRISTOPHE3524 CRIPPLE CREEK TRL         214-850-1127     OK    1/01/05     184.00      34.83        0.00      149.17        0.00      2/13/08
+ 638-07-1134 - 01                                                         BAD   3/01/17     149.17      10.68        0.00       67.54      219.35       324.95
+                          ROANOKE, TX 76262                5.00  3318      2/13/08          40.00        6.40                    2.64      219.98     ACTIVE
+-THEODORE JAMES CHRISTOPHE3524 CRIPPLE CREEK TRL         214-850-1127     OK    5/01/06    2000.00     224.46        0.00     1775.54        0.00      2/13/08
+ 638-07-1134 - 02                                                         BAD   3/01/17    1775.54      69.03        0.00      803.86     2609.43       324.95
+                          ROANOKE, TX 76262                5.00  3318      2/13/08          40.00        4.55                   30.03     2616.97     ACTIVE
+-TILMAN COURTNEY TREVON   311 WHITE OAK                                   BAD   6/01/08    4000.00       0.00        0.00     2238.01        0.00      0/00/00
+ 628-07-3157 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     1416.99     3687.00         0.00
+                          DIBOLL, TX 75941                 5.00  2588      7/21/09          43.00        0.00                   32.00     5465.97     ACTIVE
+-TORRES MARISOL CRYSTAL   316 BIRCHWOOD CIR              512-392-1680     OK    1/01/03    4000.00       0.00        0.00     3922.08        0.00      0/00/00
+ 467-61-3353 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00     2484.92     6467.00         0.00
+                          MESQUITE, TX 75149-4746          5.00  4534     10/31/03          43.00        0.00                   60.00     6561.91     ACTIVE
+-TURNER BONNIE            1103 MAIN ST                                    BAD   6/05/86    1500.00       0.00        0.00     1500.00        0.00      5/09/96
+ 466-72-3746 - 01                                                         BAD   3/01/17    1500.00     228.34        0.00     2021.97     3535.97        26.67
+                          HONEY GROVE, TX 75446-1611       5.00 10776      5/09/96          30.00       25.00                   14.00     3542.34     ACTIVE
+-TURNER PHILLIP DONNELL   1424 ALSTON DR                                  BAD   1/01/08    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 606-46-8889 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      650.41     2682.41         0.00
+                          WACO, TX 76705                   5.00  2374     11/11/09          40.00        0.00                   32.00     2690.90     ACTIVE
+-TURRUBIARTES ANTONIO BARR205 HILLCREST STREET                            BAD   6/01/11    5500.00       0.00        0.00      649.88        0.00      0/00/00
+ 631-30-2305 - 01                                                         BAD   3/01/17    5500.00       0.00        0.00      412.12     1065.00         0.00
+                          HICO, TX 76457-6139              5.00   548      1/05/15          59.00        0.00                    3.00     5938.48     COLLAGENCY
+-VANCE JR CAROL           111 W VARDEMAN                                  BAD   6/05/79    1160.00     498.25        0.00      661.75        0.00      7/28/81
+ 463-23-2868 - 01                                                         BAD   3/01/17     661.75      41.75        0.00      705.79     1381.54        60.00
+                          KILLEEN TEX, AS 76541            3.00 12992      7/05/89          30.00        0.00                   14.00     1383.22     ACTIVE
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        21
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ VERA HUGO ALBERTO        1405 APPLE LANE NO 13                           BAD   6/05/91    2972.00     176.26        0.00     2795.74        0.00      1/22/99
+ 464-49-8977 - 01                                                         BAD   3/01/17    2795.74     133.94        0.00     1783.51     4662.25       330.00
+                          LAWRENCE, KS 66049               5.00  4657     12/02/03          32.00       23.80                   83.00     4674.12     ACTIVE
+-WARRICK CLINTON TY       6352 JUPITER                   254-760-2568     OK    6/01/02    8000.00     196.69        0.00     7712.55        0.00      7/10/03
+ 456-39-0536 - 01                                                         BAD   3/01/17    7803.31     142.31        0.00     4782.45    12563.00        85.00
+                          TEMPLE, TX 76502-6064            5.00  4473      6/08/04          85.00        3.00                   68.00    12686.90     ACTIVE
+-WELLS DALE               2003 S DELAWARE ST                              BAD   6/05/80    2500.00     630.33        0.00     1869.67        0.00      7/29/96
+ 463-19-0299 - 01                                                         BAD   3/01/17    1869.67     286.87        0.00     1531.34     3437.01       154.20
+                          CLARKSVILLE, TN 75426-4840       3.00 10746      7/29/96          30.00       17.00                   36.00     3441.77     ACTIVE
+-WILLIAMS NINA CHRISTINE  RR 1 BOX 222                                    BAD   1/30/97    1500.00      61.41        0.00     1438.59        0.00     12/31/97
+ 458-49-8817 - 01                                                         BAD   3/01/17    1438.59      18.59        0.00     1379.46     2840.05        40.00
+                          CHIRENO, TX 75937-9706           5.00  7032     12/31/97          40.00        0.00                   22.00     2846.16     ACTIVE
+-YORK ANN                 205 CHESTNUT                                    BAD   9/05/71     924.00       0.00        0.00      924.00        0.00      0/00/00
+         273 - 01                                                         BAD   2/01/17     924.00       0.00        0.00     1118.29     2172.54         0.00
+                          WITSBORO, TX 76273               3.00 16284      7/05/89          45.00        0.00                  130.25     2179.31     ACTIVE
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                      531301.00
+                                                             Loan Balance:                     407426.68
+0                                                            Principal Past Due:               263229.45
+                                                             Interest Past Due:                191624.69
+                                                             Late Chg/Penalty Due:               4730.72
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                        459584.86
+0                                                            Number Past Due:                        132
+1
+-
+0   5041-UNIVERSITY OF MARY HARDIN-BAYLOR                                 EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        22
+-                                                                      ====== AGING SUMMARY TOTALS ======
+0         Status          Count        Orig-Principal  Principal-Bal Principal-Due   Interest-Due    Late-Charges  Collection fees  Litigation fees    Total-Due
+          ------          -----        --------------  ------------- --------------  -------------   ------------  ---------------  ---------------    ----------
+0         Paid-in-full    1,962        11,030,791.33            .00            .00            .00            .00              .00              .00           .00
+          Enrolled           31           142,750.00     142,750.00            .00            .00            .00              .00              .00           .00
+          Grace               8            73,000.00      57,085.96            .00            .00            .00              .00              .00           .00
+          Deferred           26           294,750.00     184,319.03            .00            .00            .00              .00              .00           .00
+          PostDefer           7            99,000.00      57,737.50            .00            .00            .00              .00              .00           .00
+          < 10 Days          41           353,190.00     157,877.36            .00            .00            .00              .00              .00           .00
+          -- Subtotal     2,075        11,993,481.33     599,769.85            .00            .00            .00              .00              .00           .00
+0         10-29 Days          0                  .00            .00            .00            .00            .00              .00              .00           .00
+          30-59 Days          4            45,847.00      26,356.70         468.29         105.72           3.99              .00              .00        578.00
+          60-89 Days          0                  .00            .00            .00            .00            .00              .00              .00           .00
+          90-119 Days         1             2,000.00       1,801.11          29.84          33.56            .18              .00              .00         63.58
+          120+ Days         132           531,301.00     407,426.68     263,229.45     191,624.69       4,730.72              .00              .00    459,584.86
+0         -- Subtotal       137           579,148.00     435,584.49     263,727.58     191,763.97       4,734.89              .00              .00    460,226.44
+          ** Totals       2,212        12,572,629.33   1,035,354.34     263,727.58     191,763.97       4,734.89              .00              .00    460,226.44
+                                                                             *** End of Report ***

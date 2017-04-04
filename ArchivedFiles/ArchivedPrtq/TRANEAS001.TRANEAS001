@@ -1,0 +1,58 @@
+1
+-
+0   3415                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  EASTERN OKLAHOMA STATE COLLEGE                                                                                                             RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 WOOD BRENT           311 ADJ COLFEE HOLDING       198701                                                                              1,816.15
+    440-62-1559 - 01 06     3/24/17    3/24/17 I         1       23.00                                     23.00                        1,816.15
+                       915 AGCYCLIENT HOLDING       198701                                                                              1,893.15
+                - 01 06     3/24/17    3/24/17 I         2      100.00-    77.00-                          23.00-                       1,816.15
+1
+-
+0   3415                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  EASTERN OKLAHOMA STATE COLLEGE                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 311 - Adjust Collection Fees Due          1                                                 23.00                       23.00
+  915 - CollAgcy payment recvd-CLIENT       1            77.00-                               23.00-                     100.00-
+0       ** TOTALS                           2            77.00-                                                           77.00-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   3415                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  EASTERN OKLAHOMA STATE COLLEGE                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     1,790        3,025,679.22         2,075,215.45-        426,085.18-       507,951.74-        16,426.85
+  NEW LOANS/ADVANCES
+  COLLECTIONS             1                                    77.00-                                                 77.00-
+  CANCELLATIONS
+  ADJUSTMENTS             1
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE     1,790        3,025,679.22         2,075,292.45-        426,085.18-       507,951.74-        16,349.85
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               2,075,215.45       289,788.32        11,804.02         2,276.08                      2,379,083.87
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS                    77.00                                              23.00                            100.00
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE               2,075,292.45       289,788.32        11,804.02         2,299.08                      2,379,183.87

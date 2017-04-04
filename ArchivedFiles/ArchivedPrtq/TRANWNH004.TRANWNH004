@@ -1,0 +1,81 @@
+1
+-
+0  12035                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WILLISTON NORTHAMPTON SCHOOL                                                                                                               RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 ADAMS CONNOR DOANE   901 PYMT-ACH   ACTIVE        198689                                                                              2,623.94
+    800-00-0389 - 01 04     3/20/17    3/16/17 A        10       57.00-    48.41-     8.59-                                             2,575.53
+0 ANGELO PHILLIP R.    900 PYMT-EDSI  ACTIVE        198659                                                                              2,705.75
+    800-00-0411 - 01 04     3/09/17    3/09/17 E         5      133.00-   118.81-    14.19-                                             2,586.94
+0 APTOWITZ LAURA E.    903 PAYMENTWEB INTRONLY  1170863856                                                                              1,730.72
+    800-00-0412 - 01 04     3/27/17    3/27/17 W         1       10.00-     2.92-     7.08-                                             1,727.80
+0 BELKIN-SESSLER SOFIE 901 PYMT-ACH   ACTIVE        198666                                                                                978.82
+    800-00-0398 - 01 04     3/10/17    3/09/17 A        47       38.33-    34.39-     3.94-                                               944.43
+0 COACHMAN JUSTIN DAVI 901 PYMT-ACH   ACTIVE        198666                                                                              1,130.43
+    800-00-0399 - 01 04     3/10/17    3/09/17 A        17       57.00-    52.46-     4.54-                                             1,077.97
+                        61 15DAYPAST  ACTIVE                                                                                            1,077.97 OLD:      00031
+                - 01 04     3/11/17    0/00/00 S                                                                                        1,077.97 NEW:
+0 GAWRON BAILEY R.     901 PYMT-ACH   INTRONLY      198689                                                                              2,577.80
+    800-00-0429 - 01 04     3/20/17    3/16/17 A        22       25.00-    16.56-     8.44-                                             2,561.24
+0 GREENWOOD DEVON      901 PYMT-ACH   ACTIVE        198666                                                                              1,664.71
+    800-00-0418 - 01 04     3/10/17    3/09/17 A        10       38.00-    31.31-     6.69-                                             1,633.40
+0 IDI NICHOLAS A.      900 PYMT-EDSI  ACTIVE        198673                                                                                479.20
+    800-00-0421 - 01 04     3/13/17    3/13/17 E         2       58.00-    57.16-      .84-                                               422.04
+0 LOWNEY SEAN CHESTER  901 PYMT-ACH   ACTIVE        198689                                                                              1,439.02
+    800-00-0391 - 01 04     3/20/17    3/16/17 A       128       57.00-    52.29-     4.71-                                             1,386.73
+0 RICHARDS MEAGHAN     901 PYMT-ACH   ACTIVE        198689                                                                                130.13
+    800-00-0365 - 01 04     3/20/17    3/16/17 A        27       58.00-    57.57-      .43-                                                72.56
+0 WILKIE RYAN PATRICK  901 PYMT-ACH   INTRONLY      198666                                                                              4,936.13
+    800-00-0408 - 01 04     3/10/17    3/09/17 A        76       20.65-      .10-    20.55-                                             4,936.03
+0 WILKIE SARAH KRISTIN 901 PYMT-ACH   ACTIVE        198689                                                                              5,169.75
+    800-00-0394 - 01 04     3/20/17    3/16/17 A       133      114.00-    97.07-    16.93-                                             5,072.68
+1
+-
+0  12035                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WILLISTON NORTHAMPTON SCHOOL                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           2           175.97-        15.03-                                            191.00-
+  901 - Payment received by EDSI-ACH        9           390.16-        74.82-                                            464.98-
+  903 - Web credit card payment             1             2.92-         7.08-                                             10.00-
+0       ** TOTALS                          12           569.05-        96.93-                                            665.98-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12035                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WILLISTON NORTHAMPTON SCHOOL                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       435          905,535.79           750,712.02-         83,262.60-                          71,561.17
+  NEW LOANS/ADVANCES
+  COLLECTIONS            12                                   569.05-                                                569.05-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       435          905,535.79           751,281.07-         83,262.60-                          70,992.12
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 750,712.02       177,484.79         3,444.28                                         931,641.09
+0 PAYMENTS                  **        569.05            96.93                                                              665.98
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 751,281.07       177,581.72         3,444.28                                         932,307.07

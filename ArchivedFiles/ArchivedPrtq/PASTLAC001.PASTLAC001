@@ -1,0 +1,832 @@
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         1
+0                                                                           ***** 10 TO 29 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ BLAKNEY KASHMERE         1008 MARLYN RD                 215-477-1834     OK    5/20/15    2000.00       0.00        0.00      120.78        0.00      0/00/00
+ 153-96-8074 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00        8.22      130.07         0.00
+                          PHILADELPHIA, PA 19151           5.00    19     10/26/15          43.00        0.00                    1.07     2009.29     HOLDING TE
+-BLAKNEY KASHMERE         1008 MARLYN RD                 215-477-1834     OK    5/20/15    2000.00       0.00        0.00      120.78        0.00      0/00/00
+ 153-96-8074 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00        8.22      130.07         0.00
+                          PHILADELPHIA, PA 19151           5.00    19     10/26/15          43.00        0.00                    1.07     2009.29     HOLDING TE
+-COLTELLI RYAN G          21 GEORGE ST MINE HILL         973-975-6198     OK    5/20/05    2000.00     166.00        0.00      233.47        0.00      8/23/10
+ 414-71-7740 - 01                                                         BAD   3/01/17    1834.00       0.00        0.00        6.53      242.00       166.00
+                          MORRIS, NJ 07803                 5.00    15      3/27/12          40.00        0.00                    2.00     1842.53     HOLDING TE
+-COOK TYIER S             1307 SUMAC ST                  412-675-0690     OK   12/20/15    2000.00       0.00        0.00      232.88        0.00      0/00/00
+ 189-76-4616 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00        7.12      242.00         0.00
+                          MCKEESPORT, PA 15132             5.00    15      2/10/15          40.00        0.00                    2.00     2009.12     HOLDING TE
+-JUDGE CAMEREN D          591 STANLEY STREET NO 1        860-832-8405     OK    5/20/12    2000.00     268.62        0.00      114.05        0.00      8/18/16
+  43-90-6719 - 01                                        860-985-5119     OK    3/01/17    1731.38     139.88        0.00       14.95      130.07        43.00
+                          NEW BRITIAN, CT 06051-2759       5.00    19      8/18/16          43.00        1.07                    1.07     1747.40     HOLDING TE
+-JUDGE CAMEREN D          591 STANLEY STREET NO 1        860-832-8405     OK    5/20/12    2000.00     268.62        0.00      114.05        0.00      8/18/16
+  43-90-6719 - 02                                        860-985-5119     OK    3/01/17    1731.38     139.88        0.00       14.95      130.07        43.00
+                          NEW BRITIAN, CT 06051-2759       5.00    19      8/18/16          43.00        1.07                    1.07     1747.40     HOLDING TE
+-THOMAS KHALIL            3001 ROUTE 130 SOUTH APT 62F   609-713-7131     OK   12/20/15    2000.00       0.00        0.00      121.88        0.00      0/00/00
+ 164-76-2091 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00        7.12      130.07         0.00
+                          DELRAN, NJ 08075                 5.00    15      2/10/15          43.00        0.00                    1.07     2008.19     HOLDING TE
+-THOMAS KHALIL            3001 ROUTE 130 SOUTH APT 62F   609-713-7131     OK   12/20/15    2000.00       0.00        0.00      121.88        0.00      0/00/00
+ 164-76-2091 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00        7.12      130.07         0.00
+                          DELRAN, NJ 08075                 5.00    15      2/10/15          43.00        0.00                    1.07     2008.19     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         2
+0                                                                           ***** 10 TO 29 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                       16000.00
+                                                             Loan Balance:                      15296.76
+0                                                            Principal Past Due:                 1179.77
+                                                             Interest Past Due:                    74.23
+                                                             Late Chg/Penalty Due:                 10.42
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                          1264.42
+0                                                            Number Past Due:                          5
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         3
+0                                                                           ***** 30 TO 59 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ COLLAZO TATIANA M        4248 NORTH 6TH STREET          215-457-3173     OK    6/20/12    2000.00      12.74        0.00      134.98        0.00     10/20/15
+ 198-72-2478 - 01                                                         BAD   3/01/17    1987.26       8.76        0.00       15.52      152.64        43.00
+                          PHILADELPHIA, PA 19140           5.00    45     10/27/15          43.00        0.00                    2.14     2004.92     HOLDING TE
+-COLLAZO TATIANA M        4248 NORTH 6TH STREET          215-457-3173     OK    6/20/12    2000.00      12.74        0.00      134.98        0.00     10/20/15
+ 198-72-2478 - 02                                                         BAD   3/01/17    1987.26       8.76        0.00       15.52      152.64        43.00
+                          PHILADELPHIA, PA 19140           5.00    45     10/27/15          43.00        0.00                    2.14     2004.92     HOLDING TE
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                        4000.00
+                                                             Loan Balance:                       3974.52
+0                                                            Principal Past Due:                  269.96
+                                                             Interest Past Due:                    31.04
+                                                             Late Chg/Penalty Due:                  4.28
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                           305.28
+0                                                            Number Past Due:                          1
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         4
+0                                                                           ***** 60 TO 89 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ POWERS STACY L           526 PLEASANT ST                570-247-2811     OK    5/20/08    4000.00    1371.55        0.00      317.70        0.00      7/29/16
+ 202-68-3537 - 01                                                         BAD   3/01/17    2628.45     647.30        0.00       28.45      350.45        43.00
+                          ROME, PA 18837-8426              5.00    88      7/29/16          43.00       26.50                    4.30     2661.20     HOLDING TE
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                        4000.00
+                                                             Loan Balance:                       2628.45
+0                                                            Principal Past Due:                  317.70
+                                                             Interest Past Due:                    28.45
+                                                             Late Chg/Penalty Due:                  4.30
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                           350.45
+0                                                            Number Past Due:                          1
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         5
+0                                                                           **** 90 TO 119 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                           0.00
+                                                             Loan Balance:                          0.00
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                     0.00
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                             0.00
+0                                                            Number Past Due:                          0
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         6
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ANDERSON NYREE           2530 LEXINGTON ST              717-695-0574     OK    5/20/13    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 194-74-5844 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      132.87     1150.87         0.00
+                          HARRISBURG, PA 17110             5.00   941      2/27/13          40.00        0.00                   18.00     1150.87     HOLDING TE
+-ARMSTRONG DELONTE        1111 45TH NE                   202-621-6169     OK   12/20/07    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 578-17-1316 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      345.61     1479.61         0.00
+                          WASHINGTON, DC 20019             5.00  2492      7/21/09          40.00        0.00                  134.00     1479.61     HOLDING TE
+-BAKER ROSE M             593 KINGSLEY HILL RD           570-485-9227     OK   12/25/98    2400.00    1017.24        0.00     1382.76        0.00      6/16/16
+ 195-56-2517 - 01                                                         BAD   3/01/17    1382.76    1647.25        0.00       23.11     1413.87        52.00
+                          TOWANDA, PA 18848-8373           5.00  1275      6/16/16          40.00      126.00                    8.00     1413.87     HOLDING TE
+-BARLETTI DANNIELLE       1020 NEW CHESTNUT ST                            BAD  12/20/10     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 191-72-5327 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       76.91      592.91         0.00
+                          BRISTOL, PA 19007                5.00  1092      9/21/12          40.00        0.00                   16.00      592.91     HOLDING TE
+-BARRINGER TYRONE M       1525 E BARRINGER ST            215-520-8443     OK    5/20/08    3100.00      53.73        0.00     1288.22        0.00      5/08/09
+ 160-68-9377 - 01                                                         BAD   3/01/17    3046.27      32.17        0.00      661.83     2025.20        40.00
+                          PHILADELPHIA, PA 19150           5.00  1548     10/26/11          33.45        4.10                   75.15     3783.25     HOLDING TE
+-BEAMER VINCENT           2035 WHITEHALL ST              717-238-8501     OK    5/20/06     900.00      23.02        0.00      876.98        0.00      8/08/11
+ 176-72-7165 - 01                                                         BAD   3/01/17     876.98     198.98        0.00      227.89     1120.87        60.00
+                          HARRISBURG, PA 17103             5.00  3314      8/08/11          40.00       12.00                   16.00     1120.87     HOLDING TE
+-BEEZUP CHRISTOPHER A     644 E ELM ST FL 1              570-647-6310     OK    5/20/09    3000.00       0.00        0.00      551.78        0.00      9/14/15
+ 195-70-2774 - 01                                                         BAD   3/01/17    3000.00      22.40        0.00      225.82      784.00        64.00
+                          SCRANTON, PA 18505               5.00   576      9/14/15          64.00        9.60                    6.40     3232.22     HOLDING TE
+-BEEZUP CHRISTOPHER A     644 E ELM ST FL 1              570-647-6310     OK    5/20/09    3000.00       0.00        0.00      551.78        0.00      9/14/15
+ 195-70-2774 - 02                                                         BAD   3/01/17    3000.00      22.40        0.00      225.82      784.00        64.00
+                          SCRANTON, PA 18505               5.00   576      9/14/15          64.00        9.60                    6.40     3232.22     HOLDING TE
+-BELL MICHAEL             78 WINFIELD AVE                201-435-8916     OK   12/20/05    4500.00       0.00        0.00     3777.06        0.00      0/00/00
+ 141-78-1645 - 01                                                         BAD   3/01/17    4500.00       0.00        0.00     2270.94     6259.20         0.00
+                          JERSEY CITY, NJ 07305-3914       5.00  3653      8/02/10          48.00        0.00                  211.20     6982.14     HOLDING TE
+-BENNETT RUBY             421 FIG ST APT 1W              704-352-9090     OK    5/20/14     500.00       0.00        0.00      389.52        0.00      0/00/00
+ 154-50-6269 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       10.48      408.00         0.00
+                          SCRANTON, PA 18505-1567          5.00   122      7/22/15          40.00        0.00                    8.00      518.48     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         7
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ BERRY ALGE               3619 W LEXINGTON ST            443-925-9959     OK   12/20/08     200.00       0.00        0.00      200.00        0.00      0/00/00
+ 220-23-6487 - 01                                                         BAD   3/01/17     200.00       0.00        0.00       56.65      348.65         0.00
+                          BALTIMORE, MD 21229              5.00  2037      9/13/10          40.00        0.00                   92.00      348.65     HOLDING TE
+-BIAGIOLI NICHOLAS J      6322 CLIMBING VINE AVE         717-343-9022     OK   12/17/96    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 196-66-6079 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      954.91     2226.91         0.00
+                          LAS VEGAS, NV 89141-8514         5.00  6939      8/02/10          40.00        0.00                  272.00     2226.91     HOLDING TE
+-BOLAND MARSHA ALEXIX     352 MAIN ST                    570-876-0493     OK    3/10/83     300.00     126.97        0.00      173.03        0.00      5/18/87
+ 201-48-4123 - 01                                                         BAD   3/01/17     173.03      44.06        0.00      254.55      637.58         7.98
+                          ARCHBALD, PA 18403               5.00 11178      8/02/10          30.00        0.00                  210.00      637.58     HOLDING TE
+-BOLTON ELIZABETH         ELIZABETH HERING                                BAD   9/10/87     600.00     124.96        0.00      475.04        0.00      8/07/06
+ 179-60-8351 - 01         334 ASHTON POINT BLVD                           BAD   3/01/17     475.04     366.60        0.00      315.62      927.16       343.79
+                          BEAUFORT, SC 29906-6014          5.00  9960      8/02/10          30.00        0.00                  136.50      927.16     HOLDING TE
+-BONHOMME CLIFFORD J      140-33 170TH ST                718-949-4306     OK    5/20/07    4000.00       0.00        0.00     1687.11        0.00      0/00/00
+  71-70-3233 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      935.89     2696.10         0.00
+                          JAMAICA, NY 11434                5.00  1675     10/25/11          43.00        0.00                   73.10     5008.99     HOLDING TE
+-BOSTIC MALIKA            307 W 143RD STREET NO 4A       646-671-8718     OK   12/20/10    1000.00       0.00        0.00      685.61        0.00      0/00/00
+  56-78-3402 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      154.39      848.00         0.00
+                          NEW YORK, NY 10030               5.00  1096     10/16/12          40.00        0.00                    8.00     1162.39     HOLDING TE
+-BOSTIC MALIKA            307 W 143RD STREET NO 4A       646-671-8718     OK   12/20/10    1000.00       0.00        0.00      685.61        0.00      0/00/00
+  56-78-3402 - 02                                                         BAD   3/01/17    1000.00       0.00        0.00      154.39      848.00         0.00
+                          NEW YORK, NY 10030               5.00  1096     10/16/12          40.00        0.00                    8.00     1162.39     HOLDING TE
+-BRADLEY DWAYNE L         1929 INDEPENDENCE AVE          215-438-3683     OK    5/20/08    2000.00       0.00        0.00     2000.00        0.00      4/09/15
+ 167-70-5842 - 01                                                         BAD   3/01/17    2000.00     383.25        0.00      283.05     2299.05       107.25
+                          PHILADELPHIA, PA 19138-3125      5.00  2127      4/09/15          40.00       10.00                   16.00     2299.05     HOLDING TE
+-BRENT JEREMIAH           2331 POWER CENTRE PKWY NO 150  757-275-4705     OK    5/20/13    2000.00       0.00        0.00      374.52        0.00      0/00/00
+ 226-69-3845 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      165.48      548.10         0.00
+                          LAKE CHARLES, LA 70607           5.00   576      3/01/14          54.00        0.00                    8.10     2173.58     HOLDING TE
+-BRENT JEREMIAH           2331 POWER CENTRE PKWY NO 150  757-275-4705     OK    5/20/13    2000.00       0.00        0.00      642.06        0.00      0/00/00
+ 226-69-3845 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00      167.94      818.10         0.00
+                          LAKE CHARLES, LA 70607           5.00   576      3/01/14          54.00        0.00                    8.10     2176.04     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         8
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ BROCKINGTON JAMES        7004 ALLISON ST                301-306-5234     OK    5/20/05     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 212-13-9141 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      266.56      932.56         0.00
+                          LANDOVER HILLS, MD 20784         5.00  3863      8/02/10          40.00        0.00                  166.00      932.56     HOLDING TE
+-BROME ANDREW L           634 3RD AVE                    570-421-8283     OK   12/20/13    1500.00       0.00        0.00      350.22        0.00      0/00/00
+ 134-82-2378 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00       81.78      438.00         0.00
+                          NEW BRIGHTON, PA 15066-1861      5.00   366      1/05/15          40.00        0.00                    6.00     1587.78     HOLDING TE
+-BROME ANDREW L           634 3RD AVE                    570-421-8283     OK   12/20/13    1000.00       0.00        0.00      233.48        0.00      0/00/00
+ 134-82-2378 - 02                                                         BAD   3/01/17    1000.00       0.00        0.00       54.52      292.00         0.00
+                          NEW BRIGHTON, PA 15066-1861      5.00   366      1/05/15          40.00        0.00                    4.00     1058.52     HOLDING TE
+-BUCHANAN COLIN           40 RAINBOW DR                                   BAD   5/20/12    1400.00       0.00        0.00     1293.21        0.00      0/00/00
+ 144-88-2950 - 01                                                         BAD   3/01/17    1400.00       0.00        0.00      186.79     1498.00         0.00
+                          LAKE ARIEL, PA 18436             5.00   945      3/07/13          40.00        0.00                   18.00     1604.79     HOLDING TE
+-BUFORD JAMES             1118 HARRISON AVE              609-553-7441     OK   11/20/07    2500.00       0.00        0.00     1826.03        0.00      0/00/00
+ 138-88-8802 - 01                                                         BAD   3/01/17    2500.00       0.00        0.00      573.97     2478.00         0.00
+                          PLEASANTVILLE, NJ 08232          5.00  1644     11/01/11          40.00        0.00                   78.00     3151.97     HOLDING TE
+-BURNS JEFFREY            1200 RUNDLE ST                 570-347-2561     OK    5/20/06    3800.00    1323.35        0.00     2291.51        0.00      4/07/14
+ 208-70-2485 - 01                                                         BAD   3/01/17    2476.65     948.00        0.00      398.14     2751.15        40.00
+                          SCRANTON, PA 18509               5.00  1823      4/07/14          41.00      131.20                   61.50     2936.29     HOLDING TE
+-BUSH-GORDON RASHEEM      2218 NATRONA ST                619-793-6510     OK    5/20/11    1400.00       0.00        0.00     1400.00        0.00      4/04/12
+ 199-72-6940 - 01                                                         BAD   3/01/17    1400.00       2.00        0.00      324.79     1740.79         4.00
+                          PHILADELPHIA, PA 19132-3301      5.00  1671      4/04/12          40.00        2.00                   16.00     1740.79     HOLDING TE
+-CALLENDER SOSHA M        105-27 FLATLANDS 1ST STREET    718-763-3207     OK    5/20/11    3000.00       0.00        0.00      419.72        0.00      0/00/00
+ 108-80-1566 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00      100.28      530.00         0.00
+                          BROOKLYN, NY 11236               5.00   214      2/25/15          40.00        0.00                   10.00     3110.28     HOLDING TE
+-CAPWELL KACIE            1129 SOUTH WEBSTER AVENUE      570-346-9061     OK    5/20/02    1800.00     792.64        0.00     1007.36        0.00      8/07/06
+ 204-64-6827 - 01                                                         BAD   3/01/17    1007.36      20.00        0.00      668.58     1863.94        30.00
+                          SCRANTON, PA 18509               5.00  4959      8/02/10          40.00       10.00                  188.00     1863.94     HOLDING TE
+-CAREY WILLIAM            P O BPX 36                                      BAD   5/25/95    1200.00     868.73        0.00      331.27        0.00      6/01/14
+ 161-64-6976 - 01                                                         BAD   3/01/17     331.27     690.79        0.00       39.44      432.71       879.52
+                          GOULDSBORO, PA 18424-0036        5.00  4982      6/01/14          40.00      100.00                   62.00      432.71     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                         9
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ COFFEY RYAN              2404 N BANCROFT ST             215-227-1436     OK   12/20/03     700.00       0.00        0.00      700.00        0.00      0/00/00
+ 170-66-2796 - 01                                                         BAD   3/01/17     700.00       0.00        0.00      423.07     1331.07         0.00
+                          PHILADELPHIA, PA 19132           5.00  4379      8/02/10          40.00        0.00                  208.00     1331.07     HOLDING TE
+-COLLARINI JENNIFER       523 MAIN ST APT C              717-489-7170     OK   12/17/95    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 210-56-0255 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     2009.86     4289.86         0.00
+                          PECKVILLE, PA 18452-2403         5.00  7304      8/02/10          40.00        0.00                  280.00     4289.86     HOLDING TE
+-COLOSIMO TRISTIN         78 MILL ST                     570-282-5072     OK    7/20/07    5000.00    3866.86        0.00      624.61        0.00      8/12/16
+ 194-64-9944 - 01                                                         BAD   3/01/17    1133.14    1276.44        0.00       10.09      634.70        77.00
+                          CARBONDALE, PA 18407             5.00   179      8/12/16          54.00       43.20                    0.00     1143.23     HOLDING TE
+-CONNOLLY ELIZABETH C     2860 EASTON TPKE               570-862-4911     OK   12/20/07     750.00       0.00        0.00      750.00        0.00      8/24/09
+ 211-70-6539 - 01                                                         BAD   3/01/17     750.00      34.42        0.00      212.35     1074.35        46.42
+                          WAYMART, PA 18472-3020           5.00  2035      5/02/11          40.00       12.00                  112.00     1074.35     HOLDING TE
+-COOK JEROME R            100 SOUTH 39TH ST                               BAD  12/20/09    1600.00       0.00        0.00     1600.00        0.00      0/00/00
+ 312-04-0193 - 01                                                         BAD   3/01/17    1600.00       0.00        0.00      486.35     2198.35         0.00
+                          LOUISVILLE, KY 40212             5.00  2188      2/10/09          40.00        0.00                  112.00     2198.35     HOLDING TE
+-CORKER JOHN              1342 MADISON AVE               570-347-4606     OK   12/20/11     400.00       0.00        0.00      400.00        0.00      0/00/00
+ 162-70-9384 - 01                                                         BAD   3/01/17     400.00       0.00        0.00       13.15      423.15         0.00
+                          DUNMORE, PA 18509                5.00   210      2/25/15          40.00        0.00                   10.00      423.15     HOLDING TE
+-DAVIS ANDRE              6220 RADECKE AVE               443-413-8330     OK    5/20/14     700.00       0.00        0.00      134.17        0.00      0/00/00
+ 220-29-7794 - 01                                                         BAD   3/01/17     700.00       0.00        0.00       31.75      171.02         0.00
+                          BALTIMORE, MD 21206              5.00   301      6/29/15          40.00        0.00                    5.10      736.85     HOLDING TE
+-DAVIS ANDRE              6220 RADECKE AVE               443-413-8330     OK    5/20/14    2000.00       0.00        0.00      383.39        0.00      0/00/00
+ 220-29-7794 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00       90.69      488.88         0.00
+                          BALTIMORE, MD 21206              5.00   301      6/29/15          40.00        0.00                   14.80     2105.49     HOLDING TE
+-DAVIS JAMES              140 FLORENCE AVE               609-384-0175     OK    5/20/94    1000.00     476.57        0.00      523.43        0.00      2/08/07
+ 135-70-0851 - 01                                                         BAD   3/01/17     523.43     595.90        0.00      254.04      979.47        30.53
+                          WESTVILLE, NJ 08093-2020         5.00  7096      8/02/10          40.00       36.00                  202.00      979.47     HOLDING TE
+-DAVIS NATHANIEL          1404 CORTLAND DR               845-569-4491     OK    5/20/13    2000.00       0.00        0.00      532.35        0.00      0/00/00
+  65-82-6906 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      266.85      807.30         0.00
+                          NEWBURGH, NY 12550-8612          5.00   945      2/27/13          54.00        0.00                    8.10     2274.95     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        10
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ DAVIS NATHANIEL          1404 CORTLAND DR               845-569-4491     OK    5/20/13    2000.00       0.00        0.00      931.95        0.00      0/00/00
+  65-82-6906 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00      266.85     1206.90         0.00
+                          NEWBURGH, NY 12550-8612          5.00   945      2/27/13          54.00        0.00                    8.10     2274.95     HOLDING TE
+-DICKENS JR KEITH E       4459 TEXAS AVE                 202-575-1887     OK   12/20/12    1000.00       0.00        0.00      406.03        0.00      0/00/00
+ 577-23-1239 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      153.83      567.86         0.00
+                          WASHINGTON, DC 20019             5.00  1092      2/27/12          40.00        0.00                    8.00     1161.83     HOLDING TE
+-DICKENS JR KEITH E       4459 TEXAS AVE                 202-575-1887     OK   12/20/12    1000.00       0.00        0.00      966.31        0.00      0/00/00
+ 577-23-1239 - 02                                                         BAD   3/01/17    1000.00       0.00        0.00      153.83     1128.14         0.00
+                          WASHINGTON, DC 20019             5.00  1092      2/27/12          40.00        0.00                    8.00     1161.83     HOLDING TE
+-DIPPLE MEGHAN            26 GRIFFITH ST                 570-909-9647     OK   12/20/07     500.00     128.94        0.00      371.06        0.00      7/06/10
+ 182-70-2702 - 01                                                         BAD   3/01/17     371.06       7.06        0.00      116.66      567.72       100.00
+                          PITTSTON, PA 18640-3027          5.00  2280      8/02/10          40.00        4.00                   80.00      567.72     HOLDING TE
+-DIXON CAMERON            610 REGINA DRIVE               412-384-4123     OK    5/20/10    2000.00       0.00        0.00     1214.25        0.00      0/00/00
+ 180-74-7595 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      265.75     1498.00         0.00
+                          ELIZABETH, PA 15037              5.00   941      3/07/13          40.00        0.00                   18.00     2283.75     HOLDING TE
+-DOERRIE NICOLE M         1407 THE HIDEOUT                                BAD  12/20/03    4000.00       0.00        0.00     4000.00        0.00      9/12/07
+  73-68-5617 - 01                                                         BAD   3/01/17    4000.00     201.40        0.00     2218.31     6345.16        30.00
+                          LAKE ARIEL, PA 18436-9536        5.00  4260      9/12/07          43.00        8.60                  126.85     6345.16     HOLDING TE
+-DOWNEY MEGAN M           628 PAUPACK ST                 570-878-9688     OK    5/20/08    2200.00     314.58        0.00     1408.19        0.00      6/24/13
+  83-76-2921 - 01                                                         BAD   3/01/17    1885.42      43.42        0.00      313.81     1736.00        80.00
+                          HAWLEY, PA 18428-1530            5.00  1157      6/24/13          40.00        4.00                   14.00     2213.23     HOLDING TE
+-DURKIN GLORIA            8B HENRY DR                    717-689-7067     OK    5/23/91    1721.00     310.13        0.00     1410.87        0.00      8/28/93
+ 124-68-7254 - 01                                                         BAD   3/01/17    1410.87     109.87        0.00     1629.99     3273.36        30.00
+                          JERMYN, PA 18433-1338            5.00  8467      8/02/10          30.00        0.00                  232.50     3273.36     HOLDING TE
+-ELLIS WILLIAM            3516 MILLSTONE CT SE           616-204-9513     OK    5/20/14    1500.00       0.00        0.00      875.89        0.00      0/00/00
+ 373-17-3023 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      124.11     1012.00         0.00
+                          CALEDONIA, MI 49316-9160         5.00   576      9/26/13          40.00        0.00                   12.00     1636.11     HOLDING TE
+-EVANS MICHAEL            7211 LINDBERGH BLVD            215-937-1541     OK   12/20/07    2100.00       0.00        0.00     1575.96        0.00      0/00/00
+ 195-72-7164 - 01                                                         BAD   3/01/17    2100.00       0.00        0.00      384.04     2014.00         0.00
+                          PHILADELPHIA, PA 19153           5.00  1306      1/31/12          40.00        0.00                   54.00     2538.04     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        11
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ FARRELL NICOLE M         PO BOX 100673                  570-842-2871     OK    5/12/89    1100.00     629.18        0.00      470.82        0.00     12/20/93
+ 107-54-7730 - 01                                                         BAD   3/01/17     470.82      70.90        0.00      536.04     1245.36        30.00
+                          DENVER, CO 80250-0673            5.00  8314      8/02/10          30.00        0.00                  238.50     1245.36     HOLDING TE
+-FELTON MATTHEW           117 KUHN DR                    717-634-4595     OK    5/20/14    2000.00       0.00        0.00      454.25        0.00      0/00/00
+ 204-74-9761 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00       65.75      530.00         0.00
+                          HANOVER, PA 17331-1113           5.00   210      2/25/15          40.00        0.00                   10.00     2075.75     HOLDING TE
+-FIDDERMAN ISAIAH         18195 FLEATOWN RD              302-265-2188     OK   12/20/11    1500.00       0.00        0.00     1044.05        0.00      0/00/00
+ 221-84-0007 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      155.95     1210.00         0.00
+                          ELLENDALE, DE 19941              5.00   727     10/22/13          40.00        0.00                   10.00     1665.95     HOLDING TE
+-GASSAWAY CORY D          8237 AMITY CIRCLE              301-977-7631     OK    5/20/05    3000.00     135.20        0.00     2864.80        0.00      2/06/07
+ 216-06-1711 - 01                                                         BAD   3/01/17    2864.80      64.80        0.00     1276.98     4309.78       160.00
+                          GAITHERSBURG, MD 20877           5.00  3223      8/02/10          40.00        0.00                  168.00     4309.78     HOLDING TE
+-GEETING MARIE            320 CHARLES ST                 570-905-5727     OK    5/10/91     902.00     400.97        0.00      501.03        0.00      7/02/07
+ 205-56-7151 - 01                                                         BAD   3/01/17     501.03     388.48        0.00       75.22      589.75       369.85
+                          SCRANTON, PA 18508-1323          5.00  1061     11/29/11          30.00      106.50                   13.50      589.75     HOLDING TE
+-GEISS TAMMY              3703 ABBEY CT                  607-331-1668     OK   12/20/08    3000.00       0.00        0.00     2152.75        0.00      0/00/00
+ 601-54-1347 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00      887.25     3154.00         0.00
+                          HAMPTON, VA 23661-1626           5.00  2127      3/04/10          40.00        0.00                  114.00     4001.25     HOLDING TE
+-GILET ABEL               244 MAIN ST APT 11B            845-499-6202     OK   12/20/11    1200.00       0.00        0.00      566.80        0.00      0/00/00
+  69-80-7782 - 01                                                         BAD   3/01/17    1200.00       0.00        0.00       99.95      674.73         0.00
+                          SPRING VALLEY, NY 10977-4055     5.00   580      1/20/14          40.00        0.00                    7.98     1307.93     HOLDING TE
+-GILET ABEL               244 MAIN ST APT 11B            845-499-6202     OK   12/20/11     600.00       0.00        0.00      283.27        0.00      0/00/00
+  69-80-7782 - 02                                                         BAD   3/01/17     600.00       0.00        0.00       49.98      337.21         0.00
+                          SPRING VALLEY, NY 10977-4055     5.00   580      1/20/14          40.00        0.00                    3.96      653.94     HOLDING TE
+-GLADDEN RYAN             846 S FRANKLIN ST APT 2        443-622-9982     OK   12/20/11     700.00       0.00        0.00      700.00        0.00      0/00/00
+ 219-15-0270 - 01                                                         BAD   3/01/17     700.00       0.00        0.00      105.10      823.10         0.00
+                          WILKESBARRE, PA 18702            5.00  1061      2/19/13          40.00        0.00                   18.00      823.10     HOLDING TE
+-GRAHAM CEDRIC M          1504 W VENANGO ST              215-225-1209     OK   12/20/05    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 163-70-6833 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      504.09     1562.09         0.00
+                          PHILADELPHIA, PA 19140           5.00  3649      9/28/05          40.00        0.00                   58.00     1562.09     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        12
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ GRAHAM PRESTON           35 TARNSFIELD ROAD             609-424-8707     OK   12/20/06    1200.00     306.64        0.00      893.36        0.00     10/26/12
+ 145-88-5580 - 01                                                         BAD   3/01/17     893.36     244.86        0.00       74.41      979.77        40.00
+                          WESTHAMPTON, NJ 08060            5.00   580      3/01/14          40.00       64.00                   12.00      979.77     HOLDING TE
+-GREENE GIOVANNI A        4326 CONASHAUGH LAKES          570-409-6157     OK    5/20/14    2000.00       0.00        0.00      833.43        0.00      0/00/00
+  50-78-3673 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      166.57     1012.00         0.00
+                          MILFORD, PA 18337                5.00   580      2/27/13          40.00        0.00                   12.00     2178.57     HOLDING TE
+-GRIFFITHS JASON I        279 N MAIN ST                  570-679-2194     OK   12/20/06    2000.00     570.42        0.00     1429.58        0.00      1/10/12
+ 195-68-9379 - 01                                                         BAD   3/01/17    1429.58     399.58        0.00      341.14     1866.72        35.00
+                          ARCHBALD, PA 18403-1946          5.00  2583      1/10/12          40.00       10.00                   96.00     1866.72     HOLDING TE
+-GRIMES RICHARD           103 RACHEL DR                  302-383-4842     OK    5/20/14    1000.00       0.00        0.00      487.12        0.00      0/00/00
+ 222-82-8176 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00       32.88      530.00         0.00
+                          BEAR, DE 19701                   5.00   210      2/25/15          40.00        0.00                   10.00     1042.88     HOLDING TE
+-HAINES SETH              18910 SANDYHOOK RD             301-834-4143     OK   12/20/07    1200.00       0.00        0.00     1200.00        0.00      0/00/00
+ 217-25-4018 - 01                                                         BAD   3/01/17    1200.00       0.00        0.00      484.92     1842.92         0.00
+                          KNOXVILLE, MD 21758-1326         5.00  2918      9/04/07          40.00        0.00                  158.00     1842.92     HOLDING TE
+-HARDY KEITH J            5206 13TH ST NW                202-726-2598     OK    5/20/09     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 578-19-8274 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       91.44      607.44         0.00
+                          WASHINGTON, DC 20011             5.00  1306      1/12/12          40.00        0.00                   16.00      607.44     HOLDING TE
+-HARRELL CENELL D         1320 5TH ST NW APT 2                            BAD  12/20/03    4400.00       0.00        0.00     2873.75        0.00      0/00/00
+ 217-98-8644 - 01                                                         BAD   3/01/17    4400.00       0.00        0.00     1685.25     4732.90         0.00
+                          WASHINGTON, DC 20001-4815        5.00  2767      2/27/08          47.00        0.00                  173.90     6259.15     HOLDING TE
+-HARRINGTON ULYSSES       216 WYOMING AVE #141           570-344-1138     OK    5/20/04    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 146-52-9414 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      865.47     3073.47         0.00
+                          SCRANTON, PA 18503-1408          5.00  4232      8/02/10          40.00        0.00                  208.00     3073.47     HOLDING TE
+-HARRIS BYRON             303 ARLINGTON ST APT 4                          BAD  12/20/09     700.00       0.00        0.00      700.00        0.00      0/00/00
+ 223-59-4049 - 01                                                         BAD   3/01/17     700.00       0.00        0.00      212.78     1032.78         0.00
+                          ASHLAND, VA 23005-2152           5.00  2188      9/14/09          40.00        0.00                  120.00     1032.78     HOLDING TE
+-HARTE ASHLEY             1607 SANDERSON AVE             570-313-9069     OK    5/20/08     250.00       0.00        0.00      250.00        0.00      0/00/00
+ 208-66-4411 - 01                                                         BAD   3/01/17     250.00       0.00        0.00       62.37      414.37         0.00
+                          SCRANTON, PA 18509               5.00  1823     12/05/11          40.00        0.00                  102.00      414.37     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        13
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ HENRY PATRICK            514 CEDARLEAF AVE              301-333-8390     OK   12/20/07    2100.00       0.00        0.00     2100.00        0.00      0/00/00
+ 577-17-1847 - 01                                                         BAD   3/01/17    2100.00       0.00        0.00      805.17     3085.17         0.00
+                          CAPITAL HEIGHTS, MD 20743        5.00  2767      8/02/10          40.00        0.00                  180.00     3085.17     HOLDING TE
+-HIGGINS LAUREN           1023 MARK AVENUE               570-342-0099     OK    5/20/01    2400.00       0.00        0.00     2400.00        0.00      0/00/00
+ 179-70-5895 - 01                                                         BAD   3/01/17    2400.00       0.00        0.00     1736.85     4428.85         0.00
+                          SCRANTON, PA 18510-1519          5.00  5263      8/02/10          40.00        0.00                  292.00     4428.85     HOLDING TE
+-HILL RICHARD L           122 WADE ST APT 5              201-451-4348     OK   12/20/04     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 136-80-4036 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      277.32      873.32         0.00
+                          JERSEY CITY, NJ 07305-2947       5.00  4018      3/08/05          40.00        0.00                   96.00      873.32     HOLDING TE
+-HILL SEAN                534 FIG ST APT 2               570-348-0384     OK    5/20/06     700.00       0.00        0.00      700.00        0.00      0/00/00
+ 200-62-7312 - 01                                                         BAD   3/01/17     700.00       0.00        0.00      338.20     1124.20         0.00
+                          SCRANTON, PA 18505-1700          5.00  3498      4/24/06          40.00        0.00                   86.00     1124.20     HOLDING TE
+-HOLMES SARAH             524 HAMPTON ST                 570-881-7969     OK   12/20/03     600.00     472.62        0.00      127.38        0.00      4/08/09
+ 199-70-9606 - 01                                                         BAD   3/01/17     127.38      34.88        0.00       39.25      314.63        17.50
+                          SCRANTON, PA 18504               5.00  2614      4/08/09          40.00       16.00                  148.00      314.63     HOLDING TE
+-HOPKINS KATIE            1828 JACKSON STREET                             BAD   1/20/03    1000.00       0.00        0.00     1000.00        0.00      8/06/07
+ 175-64-5029 - 01                                                         BAD   3/01/17    1000.00      34.00        0.00      616.39     1828.39        30.00
+                          SCRANTON, PA 18504-3415          5.00  4714      8/02/10          40.00       10.00                  212.00     1828.39     HOLDING TE
+-HURD DOMANEEK            90 DELMAR DR                   609-816-1475     OK    6/20/15    3000.00       0.00        0.00      295.23        0.00      0/00/00
+ 158-96-6839 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00       88.77      393.60         0.00
+                          BRIGANTINE, NJ 08203             5.00   183      2/10/15          64.00        0.00                    9.60     3098.37     HOLDING TE
+-HURD DOMANEEK            90 DELMAR DR                   609-816-1475     OK    6/20/15    3000.00       0.00        0.00      295.23        0.00      0/00/00
+ 158-96-6839 - 02                                                         BAD   3/01/17    3000.00       0.00        0.00       88.77      393.60         0.00
+                          BRIGANTINE, NJ 08203             5.00   183      2/10/15          64.00        0.00                    9.60     3098.37     HOLDING TE
+-HUTCHINSON MICHAEL F     P O BOX 977                    304-813-2369     OK    5/20/03    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 232-23-6205 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1108.21     3332.21         0.00
+                          RIDGELY, WV 26753                5.00  4014      8/02/10          40.00        0.00                  224.00     3332.21     HOLDING TE
+-JACKSON JASON            153 ANGE DR                    412-271-8246     OK   10/20/04    1500.00       0.00        0.00     1500.00        0.00      0/00/00
+ 150-76-3475 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      844.70     2548.70         0.00
+                          PITTSBURGH, PA 15235-3903        5.00  4079      8/02/10          40.00        0.00                  204.00     2548.70     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        14
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ JEFFERSON VINCENT        747 CATOR AVENUE               410-532-8450     OK    5/20/08    2000.00     208.48        0.00     1791.52        0.00      8/19/13
+ 220-21-3142 - 01                                                         BAD   3/01/17    1791.52     434.02        0.00      283.46     2080.98        77.00
+                          BALTIMORE, MD 21218              5.00  2280      8/19/13          40.00       12.00                    6.00     2080.98     HOLDING TE
+-JERVEY BRENT T           1512 STONEBRIDGE BLVD          302-221-1348     OK    5/20/08    1400.00       0.00        0.00     1400.00        0.00      0/00/00
+ 222-74-9288 - 01                                                         BAD   3/01/17    1400.00       0.00        0.00      466.42     2002.42         0.00
+                          NEW CASTLE, DE 19702             5.00  2402      8/02/10          40.00        0.00                  136.00     2002.42     HOLDING TE
+-JEWETT FATIMA            6963 CLINTON RD                267-588-9828     OK    5/20/12     600.00       0.00        0.00      600.00        0.00      0/00/00
+ 185-74-1826 - 01                                                         BAD   3/01/17     600.00       0.00        0.00      109.72      773.72         0.00
+                          UPPER DARBY, PA 19082-5208       5.00  1306      2/27/12          40.00        0.00                   64.00      773.72     HOLDING TE
+-JOHNSON-MURPHY NATHAN    2916 NORTH VAN PELT STREET     215-229-0961     OK    5/20/10    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 190-72-8374 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      182.87     1198.87         0.00
+                          PHILADELPHIA, PA 19132           5.00  1306      3/01/12          40.00        0.00                   16.00     1198.87     HOLDING TE
+-JONES BRENTON            40 BROOKSIDE AVE               724-222-5084     OK   12/20/14     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 161-76-6700 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       16.44      526.44         0.00
+                          WASHINGTON, PA 15301             5.00   210      6/29/15          40.00        0.00                   10.00      526.44     HOLDING TE
+-KELLY JENNIFER           89 MAIN ST                     570-457-4639     OK    5/20/06    3000.00     476.94        0.00      937.67        0.00      5/21/12
+ 185-64-7676 - 01                                                         BAD   3/01/17    2523.06     203.06        0.00      262.33     1210.00        40.00
+                          DURYEA, PA 18642                 5.00   727     10/22/13          40.00       28.00                   10.00     2795.39     HOLDING TE
+-KEMP TERRELL D           1936 KENNETH AVE                                BAD   5/20/05     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 171-66-6514 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      266.56      994.56         0.00
+                          ARNOLD, PA 15068-4225            5.00  3863      8/02/10          40.00        0.00                  228.00      994.56     HOLDING TE
+-KENNEDY ETHAN            400 W MAHONOY ST               570-773-0754     OK    5/20/05     600.00       0.00        0.00      600.00        0.00      0/00/00
+  61-70-5715 - 01                                                         BAD   3/01/17     600.00       0.00        0.00      320.21     1104.21         0.00
+                          MAHONOY CITY, PA 17948           5.00  3867      8/02/10          40.00        0.00                  184.00     1104.21     HOLDING TE
+-KERPOVICH BRIAN M        129 N PIONEER AVE              570-675-7583     OK   12/20/07    1500.00     449.16        0.00     1050.84        0.00      2/22/10
+ 185-70-9561 - 01                                                         BAD   3/01/17    1050.84      70.84        0.00      349.66     1520.50        82.00
+                          SHAVERTOWN, PA 18708             5.00  2402      8/02/10          40.00       14.00                  120.00     1520.50     HOLDING TE
+-KISH THERESA M           529 WALNUT ST                  570-636-2845     OK   12/20/09    1000.00     249.91        0.00      750.09        0.00     10/11/13
+ 183-70-6667 - 01                                                         BAD   3/01/17     750.09      31.92        0.00      113.23      935.32       291.83
+                          FREELAND, PA 18224-1420          5.00  1092     10/11/13          40.00       10.00                   72.00      935.32     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        15
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ KONIGUS MICHAEL J        78 SALT RD                     570-477-5224     OK   12/17/98    1500.00     170.93        0.00     1329.07        0.00      3/15/10
+ 180-66-5516 - 01                                                         BAD   3/01/17    1329.07     723.99        0.00      438.41     1921.48        80.00
+                          HUNLOCKS CREEK, PA 18621-3222    5.00  2341      8/02/10          40.00       84.00                  154.00     1921.48     HOLDING TE
+-LEE MICHAEL D            106 N PURCELL AVENUE           540-514-8211     OK    5/20/11    2000.00       0.00        0.00     2000.00        0.00      8/21/16
+ 229-63-7938 - 01                                                         BAD   3/01/17    2000.00     253.65        0.00      213.20     2213.20        57.53
+                          WINCHESTER, VA 22601             5.00  1487      8/21/16          57.53       54.00                    0.00     2213.20     HOLDING TE
+-LEWIS TERRELL            4753 TACKAWANNA ST             215-317-5341     OK    5/20/10    1500.00       0.00        0.00      875.89        0.00      0/00/00
+ 173-72-8347 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      124.11     1012.00         0.00
+                          PHILADELPHIA, PA 19124           5.00   576      3/01/14          40.00        0.00                   12.00     1636.11     HOLDING TE
+-LOGAN MICHAEL T          9460 LITTLE ELAM ROAD          804-986-1873     OK    5/20/04    1000.00      72.65        0.00      927.35        0.00     11/08/06
+ 228-37-9369 - 01                                                         BAD   3/01/17     927.35      41.70        0.00      421.11     1532.46       124.35
+                          CHARLES CITY, VA 23030           5.00  3284      8/02/10          40.00       10.00                  184.00     1532.46     HOLDING TE
+-LOGAN SONYA              5830 WESTOWER DR APT D         804-484-0706     OK    5/08/87    1200.00       0.00        0.00     1200.00        0.00      8/20/13
+ 190-54-2813 - 01                                                         BAD   3/01/17    1200.00     652.00        0.00      463.01     1663.01        40.00
+                          RICHMOND, VA 23225-2738          5.00 10509      8/20/13          30.00       58.00                    0.00     1663.01     HOLDING TE
+-MACK RAYMOND A           938 CIRCLE DR                  410-247-2591     OK    5/20/08    1000.00       0.00        0.00      950.40        0.00      0/00/00
+ 219-19-7574 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      179.04     1138.80         0.00
+                          BALTIMORE, MD 21227              5.00  1275      6/27/12          40.00        0.00                    9.36     1188.40     HOLDING TE
+-MACK RAYMOND A           938 CIRCLE DR                  410-247-2591     OK    5/20/10     700.00       0.00        0.00      665.23        0.00      0/00/00
+ 219-19-7574 - 02                                                         BAD   3/01/17     700.00       0.00        0.00      125.33      797.12         0.00
+                          BALTIMORE, MD 21227              5.00  1275      6/27/12          40.00        0.00                    6.56      831.89     HOLDING TE
+-MCCONLOGUE SCOTT         128 S VAN BUREN AVE            570-344-3847     OK    5/20/02    2000.00    1639.32        0.00      360.68        0.00      7/09/07
+ 174-70-8223 - 01                                        570-983-8294     OK    3/01/17     360.68     390.68        0.00      167.38      750.06       481.00
+                          SCRANTON, PA 18504-2446          5.00  3437      8/02/10          40.00       56.00                  222.00      750.06     HOLDING TE
+-MCKENZIE EDWARD          107 PEARL ST                   973-842-5509     OK   12/20/13    2000.00       0.00        0.00      213.95        0.00      0/00/00
+ 135-96-2013 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00       66.85      287.55         0.00
+                          PATERSON, NJ 07501               5.00   214      4/13/15          54.00        0.00                    6.75     2073.60     HOLDING TE
+-MCKENZIE EDWARD          107 PEARL ST                   973-842-5509     OK   12/20/13    2000.00       0.00        0.00      354.35        0.00      0/00/00
+ 135-96-2013 - 02                                                         BAD   3/01/17    2000.00       0.00        0.00       66.85      427.95         0.00
+                          PATERSON, NJ 07501               5.00   214      4/13/15          54.00        0.00                    6.75     2073.60     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        16
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ MCLEMORE CHARLES         1678 RIVERBIRCH DR             614-505-1051     OK   12/20/14    3000.00       0.00        0.00      421.37        0.00      0/00/00
+ 284-96-2674 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00       98.63      530.00         0.00
+                          COLUMBUS, OH 43229               5.00   210      2/25/15          40.00        0.00                   10.00     3108.63     HOLDING TE
+-MEDRANO ERIC             305 WARREN ST                  570-963-9119     OK   12/20/09    1000.00      58.04        0.00      941.96        0.00      4/14/11
+ 113-84-6291 - 01                                                         BAD   3/01/17     941.96      28.21        0.00      260.27     1236.23        96.25
+                          SCRANTON, PA 18508-2717          5.00  2131      4/14/11          40.00       10.00                   34.00     1236.23     HOLDING TE
+-MILLET LISHA A           43 CORLEAR ST                                   BAD   9/20/04    1500.00       0.00        0.00     1500.00        0.00      0/00/00
+ 112-64-4107 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      663.27     2335.27         0.00
+                          WILKES BARRE, PA 18702           5.00  3196      8/02/10          40.00        0.00                  172.00     2335.27     HOLDING TE
+-MINIER ELESE             RR 2 BOX 229                   570-364-5591     OK   12/20/08     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 175-68-8062 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      141.64      775.64         0.00
+                          TROY, PA 16947                   5.00  2037      3/04/10          40.00        0.00                  134.00      775.64     HOLDING TE
+-MOORE DARNELL            5107 N MARVINE ST              267-303-4670     OK    5/20/08    4000.00       0.00        0.00      978.32        0.00      0/00/00
+ 211-66-8511 - 01                                                         BAD   3/01/17    4000.00       0.00        0.00      483.68     1485.65         0.00
+                          PHILADELPHIA, PA 19141           5.00   545     12/20/13          43.00        0.00                   23.65     4507.33     HOLDING TE
+-MOORE RYAN E             3133 WYNDHURST DR              609-750-0792     OK    5/20/04    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 144-78-3803 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      584.23     1834.23         0.00
+                          PLAINSBORO, NJ 08536-2045        5.00  4232      8/02/10          40.00        0.00                  250.00     1834.23     HOLDING TE
+-MORGAN LEIGHTON          2826 VINE ST                                    BAD  12/20/04    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+  40-86-7474 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      404.65     1564.65         0.00
+                          CINCINNATI, OH 45219-2062        5.00  2922      3/07/08          40.00        0.00                  160.00     1564.65     HOLDING TE
+-MOYER MONTE T            11319 ARISTOTLE DR NO 207      703-485-7168     OK    5/20/09    2000.00       0.00        0.00     1214.25        0.00      0/00/00
+ 224-55-6017 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      265.75     1498.00         0.00
+                          FAIRFAX, VA 22030-7495           5.00   941      2/18/13          40.00        0.00                   18.00     2283.75     HOLDING TE
+-MURPHY JOSHUA            915 W LOCKHART ST              570-888-1954     OK    5/20/12     800.00       0.00        0.00      800.00        0.00      0/00/00
+ 177-72-6853 - 01                                                         BAD   3/01/17     800.00       0.00        0.00      146.29      962.29         0.00
+                          SAYRE, PA 18840-1028             5.00  1306      2/27/12          40.00        0.00                   16.00      962.29     HOLDING TE
+-NAGY VICTORIA            1140 RUNDLE STREET             570-862-0146     OK   12/20/07    1500.00       0.00        0.00     1500.00        0.00      0/00/00
+ 187-66-4487 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      380.55     1986.55         0.00
+                          SCRANTON, PA 18509               5.00  1823     10/18/11          40.00        0.00                  106.00     1986.55     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        17
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ NARCISSE MARCUS          217 WATCHUNG AVE 1ST FLR       973-676-0671     OK    3/20/15    1500.00       0.00        0.00      176.91        0.00      0/00/00
+ 138-94-2364 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00       63.09      243.95         0.00
+                          WEST ORANGE, NJ 07052            5.00   274      2/10/15          48.00        0.00                    3.95     1567.04     HOLDING TE
+-NARCISSE MARCUS          217 WATCHUNG AVE 1ST FLR       973-676-0671     OK    3/20/15    3000.00       0.00        0.00      353.84        0.00      0/00/00
+ 138-94-2364 - 02                                                         BAD   3/01/17    3000.00       0.00        0.00      126.16      488.00         0.00
+                          WEST ORANGE, NJ 07052            5.00   274      2/10/15          48.00        0.00                    8.00     3134.16     HOLDING TE
+-NEEDHAM EVAN             626 PEAR ST                    570-344-4952     OK   12/20/11     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 200-72-6485 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      101.91      667.91         0.00
+                          SCRANTON, PA 18505               5.00  1457     10/26/11          40.00        0.00                   66.00      667.91     HOLDING TE
+-NICHOLSON DEVIN          7000 PARIS RD                                   BAD   5/20/10    2000.00       0.00        0.00     1594.24        0.00      0/00/00
+ 212-33-7187 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      365.76     1976.00         0.00
+                          BALTIMORE, MD 21207              5.00  1306      8/22/12          40.00        0.00                   16.00     2381.76     HOLDING TE
+-NIEBUDEK ANDREW          7 SUNSET COURT                 609-586-0694     OK    5/20/08    1000.00     207.63        0.00      792.37        0.00     10/06/09
+ 142-86-0548 - 01                                                         BAD   3/01/17     792.37      28.37        0.00      279.18     1213.55        40.00
+                          HAMILTON SQUARE, NJ 08690        5.00  2618     10/06/09          40.00       12.00                  142.00     1213.55     HOLDING TE
+-NOLDY EDWARD C           150 PINE STREET                570-876-0761     OK    5/20/00    3000.00    1740.35        0.00     1259.65        0.00      2/09/09
+ 176-70-0829 - 01                                                         BAD   3/01/17    1259.65     772.21        0.00      484.36     1856.01        60.00
+                          ARCHBALD, PA 18403               5.00  3863      2/09/09          40.00       50.00                  112.00     1856.01     HOLDING TE
+-ODGERS JEFFREY P         7930 BAY POINTE DR             570-954-9257     OK    6/20/06    2000.00       0.00      250.00      723.73        0.00      0/00/00
+ 197-66-2796 - 01                                                         BAD   3/01/17    1750.00       0.00        0.00      116.27      850.00         0.00
+                          TAMPA, FL 33615-5517             5.00   454      9/24/14          40.00        0.00                   10.00     1876.27     HOLDING TE
+-ONDRISOVA TATIANA        28 U LAUREL DRIVE              570-604-7741     OK   12/20/10    1000.00       0.00        0.00     1000.00        0.00     11/09/12
+ 100-90-7053 - 01                                                         BAD   3/01/17    1000.00      51.60        0.00      202.91     1278.91        30.80
+                          SCRANTON, PA 18505               5.00  1796     11/09/12          40.00       10.00                   76.00     1278.91     HOLDING TE
+-PADILLA ANGELA M         328 WATSON AVE APT 2L          848-203-1656     OK   12/20/07    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 155-84-2636 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      204.38     1220.38         0.00
+                          PERTH AMBOY, NJ 08861-4070       5.00  1461      6/28/12          40.00        0.00                   16.00     1220.38     HOLDING TE
+-PALMER MARCELL           2410 N BOUVIER ST              215-900-1210     OK   11/20/11    1500.00       0.00        0.00     1449.25        0.00      0/00/00
+ 190-74-6068 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      230.75     1696.00         0.00
+                          PHILADELPHIA, PA 19132-4305      5.00  1092      9/21/12          40.00        0.00                   16.00     1746.75     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        18
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ PALMITER ERIC            1506 FROUDE AVE                                 BAD   5/17/99    1350.00     485.47        0.00      864.53        0.00      9/08/03
+ 198-58-6822 - 01                                                         BAD   3/01/17     864.53     218.53        0.00      567.25     1711.78        30.00
+                          SCRANTON, PA 18505-3943          5.00  5536      8/02/10          40.00        8.00                  280.00     1711.78     HOLDING TE
+-PAUL KEVINS              1106 E 28TH AVE                613-233-6638     OK    5/20/10    1400.00       0.00        0.00      708.62        0.00      0/00/00
+ 593-15-0255 - 01                                                         BAD   3/01/17    1400.00       0.00        0.00      396.60     1143.47         0.00
+                          TAMPA, FL 33605                  5.00  2037      4/08/10          40.00        0.00                   38.25     1834.85     HOLDING TE
+-PAUL KEVINS              1106 E 28TH AVE                613-233-6638     OK    5/20/10    2300.00       0.00        0.00     1163.23        0.00      0/00/00
+ 593-15-0255 - 02                                                         BAD   3/01/17    2300.00       0.00        0.00      651.55     1878.02         0.00
+                          TAMPA, FL 33605                  5.00  2037      4/08/10          40.00        0.00                   63.24     3014.79     HOLDING TE
+-PEARSON BRUCE            132 CAROLINA AVE               608-886-7345     OK    5/20/05     500.00     306.79        0.00      193.21        0.00     10/18/06
+ 135-98-5076 - 01                                                         BAD   3/01/17     193.21      13.21        0.00       96.75      507.96        40.00
+                          VILLAS, NJ 08251                 5.00  3622      8/02/10          40.00       10.00                  218.00      507.96     HOLDING TE
+-PEYTON RONTRELL          8726 BLUEDALE ST               202-300-2335     OK   12/20/14    2000.00       0.00        0.00      612.06        0.00      0/00/00
+ 229-67-7050 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      107.94      730.00         0.00
+                          ALEXANDRIA, VA 22308             5.00   362      9/26/13          40.00        0.00                   10.00     2117.94     HOLDING TE
+-PHILLIPS CORY            247 NORTH STATE STREET         216-334-9644     OK   12/20/11    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 286-94-4021 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      203.83     1219.83         0.00
+                          CLEVELAND, OH 44077              5.00  1457     11/17/11          40.00        0.00                   16.00     1219.83     HOLDING TE
+-PIAZZA RICKY T           1032 HOWERTOWN RD              610-703-1311     OK   12/20/08    2800.00      40.00        0.00     1745.82        0.00      8/23/13
+ 142-92-8055 - 01         APT 2L                                          BAD   3/01/17    2760.00     451.21        0.00      482.97     2289.59        40.00
+                          CATASAUQUA, PA 18032-1626        5.00  1949      8/26/13          40.00       35.20                   60.80     3303.77     HOLDING TE
+-PIAZZA RICKY T           1032 HOWERTOWN RD              610-703-1311     OK   12/20/08     700.00       0.00        0.00      446.40        0.00      8/23/13
+ 142-92-8055 - 02         APT 2L                                          BAD   3/01/17     700.00     111.79        0.00      121.81      583.41        40.00
+                          CATASAUQUA, PA 18032-1626        5.00  1980      8/26/13          40.00        8.80                   15.20      837.01     HOLDING TE
+-PITTMAN JASMINE          4502 NUECES RIVER LP           832-981-3715     OK    5/20/12    1600.00       0.00        0.00      367.62        0.00      0/00/00
+ 162-74-4377 - 01                                                         BAD   3/01/17    1600.00       0.00        0.00      132.38      506.00         0.00
+                          SPRING, TX 77386                 5.00   576      3/01/14          40.00        0.00                    6.00     1738.38     HOLDING TE
+-PITTMAN JASMINE          4502 NUECES RIVER LP           832-981-3715     OK    5/20/12    1600.00       0.00        0.00      367.62        0.00      0/00/00
+ 162-74-4377 - 02                                                         BAD   3/01/17    1600.00       0.00        0.00      132.38      506.00         0.00
+                          SPRING, TX 77386                 5.00   576      3/01/14          40.00        0.00                    6.00     1738.38     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        19
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ POLYNICE MARC            35 RIDGEPARK DR NO M           973-415-7449     OK    5/20/09     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 137-86-5294 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       27.26      537.26         0.00
+                          NORTH ARLINGTON, NJ 07031-5232   5.00   366      1/05/15          40.00        0.00                   10.00      537.26     HOLDING TE
+-POOLE LESTER             9705 AVIS CT                   443-803-4274     OK   12/20/06     700.00     111.57        0.00      588.43        0.00     12/17/07
+ 219-13-2456 - 01                                                         BAD   3/01/17     588.43       8.43        0.00       68.52      672.95       124.00
+                          UPPR MARLBORO, MD 20774-2281     5.00   819     12/09/09          40.00        4.00                   16.00      672.95     HOLDING TE
+-POUGH ALDORIC            1141 S 20TH ST                                  BAD   5/25/97     750.00       0.00        0.00      750.00        0.00      6/12/06
+ 249-49-4734 - 01                                                         BAD   3/01/17     750.00     160.00        0.00      427.54     1429.54       100.00
+                          PHILADELPHIA, PA 18509           5.00  5592      6/12/06          40.00       40.00                  252.00     1429.54     HOLDING TE
+-PRICE BRANDON            39 HATTERAS CT                 410-620-0495     OK    5/20/06    2000.00      90.51        0.00     1909.49        0.00      6/04/07
+ 218-17-9929 - 01                                                         BAD   3/01/17    1909.49      28.49        0.00      895.36     2978.85       125.00
+                          ELKTON, MD 21921-6279            5.00  3406      8/02/10          40.00        6.00                  174.00     2978.85     HOLDING TE
+-PURNELL KHALID           251 EAST QUEEN LANE            215-844-8397     OK   12/20/08     700.00       0.00        0.00      700.00        0.00      0/00/00
+ 192-70-3063 - 01                                                         BAD   3/01/17     700.00       0.00        0.00      128.01      840.01         0.00
+                          PHILADELPHIA, PA 19144-1743      5.00  1306      1/30/12          40.00        0.00                   12.00      840.01     HOLDING TE
+-RAMIREZ TONY             2141 W HIGHLAND DR             610-439-2315     OK   12/20/13    1500.00       0.00        0.00      638.22        0.00      0/00/00
+ 100-84-1015 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00       81.78      730.00         0.00
+                          ALLENTOWN, PA 18104              5.00   366      1/05/15          40.00        0.00                   10.00     1591.78     HOLDING TE
+-REDDIX ALVAREZ           1043 E 147TH ST                216-851-5553     OK   12/20/08     300.00       0.00        0.00      300.00        0.00      0/00/00
+ 449-87-2378 - 01                                                         BAD   3/01/17     300.00       0.00        0.00       66.28      448.28         0.00
+                          CLEVELAND, OH 44110              5.00  1579      6/23/11          40.00        0.00                   82.00      448.28     HOLDING TE
+-RICHARDSON TIFFANY A     RR 1 BOX 596                   570-595-2349     OK    5/20/11    3000.00       0.00        0.00     1739.74        0.00      0/00/00
+ 162-74-4453 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00      700.26     2508.00         0.00
+                          CANADENSIS, PA 18325             5.00  1671      3/01/11          40.00        0.00                   68.00     3768.26     HOLDING TE
+-RICKS LAWNTYE            131 HICKORY ST                 570-822-4198     OK    9/20/14     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 205-74-4819 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       26.99      536.99         0.00
+                          WILKES-BARRE, PA 18702           5.00   362      1/05/15          40.00        0.00                   10.00      536.99     HOLDING TE
+-ROBERTSON WALTER         5713 QUIET PINE CIR            804-878-6299     OK    5/20/07    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 230-55-1307 - 01         APT 102                                         BAD   3/01/17    1000.00       0.00        0.00      356.97     1486.97         0.00
+                          CHESTER, VA 23831-7713           5.00  2585      1/11/11          40.00        0.00                  130.00     1486.97     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        20
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ROBINSON KAREEM          217 NORTH RAMSEY ST            267-808-9538     OK   12/20/12     450.00       0.00        0.00      450.00        0.00      0/00/00
+ 183-74-5621 - 01                                                         BAD   3/01/17     450.00       0.00        0.00       14.79      474.79         0.00
+                          PHILADELPHIA, PA 19139           5.00   210      2/25/15          40.00        0.00                   10.00      474.79     HOLDING TE
+-RODRIGUEZ EFRAIN         698 MICHIGAN CT, APT 1         860-995-8106     OK   12/20/08     800.00       0.00        0.00      800.00        0.00      0/00/00
+  43-84-2824 - 01                                                         BAD   3/01/17     800.00       0.00        0.00      253.91     1165.91         0.00
+                          SAINT CLOUD, FL 34769-5244       5.00  2284      8/02/10          40.00        0.00                  112.00     1165.91     HOLDING TE
+-ROLLINS STEVEN           3411 20TH STREET NE            202-468-8729     OK    5/20/06     800.00      91.98        0.00      708.02        0.00      7/14/10
+ 577-17-4992 - 01                                                         BAD   3/01/17     708.02     134.13        0.00      221.80     1077.82       100.00
+                          WASHINGTON, DC 20018             5.00  2249      7/14/10          40.00       24.00                  148.00     1077.82     HOLDING TE
+-RUNCO RYAN M             712 LACKAWANNA AVE             570-335-6675     OK    5/20/03    2750.00     290.26        0.00     2459.74        0.00     10/15/14
+ 174-70-0241 - 01                                                         BAD   3/01/17    2459.74     109.74        0.00      963.34     3511.08        40.00
+                          BLAKELY, PA 18447-1227           5.00  2860     10/15/14          40.00       86.00                   88.00     3511.08     HOLDING TE
+-RUSSONIELLO MARY ANN     2202 ADAMS AVE                 570-343-3196     OK    6/10/85     400.00       0.00        0.00      400.00        0.00      0/00/00
+ 206-52-6064 - 01                                                         BAD   3/01/17     400.00       0.00        0.00      577.00     1187.00         0.00
+                          SCRANTON, PA 18509-1512          5.00 10507      8/02/10          30.00        0.00                  210.00     1187.00     HOLDING TE
+-SABATELL AMBER           32 CHESTNUT AVE                570-599-0089     OK   12/20/07     500.00       0.00        0.00      500.00        0.00      7/10/12
+ 159-62-4819 - 01                                                         BAD   3/01/17     500.00       0.00        0.00      148.15      732.15        38.50
+                          BELLMAWR, NJ 08031-1144          5.00  2131      7/10/12          40.00        0.00                   84.00      732.15     HOLDING TE
+-SALAMI GINODU            190-50 111 RD                  718-846-8297     OK    5/20/12    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+  77-82-2060 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      133.42     1151.42         0.00
+                          SAINT ALBANS, NY 11412           5.00   945      2/18/13          40.00        0.00                   18.00     1151.42     HOLDING TE
+-SALAMI SHITTU            190-50 111 RD                  570-677-0629     OK    5/20/13    1000.00       0.00        0.00      233.48        0.00      0/00/00
+  76-82-5535 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00       54.52      293.00         0.00
+                          SAINT ALBANS, NY 11412           5.00   366      9/24/14          40.00        0.00                    5.00     1059.52     HOLDING TE
+-SALAMI SHITTU            190-50 111 RD                  570-677-0629     OK    5/20/13    1000.00       0.00        0.00      377.48        0.00      0/00/00
+  76-82-5535 - 02                                                         BAD   3/01/17    1000.00       0.00        0.00       54.52      437.00         0.00
+                          SAINT ALBANS, NY 11412           5.00   366      9/24/14          40.00        0.00                    5.00     1059.52     HOLDING TE
+-SALVARY ERIC             805 HOLLY DR                   201-589-7612     OK    5/20/05    1400.00       0.00        0.00     1400.00        0.00      0/00/00
+ 149-80-6984 - 01                                                         BAD   3/01/17    1400.00       0.00        0.00      607.18     2177.18         0.00
+                          PERTH AMBOY, NJ 08861            5.00  3136      8/02/10          40.00        0.00                  170.00     2177.18     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        21
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SAWYER JOHN ROBERT       5002 12TH ST                   215-455-0180     OK    5/20/12    2000.00       0.00        0.00     1022.75        0.00      0/00/00
+ 207-72-2599 - 01                                        215-800-8697     OK    3/01/17    2000.00       0.00        0.00      217.25     1284.00         0.00
+                          PHILADELPHIA, PA 19141-3518      5.00   759     12/20/13          40.00        0.00                   44.00     2261.25     HOLDING TE
+-SCOTT DEMARIO            752 RAINDROPS RD               803-370-3002     OK    5/20/14    3000.00       0.00        0.00      751.78        0.00      0/00/00
+ 250-93-0436 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00      248.22     1012.00         0.00
+                          GASTONIA, NC 28054               5.00   576      9/26/13          40.00        0.00                   12.00     3260.22     HOLDING TE
+-SHAFFER LOUIS            1315 MAIN ST                   717-489-3936     OK    5/30/92     676.00     432.76        0.00      243.24        0.00      6/06/05
+ 165-58-4597 - 01                                                         BAD   3/01/17     243.24     391.62        0.00      138.38      545.12       216.88
+                          PECKVILLE, PA 18452              5.00  7273      8/02/10          30.00       22.50                  163.50      545.12     HOLDING TE
+-SHAW DAWUD               1223 SURREY CT                 757-753-3248     BAD   5/20/05    1000.00      89.56        0.00      910.44        0.00     11/12/14
+ 141-78-2667 - 01                                                         BAD   3/01/17     910.44     436.69        0.00       88.30     1044.74       536.25
+                          GODFREY, IL 62035                5.00  3471     11/12/14          40.00       10.00                   46.00     1044.74     HOLDING TE
+-SIMMONS KIRA S           1413 BULWER ST                 347-869-5645     OK    5/20/11     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 122-76-6242 - 01                                                         BAD   3/01/17     500.00       0.00        0.00       27.26      537.26         0.00
+                          SCRANTON, PA 18504-1201          5.00   366      1/05/15          40.00        0.00                   10.00      537.26     HOLDING TE
+-SIMPKINS JANASIE         292 SANDFORD ST                732-619-8202     OK    5/20/11    1500.00       0.00        0.00      718.09        0.00      0/00/00
+ 151-88-9283 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00      281.91     1008.00         0.00
+                          NEW BRUNSWICK, NJ 08901-3042     5.00  1338      1/31/12          40.00        0.00                    8.00     1789.91     HOLDING TE
+-SIMPKINS JANASIE         292 SANDFORD ST                732-619-8202     OK    5/20/11    1500.00       0.00        0.00      718.09        0.00      0/00/00
+ 151-88-9283 - 02                                                         BAD   3/01/17    1500.00       0.00        0.00      281.91     1008.00         0.00
+                          NEW BRUNSWICK, NJ 08901-3042     5.00  1338      1/31/12          40.00        0.00                    8.00     1789.91     HOLDING TE
+-SINGLETARY ALAN B        3812 FALLING RIVER REACH       757-338-8604     OK    5/20/09     600.00       0.00        0.00      600.00        0.00      0/00/00
+ 228-61-5421 - 01                                                         BAD   3/01/17     600.00       0.00        0.00       79.73      697.73         0.00
+                          PORTSMOUTH, VA 23703             5.00   941      3/07/13          40.00        0.00                   18.00      697.73     HOLDING TE
+-SMITH TYRELL             1803 CHANTILLY COURT           757-515-2056     OK   12/20/11    1500.00       0.00        0.00      638.22        0.00      0/00/00
+ 123-80-5586 - 01                                                         BAD   3/01/17    1500.00       0.00        0.00       81.78      730.00         0.00
+                          VIRGINIA BEACH, VA 23451         5.00   366      1/05/15          40.00        0.00                   10.00     1591.78     HOLDING TE
+-STEWART KEVIN L          1981 CARTER RD                 610-583-3675     OK    5/20/09    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 197-68-2690 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      274.81     1378.81         0.00
+                          FOLCRAFT, PA 19032-1606          5.00  1823      8/25/10          40.00        0.00                  104.00     1378.81     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        22
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ STYLES CATHY             469 COLUMBUS AVE               914-623-2068     OK    5/20/08     300.00       0.00        0.00      300.00        0.00      0/00/00
+  58-74-8576 - 01                                                         BAD   3/01/17     300.00       0.00        0.00       40.03      354.03         0.00
+                          MOUNT VERNON, NY 10553-1918      5.00   945      2/18/13          40.00        0.00                   14.00      354.03     HOLDING TE
+-TATE PETER K             17 MOUNTAINTOP DRIVE           570-689-3427     OK   12/20/08    2000.00       0.00        0.00     1593.15        0.00      0/00/00
+ 125-76-5936 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00      366.85     1976.00         0.00
+                          LAKE ARIEL, PA 18436             5.00  1310      3/23/12          40.00        0.00                   16.00     2382.85     HOLDING TE
+-TAYLOR SANDRA            SANDRA TAYLOR GIBSON           717-282-6214     OK    5/17/97    2700.00     102.77        0.00     2597.23        0.00      9/14/98
+ 174-64-0128 - 01         17 ALABAMA STREET                               BAD   3/01/17    2597.23      77.30        0.00     2351.37     5212.60       150.98
+                          FROSTPROOF, FL 33843-9475        5.00  6666      8/02/10          40.00        8.00                  264.00     5212.60     HOLDING TE
+-TEJAN-JALLOH DESMOND     801 CASTILE PL                 804-437-0553     OK    5/20/03    2850.00       0.00        0.00     2850.00        0.00      0/00/00
+ 228-61-6245 - 01                                                         BAD   3/01/17    2850.00       0.00        0.00     1151.72     4157.72         0.00
+                          HENRICO, VA 23238-5534           5.00  2918      3/13/08          40.00        0.00                  156.00     4157.72     HOLDING TE
+-THOMAS MICHAEL R         54 CHATHAM SQUARE              732-390-5787     OK    5/20/01    2000.00       0.00        0.00     2000.00        0.00      0/00/00
+ 152-70-5502 - 01                                                         BAD   3/01/17    2000.00       0.00        0.00     1468.21     3670.21         0.00
+                          PARLIN, NJ 08859-2322            5.00  5328      8/02/10          40.00        0.00                  202.00     3670.21     HOLDING TE
+-TOWAH EDDIE              222 GREENWOOD RD               267-242-8737     OK    5/20/14    3000.00       0.00        0.00      421.37        0.00      0/00/00
+ 182-82-5071 - 01                                                         BAD   3/01/17    3000.00       0.00        0.00       98.63      530.00         0.00
+                          SHARON HILL, PA 19079            5.00   210      2/25/15          40.00        0.00                   10.00     3108.63     HOLDING TE
+-TRUESDELL LAUREN         1126 BRIGGS HILL ROAD          570-423-1684     OK    5/20/10    1500.00     469.29        0.00     1030.71        0.00     11/21/12
+ 105-76-9401 - 01                                                         BAD   3/01/17    1030.71     120.71        0.00      201.90     1246.61       100.00
+                          NICHOLS, NY 13812                5.00  1614     11/21/12          40.00       40.00                   14.00     1246.61     HOLDING TE
+-TURNER NASHIRA           723 NORTH HIGH PARK            570-468-0472     OK   12/20/10     600.00      25.64        0.00      574.36        0.00     10/09/14
+ 178-72-2174 - 01                                                         BAD   3/01/17     574.36      49.06        0.00       58.07      638.43        84.70
+                          SCRANTON, PA 18509               5.00  1275     10/09/14          40.00       10.00                    6.00      638.43     HOLDING TE
+-TYRELL TEVON             6125 LORETTO AVE               267-456-4270     OK    5/20/13    1000.00       0.00        0.00      486.57        0.00      0/00/00
+ 117-82-0936 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00       33.43      530.00         0.00
+                          PHILADELPHIA, PA 19149           5.00   214      2/25/15          40.00        0.00                   10.00     1043.43     HOLDING TE
+-WALTERS DAVID T          1007 SAMPSON STREET            570-562-0485     OK   12/20/08     600.00       0.00        0.00      600.00        0.00      0/00/00
+ 188-64-5498 - 01                                                         BAD   3/01/17     600.00       0.00        0.00      212.54      956.54         0.00
+                          TAYLOR, PA 18517                 5.00  2553      9/04/07          40.00        0.00                  144.00      956.54     HOLDING TE
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        23
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ WEAVER WILLIAM           8 BRANDONS BLUFF               301-640-6036     OK   12/20/13    1000.00       0.00        0.00      666.03        0.00      0/00/00
+ 224-63-0584 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00       53.97      730.00         0.00
+                          STAFFORD, VA 22554               5.00   362      1/05/15          40.00        0.00                   10.00     1063.97     HOLDING TE
+-WILLIAMS ALTON           2809 WEST SUSQUEHANNA AVE      215-765-0239     OK    5/20/07    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 161-68-6140 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      356.97     1504.97         0.00
+                          PHILADELPHIA, PA 19121           5.00  2585      1/11/11          40.00        0.00                  148.00     1504.97     HOLDING TE
+-WOODIE DEANGELO          4031 11TH AVE S                727-321-0498     OK   12/20/03     500.00     321.24        0.00      178.76        0.00      9/11/06
+ 590-40-6799 - 01                                                         BAD   3/01/17     178.76      48.76        0.00       90.33      495.09       238.00
+                          ST PETERSBURG, FL 33711-2044     5.00  4106      8/02/10          40.00        8.00                  226.00      495.09     HOLDING TE
+-YAROSH CAROLE            470 N MAIN ST FL 3             717-876-5653     OK    5/17/96     700.00     213.44        0.00      486.56        0.00     11/09/01
+ 187-50-5482 - 01                                                         BAD   3/01/17     486.56     141.56        0.00      363.71     1130.27        35.00
+                          ARCHBALD, PA 18403-1854          5.00  6908      8/02/10          40.00        6.00                  280.00     1130.27     HOLDING TE
+-YEAGER KELLY A           1612 JACKSON ST                570-591-8807     OK    5/20/13    1000.00       0.00        0.00     1000.00        0.00      0/00/00
+ 183-74-4677 - 01                                                         BAD   3/01/17    1000.00       0.00        0.00      132.87     1144.87         0.00
+                          SCRANTON, PA 18504               5.00   941      3/08/13          40.00        0.00                   12.00     1144.87     HOLDING TE
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                      263449.00
+                                                             Loan Balance:                     242911.56
+0                                                            Principal Past Due:               165849.18
+                                                             Interest Past Due:                 61122.68
+                                                             Late Chg/Penalty Due:              13564.95
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                        240536.81
+0                                                            Number Past Due:                        158
+1
+-
+0   1321-LACKAWANNA COLLEGE                                               EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        1-FEDERAL PERKINS LOAN                                               LOAN DELINQUENCY REPORT                                                        24
+-                                                                      ====== AGING SUMMARY TOTALS ======
+0         Status          Count        Orig-Principal  Principal-Bal Principal-Due   Interest-Due    Late-Charges  Collection fees  Litigation fees    Total-Due
+          ------          -----        --------------  ------------- --------------  -------------   ------------  ---------------  ---------------    ----------
+0         Paid-in-full      429           787,842.00            .00            .00            .00            .00              .00              .00           .00
+          Enrolled            0                  .00            .00            .00            .00            .00              .00              .00           .00
+          Grace               0                  .00            .00            .00            .00            .00              .00              .00           .00
+          Deferred            0                  .00            .00            .00            .00            .00              .00              .00           .00
+          PostDefer           0                  .00            .00            .00            .00            .00              .00              .00           .00
+          < 10 Days          22            47,450.00      44,214.48            .00            .00            .00              .00              .00           .00
+          -- Subtotal       451           835,292.00      44,214.48            .00            .00            .00              .00              .00           .00
+0         10-29 Days          5            16,000.00      15,296.76       1,179.77          74.23          10.42              .00              .00      1,264.42
+          30-59 Days          1             4,000.00       3,974.52         269.96          31.04           4.28              .00              .00        305.28
+          60-89 Days          1             4,000.00       2,628.45         317.70          28.45           4.30              .00              .00        350.45
+          90-119 Days         0                  .00            .00            .00            .00            .00              .00              .00           .00
+          120+ Days         158           263,449.00     242,911.56     165,849.18      61,122.68      13,564.95              .00              .00    240,536.81
+0         -- Subtotal       165           287,449.00     264,811.29     167,616.61      61,256.40      13,583.95              .00              .00    242,456.96
+          ** Totals         616         1,122,741.00     309,025.77     167,616.61      61,256.40      13,583.95              .00              .00    242,456.96
+                                                                             *** End of Report ***

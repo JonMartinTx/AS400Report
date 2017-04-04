@@ -1,0 +1,55 @@
+1
+-
+  COLBY COMMUNITY COLLEGE                          EDUCATIONAL DATA SYSTEMS, INC.                                        4/01/17
+    1911                                   *** COHORT WORKSHEET FOR AWARD YEAR 17/18 ***                                       1
+                                               *** ENTERED REPAYMENT DURING 13/14 ***
+0 ACCOUNT NBR   NAME                           SEP DATE REPAY DT       STATUS     DAYS PST    LOAN AMT    LOAN BAL    TOT PST   DFLT
+0 465-55-5005   AGUIRRE CASSANDRA                5/13     2/15/14      PAID OFF               2,000.00         .00        .00     NO
+0 512-82-6899   BAUSCH HEATHER                   5/13     2/15/14      PAID OFF               3,000.00         .00        .00     NO
+0 520-72-6483   BOLINGER SHEILA                  5/13     2/15/14      ACTIVE         450     4,000.00    4,000.00   1,670.18    YES
+0 560-91-4164   HAWKINS JOBETH TARA              5/13     2/15/14      PAID OFF               4,000.00         .00        .00     NO
+0 514-62-8388   HORTON CINDY LYNN                5/13     2/15/14      DEFER-NURS             2,000.00    1,000.00        .00     NO
+0 512-98-9694   KEMP MEGAN KAY                   5/13     2/15/14      ACTIVE                 2,000.00      738.95        .00     NO
+0 515-56-7403   NOREN CONNIE JO                  5/13     2/15/14      ACTIVE                 3,000.00    1,666.30       2.00-    NO
+0 511-02-3761   REDMON ANGELA FAYE               8/13     5/15/14      PAID OFF               2,000.00         .00        .00     NO
+0 510-98-9381   SCHMIDT MELISSA MARIE            8/13     5/15/14      ACTIVE                 3,333.00    2,113.78     645.00-    NO
+0 509-74-3709   STRAMEL TOBEY LYNN               5/13     2/15/14      ACTIVE         330     2,000.00      876.33     126.00    YES
+0 209-66-0735   TEASE SHAYNA LEE                 5/13     2/15/14      DEFER-NURS     450     2,000.00    1,400.00        .00     NO
+0 514-98-2732   WHORTON MARANDA RENA             5/13     2/15/14      DEFER-NURS     120     3,000.00    1,500.00        .00     NO
+0 510-96-8518   ZILLINGER EMILY REBECCA          5/13     2/15/14      PAID OFF               1,000.00         .00        .00     NO
+1
+-
+  COLBY COMMUNITY COLLEGE                          EDUCATIONAL DATA SYSTEMS, INC.                                        4/01/17
+    1911                                   *** COHORT WORKSHEET FOR AWARD YEAR 17/18 ***                                       2
+                                               *** ENTERED REPAYMENT DURING 14/15 ***
+0 ACCOUNT NBR   NAME                           SEP DATE REPAY DT       STATUS     DAYS PST    LOAN AMT    LOAN BAL    TOT PST   DFLT
+0 513-98-0063   CASPER SHERI                     8/14     5/15/15      ACTIVE                 2,000.00    1,625.55      84.00-    NO
+0 511-98-3519   CHARTIER TIANNA MARIE            5/14     2/15/15      ACTIVE                 2,000.00    1,581.15        .00     NO
+0 515-90-6577   HERL SHANNON                     5/14     2/15/15      ACTIVE                 1,000.00      551.92     120.00-    NO
+0 475-13-2665   KROEGER RACHAEL                  5/14     2/15/15      ACTIVE                 2,000.00    2,000.00     378.00     NO
+0 464-77-8260   PRUETT LORANN                    8/14     5/15/15      ACTIVE                 1,936.00    1,877.35     296.00     NO
+0 512-11-5957   SPENCER KYLE                     5/14     2/15/15      ACTIVE                 2,000.00    2,000.00     378.00     NO
+0 514-82-0761   TILLITSON ERIN                   5/14     2/15/15      ACTIVE                 2,000.00    2,000.00     378.00     NO
+0 505-29-9029   WARREN SHAWN DAVID               5/13     9/15/14      PAID OFF               1,000.00         .00        .00     NO
+1
+-
+  COLBY COMMUNITY COLLEGE                          EDUCATIONAL DATA SYSTEMS, INC.                                        4/01/17
+    1911                                   *** COHORT WORKSHEET FOR AWARD YEAR 17/18 ***                                       3
+                                               *** ENTERED REPAYMENT DURING 15/16 ***
+0 ACCOUNT NBR   NAME                           SEP DATE REPAY DT       STATUS     DAYS PST    LOAN AMT    LOAN BAL    TOT PST   DFLT
+0 509-04-4298   CULWELL DANIELLE                 5/15     2/15/16      ACTIVE                 2,000.00      499.03   1,022.64-    NO
+0 513-06-4372   KUNTZ CALLIE                     8/15     5/15/16      DEFER-NURS             2,000.00    1,700.00        .00     NO
+0 522-81-0264   MAY HAYLEY                       5/15     2/15/16      ACTIVE                 2,000.00    1,695.04       2.00-    NO
+0 511-96-8858   MONG-RICKARD PATRICIA            5/15     2/15/16      ACTIVE                 2,000.00    1,668.25      28.93-    NO
+0 527-99-2170   POOL FLORIDA LOUISE              5/15     2/15/16      ACTIVE         382     2,000.00    2,000.00     293.41    YES
+0 511-96-8346   SMITH LACEY                      5/15     2/15/16      ACTIVE                 1,132.00      807.65        .00     NO
+0 437-19-5934   WITZEL JOYCE                     5/15     2/15/16      ACTIVE                 2,000.00    2,000.00        .00     NO
+-
+0         NUMBER ENTERED REPAYMENT                                NUMBER IN DEFAULT
+          ------------------------                                -----------------
+             2013-14          13                                     2015         2
+             2014-15           8                                     2016
+             2015-16           7                                     2017         1
+0            *** TOTAL        28                                     *** TOTAL
++                                                                                 3
+0            COHORT DEFAULT RATE:   10.71 %

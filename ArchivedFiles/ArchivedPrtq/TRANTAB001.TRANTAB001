@@ -1,0 +1,280 @@
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                                                                                              RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 ANTOINE TERACH        28 ADDRCHANGE ACTIVE                                                                                            2,680.59 OLD:
+    591-95-2617 - 01 09     3/23/17    0/00/00                                                                                          2,680.59 NEW:
+0 ALFORD JEREMIAH       61 15DAYPAST  ACTIVE                                                                                            1,779.90 OLD:      00016
+    608-28-9120 - 01 09     3/30/17    0/00/00 S                                                                                        1,779.90 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            2,225.18 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        2,225.18 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                              667.62 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                          667.62 NEW:
+0 ANTOINE TERACH        61 15DAYPAST  ACTIVE                                                                                            2,680.59 OLD:      00016
+    591-95-2617 - 01 09     3/30/17    0/00/00 S                                                                                        2,680.59 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,787.26 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,787.26 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,340.46 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        1,340.46 NEW:
+0 BROWN JORDAN          61 15DAYPAST  ACTIVE                                                                                              500.00 OLD:      00016
+    512-08-2502 - 01 09     3/30/17    0/00/00 S                                                                                          500.00 NEW:
+0 COOK SAMANTHA         61 15DAYPAST  ACTIVE                                                                                              382.80 OLD:      00016
+    515-02-5720 - 01 09     3/30/17    0/00/00 S                                                                                          382.80 NEW:
+0 DAVIS DEVONTE         61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    628-38-2812 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,500.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,500.00 NEW:
+0 FARRELL LUCAS         61 15DAYPAST  ACTIVE                                                                                            1,000.00 OLD:      00016
+    608-62-5221 - 01 09     3/30/17    0/00/00 S                                                                                        1,000.00 NEW:
+0 GILL TORREY           61 15DAYPAST  ACTIVE                                                                                            1,000.00 OLD:      00016
+    426-75-9011 - 01 09     3/30/17    0/00/00 S                                                                                        1,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+0 HAMPTON NICK          61 15DAYPAST  ACTIVE                                                                                            2,389.82 OLD:      00016
+    509-04-9895 - 02 09     3/30/17    0/00/00 S                                                                                        2,389.82 NEW:
+0 HELDENBRAND SAMATHA   61 15DAYPAST  ACTIVE                                                                                            1,873.86 OLD:      00016
+    509-02-8710 - 01 09     3/01/17    0/00/00 S                                                                                        1,873.86 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,873.86 OLD:      00016
+                - 01 09     3/30/17    0/00/00 S                                                                                        1,873.86 NEW:
+0 HILDEBRAND LOGAN      61 15DAYPAST  ACTIVE                                                                                              762.87 OLD:      00016
+    513-06-7195 - 01 09     3/30/17    0/00/00 S                                                                                          762.87 NEW:
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                                                                                              RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 HOWE AMANDA           61 15DAYPAST  RENEGOTI                                                                                            951.34 OLD:      00016
+    616-42-1308 - 01 09     3/30/17    0/00/00 S                                                                                          951.34 NEW:
+0 JANSSEN ELIZABETH     61 15DAYPAST  ACTIVE                                                                                            2,840.80 OLD:      00016
+    509-08-1909 - 01 09     3/30/17    0/00/00 S                                                                                        2,840.80 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            2,840.83 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        2,840.83 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,420.42 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        1,420.42 NEW:
+0 JONES AUSTIN          61 15DAYPAST  ACTIVE                                                                                            2,549.93 OLD:      00016
+    512-08-0232 - 02 09     3/04/17    0/00/00 S                                                                                        2,549.93 NEW:
+0 LAUTT STEVE           61 15DAYPAST  ACTIVE                                                                                            5,595.85 OLD:      00016
+    502-15-2231 - 01 09     3/30/17    0/00/00 S                                                                                        5,595.85 NEW:
+0 LOOPER ANDREW S       61 15DAYPAST  REHABILI                                                                                          5,192.64 OLD:      00016
+    515-94-0475 - 01 09     3/30/17    0/00/00 S                                                                                        5,192.64 NEW:
+0 MAGOS PHILLIP         61 15DAYPAST  ACTIVE                                                                                            1,771.77 OLD:      00016
+    612-70-7967 - 01 09     3/30/17    0/00/00 S                                                                                        1,771.77 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            2,214.98 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        2,214.98 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,329.00 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        1,329.00 NEW:
+0 MCSHAN, JR MARSHALL   61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    143-98-2495 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,500.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,500.00 NEW:
+0 MEDRANO IVAN          61 15DAYPAST  ACTIVE                                                                                            1,364.38 OLD:      00016
+    644-52-9589 - 01 09     3/30/17    0/00/00 S                                                                                        1,364.38 NEW:
+0 OLSEN COLTON          61 15DAYPAST  SPECIAL                                                                                           1,764.98 OLD:      00016
+    509-08-8115 - 01 09     3/01/17    0/00/00 S                                                                                        1,764.98 NEW:
+                        61 15DAYPAST  SPECIAL                                                                                           2,647.63 OLD:      00016
+                - 02 09     3/01/17    0/00/00 S                                                                                        2,647.63 NEW:
+0 ONIJALA OLAKEKAN JAM  61 15DAYPAST  ACTIVE                                                                                            2,402.58 OLD:      00016
+    512-94-6590 - 01 09     3/30/17    0/00/00 S                                                                                        2,402.58 NEW:
+0 ORTEGA SANDRA         61 15DAYPAST  ACTIVE                                                                                            2,135.05 OLD:      00016
+    619-48-7209 - 01 09     3/30/17    0/00/00 S                                                                                        2,135.05 NEW:
+0 PALMGREN JENNIFER     61 15DAYPAST  ACTIVE                                                                                            1,053.68 OLD:      00016
+    500-02-8251 - 01 09     3/30/17    0/00/00 S                                                                                        1,053.68 NEW:
+0 PATRICK RYAN L        61 15DAYPAST  ACTIVE                                                                                              694.20 OLD:      00016
+    514-06-3621 - 01 09     3/01/17    0/00/00 S                                                                                          694.20 NEW:
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                                                                                              RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  3
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 RICHERT ELISSA J      61 15DAYPAST  ACTIVE                                                                                            1,841.44 OLD:      00016
+    513-98-0491 - 01 09     3/30/17    0/00/00 S                                                                                        1,841.44 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,842.33 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,842.33 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,842.33 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        1,842.33 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,074.81 OLD:      00016
+                - 04 09     3/30/17    0/00/00 S                                                                                        1,074.81 NEW:
+0 ROESCH TIM A          61 15DAYPAST  ACTIVE                                                                                            1,635.89 OLD:      00016
+    510-04-9126 - 01 09     3/30/17    0/00/00 S                                                                                        1,635.89 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                              818.11 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                          818.11 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                              818.11 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                          818.11 NEW:
+0 SIVELLS JACOB A       61 15DAYPAST  ACTIVE                                                                                            3,700.36 OLD:      00016
+    645-24-0337 - 01 09     3/30/17    0/00/00 S                                                                                        3,700.36 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,233.75 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,233.75 NEW:
+0 SMITH D'MARCO         61 15DAYPAST  ACTIVE                                                                                              700.00 OLD:      00016
+    490-08-7932 - 01 09     3/30/17    0/00/00 S                                                                                          700.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            2,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        2,000.00 NEW:
+0 SMITH D'MARCO         61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    512-08-3785 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            2,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        2,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            5,500.00 OLD:      00016
+                - 03 09     3/30/17    0/00/00 S                                                                                        5,500.00 NEW:
+0 THIELEN LUKE K        61 15DAYPAST  ACTIVE                                                                                            6,000.00 OLD:      00016
+    512-06-3175 - 01 09     3/30/17    0/00/00 S                                                                                        6,000.00 NEW:
+0 TRAUDT KATIE          61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    514-11-7709 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,500.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,500.00 NEW:
+0 VARGAS JOSEPH         61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    624-78-7078 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+0 HELDENBRAND SAMATHA   62 45DAYPAST  ACTIVE                                                                                              765.25 OLD:      00047
+    509-02-8710 - 02 09     3/01/17    0/00/00 S                                                                                          765.25 NEW:
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                                                                                              RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  4
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                        63 60DAYPAST  ACTIVE                                                                                              765.25 OLD:      00065
+                - 02 09     3/16/17    0/00/00 S                                                                                          765.25 NEW:
+0 PALMGREN JENNIFER    371 ADJ L/CDUE ACTIVE        198718                                                                              1,053.68
+    500-02-8251 - 01 09     3/29/17    3/29/17 E         1        1.00-                           1.00-                                 1,053.68
+0 BAAR LANCE D         900 PYMT-EDSI  ACTIVE        198688                                                                              2,946.35
+    523-49-5530 - 01 09     3/16/17    3/16/17 E         2      128.00-   115.49-    12.51-                                             2,830.86
+                       900 PYMT-EDSI  ACTIVE        198688                                                                                736.77
+                - 02 09     3/16/17    3/16/17 E         2       32.00-    28.87-     3.13-                                               707.90
+0 BAAR LICHELLE        900 PYMT-EDSI  ACTIVE        198688                                                                                878.27
+    505-25-8019 - 01 09     3/16/17    3/16/17 E         1       32.00-    28.27-     3.73-                                               850.00
+                       900 PYMT-EDSI  ACTIVE        198688                                                                                878.27
+                - 02 09     3/16/17    3/16/17 E         1       32.00-    28.27-     3.73-                                               850.00
+0 HELDENBRAND SAMATHA  900 PYMT-EDSI  ACTIVE        198691                                                                              1,897.07
+    509-02-8710 - 01 09     3/21/17    3/21/17 E        11       33.23-    23.21-     9.36-        .66-                                 1,873.86
+                       900 PYMT-EDSI  ACTIVE        198691                                                                                776.85
+                - 02 09     3/21/17    3/21/17 E        11       15.76-    11.60-     3.83-        .33-                                   765.25
+0 HOWE AMANDA          900 PYMT-EDSI  RENEGOTI      198704                                                                                982.12
+    616-42-1308 - 01 09     3/24/17    3/24/17 E         5       34.72-    30.78-     3.52-        .42-                                   951.34
+                       900 PYMT-EDSI  RENEGOTI      198704                                                                              1,310.08
+                - 02 09     3/24/17    3/24/17 E         5       46.28-    41.02-     4.69-        .57-                                 1,269.06
+0 LOOPER ANDREW S      900 PYMT-EDSI  REHABILI      198673                                                                              5,269.17
+    515-94-0475 - 01 09     3/13/17    3/13/17 E        46      100.00-    76.53-    23.47-                                             5,192.64
+                       900 PYMT-EDSI  REHABILI      198673                                                                              1,756.98
+                - 02 09     3/13/17    3/13/17 E        46       33.33-    25.50-     7.83-                                             1,731.48
+                       900 PYMT-EDSI  REHABILI      198673                                                                                878.63
+                - 03 09     3/13/17    3/13/17 E        46       16.67-    12.75-     3.92-                                               865.88
+0 MCPECK ADAM S        900 PYMT-EDSI  ACTIVE        198673                                                                              2,786.74
+    504-11-0566 - 01 09     3/13/17    3/13/17 E        38       64.01-    54.65-     9.36-                                             2,732.09
+                       900 PYMT-EDSI  ACTIVE        198673                                                                              1,394.10
+                - 02 09     3/13/17    3/13/17 E        38       31.99-    27.31-     4.68-                                             1,366.79
+0 MOUNT KATIE E        900 PYMT-EDSI  ACTIVE        198647                                                                              1,191.10
+    524-71-0588 - 01 09     3/03/17    3/03/17 E        21       66.48-    61.84-     4.64-                                             1,129.26
+                       900 PYMT-EDSI  ACTIVE        198647                                                                              1,264.95
+                - 02 09     3/03/17    3/03/17 E        21       66.76-    61.82-     4.94-                                             1,203.13
+                       900 PYMT-EDSI  ACTIVE        198647                                                                              1,264.95
+                - 03 09     3/03/17    3/03/17 E        21       66.76-    61.82-     4.94-                                             1,203.13
+0 NANCE RICHARD        900 PYMT-EDSI  ACTIVE        198688                                                                              1,515.93
+    515-06-9362 - 01 09     3/16/17    3/16/17 E         4       40.00-    32.94-     7.06-                                             1,482.99
+0 RICHARDSON VIRGINIA  900 PYMT-EDSI  ACTIVE        198691                                                                              2,783.23
+    521-65-0286 - 01 09     3/21/17    3/21/17 E         5       96.01-    83.43-    12.58-                                             2,699.80
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                                                                                              RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  5
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       900 PYMT-EDSI  ACTIVE        198691                                                                                928.15
+                - 02 09     3/21/17    3/21/17 E         5       31.99-    27.80-     4.19-                                               900.35
+0 ULLOA CIERA          900 PYMT-EDSI  ACTIVE        198655                                                                                550.41
+    440-08-0617 - 01 09     3/08/17    3/08/17 E        38       40.00-    38.04-     1.96-                                               512.37
+0 YODER ALLEN R        900 PYMT-EDSI  REHABILI      198655                                                                              2,318.09
+    509-04-4895 - 01 09     3/08/17    3/08/17 E        39       40.00-    28.89-    11.11-                                             2,289.20
+0 COOK SAMANTHA        903 PAYMENTWEB ACTIVE    1170631329                                                                                406.22
+    515-02-5720 - 01 09     3/04/17    3/04/17 W         1       26.67-    23.42-     3.25-                                               382.80
+                       903 PAYMENTWEB ACTIVE    1170631329                                                                                203.54
+                - 02 09     3/04/17    3/04/17 W         1       13.33-    11.70-     1.63-                                               191.84
+0 MOUNT KATIE E        950 RETRNCHECK ACTIVE        198656                                                                              1,067.42
+    524-71-0588 - 01 09     3/08/17    3/08/17 E         1       66.48     61.84      4.64                                              1,129.26
+                       950 RETRNCHECK ACTIVE        198656                                                                              1,141.31
+                - 02 09     3/08/17    3/08/17 E         1       66.76     61.82      4.94                                              1,203.13
+                       950 RETRNCHECK ACTIVE        198656                                                                              1,141.31
+                - 03 09     3/08/17    3/08/17 E         1       66.76     61.82      4.94                                              1,203.13
+0 HOWE AMANDA          951 PAYREVERSE RENEGOTI      198706                                                                                920.56
+    616-42-1308 - 01 09     3/24/17    3/24/17 E         1       34.72     30.78      3.52         .42                                    951.34
+                       951 PAYREVERSE RENEGOTI      198706                                                                              1,228.04
+                - 02 09     3/24/17    3/24/17 E         1       46.28     41.02      4.69         .57                                  1,269.06
+0 LOOPER ANDREW S      951 PAYREVERSE REHABILI      198681                                                                              5,116.11
+    515-94-0475 - 01 09     3/16/17    3/16/17 E         1      100.00     76.53     23.47                                              5,192.64
+                       951 PAYREVERSE REHABILI      198681                                                                              1,705.98
+                - 02 09     3/16/17    3/16/17 E         1       33.33     25.50      7.83                                              1,731.48
+                       951 PAYREVERSE REHABILI      198681                                                                                853.13
+                - 03 09     3/16/17    3/16/17 E         1       16.67     12.75      3.92                                                865.88
+0 MCPECK ADAM S        951 PAYREVERSE ACTIVE        198680                                                                              2,677.44
+    504-11-0566 - 01 09     3/16/17    3/16/17 E         1       64.01     54.65      9.36                                              2,732.09
+                       951 PAYREVERSE ACTIVE        198680                                                                              1,339.48
+                - 02 09     3/16/17    3/16/17 E         1       31.99     27.31      4.68                                              1,366.79
+0 COOK SAMANTHA        953 CCREVRWEB  ACTIVE        198649                                                                                359.38
+    515-02-5720 - 01 09     3/04/17    3/04/17 E         1       26.67     23.42      3.25                                                382.80
+                       953 CCREVRWEB  ACTIVE        198649                                                                                180.14
+                - 02 09     3/04/17    3/04/17 E         1       13.33     11.70      1.63                                                191.84
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  6
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 371 - Adjust L/C Fees Due                 1                                      1.00-                                   1.00-
+  900 - Payments received by EDSI          21           900.83-       145.18-      1.98-                               1,047.99-
+  903 - Web credit card payment             2            35.12-         4.88-                                             40.00-
+  950 - Returned Check-EDSI                 3           185.48         14.52                                             200.00
+  951 - Payment Reversal-EDSI               7           268.54         57.47        .99                                  327.00
+  953 - Credit Card Reversal - Web          2            35.12          4.88                                              40.00
+0       ** TOTALS                          36           446.81-        73.19-      1.99-                                 521.99-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   1946                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  TABOR COLLEGE                                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  7
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     2,103        7,723,614.10         5,881,997.85-        852,378.84-        67,058.36-       922,179.05
+  NEW LOANS/ADVANCES
+  COLLECTIONS            35                                   446.81-                                                446.81-
+  CANCELLATIONS
+  ADJUSTMENTS             1
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE     2,103        7,723,614.10         5,882,444.66-        852,378.84-        67,058.36-       921,732.24
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               5,881,997.85       808,492.00        35,749.57       325,781.90           115.00     7,052,136.32
+0 PAYMENTS                  **        935.95           150.06             1.98                                           1,087.99
+  PAYMENTS-REVR             **        489.14-           76.87-             .99-                                            567.00-
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE               5,882,444.66       808,565.19        35,750.56       325,781.90           115.00     7,052,657.31

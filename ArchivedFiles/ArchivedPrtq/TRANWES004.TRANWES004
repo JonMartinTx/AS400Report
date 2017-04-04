@@ -1,0 +1,156 @@
+1
+-
+0  12045                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WESTOVER SCHOOL                                                                                                                            RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 BATES OLIVIA         901 PYMT-ACH   ACTIVE        198666                                                                                341.07
+    120-00-1035 - 01 02     3/10/17    3/09/17 A        36       24.00-    22.35-     1.65-                                               318.72
+0 BOETH RILEY          901 PYMT-ACH   INTRONLY      198689                                                                              5,190.21
+    120-00-1069 - 01 02     3/20/17    3/16/17 A       126       50.00-    29.61-    20.39-                                             5,160.60
+0 BOYER HOPE           901 PYMT-ACH   ACTIVE        198689                                                                                894.10
+    120-00-1025 - 01 02     3/20/17    3/16/17 A       150       59.00-    55.49-     3.51-                                               838.61
+0 BOYER SARAH          901 PYMT-ACH   ACTIVE        198689                                                                                894.10
+    120-00-1026 - 01 02     3/20/17    3/16/17 A       151       59.00-    55.49-     3.51-                                               838.61
+0 DANIELS KAYLIE Q     900 PYMT-EDSI  INTRONLY      198655                                                                              5,765.03
+    120-00-1072 - 01 02     3/08/17    3/08/17 E        26       43.56-     8.72-    34.84-                                             5,756.31
+                       900 PYMT-EDSI  INTRONLY      198655                                                                              4,804.37
+                - 02 04     3/08/17    3/08/17 E        26       31.44-     7.25-    24.19-                                             4,797.12
+0 DAVIS SOPHIA M       900 PYMT-EDSI  INTRONLY      198673                                                                              2,950.04
+    120-00-1083 - 01 02     3/13/17    3/13/17 E         6       26.45-    10.27-    16.18-                                             2,939.77
+                       900 PYMT-EDSI  INTRONLY      198673                                                                              2,908.21
+                - 02 04     3/13/17    3/13/17 E         6       23.55-    10.26-    13.29-                                             2,897.95
+0 DUNHAM KATHERINE     901 PYMT-ACH   ACTIVE        198666                                                                              2,229.32
+    120-00-1021 - 01 02     3/10/17    3/09/17 A        88      142.00-   131.26-    10.74-                                             2,098.06
+0 GRIMMETT SHIRLEY     900 PYMT-EDSI  ACTIVE        198704                                                                             22,450.00
+    120-00-1080 - 01 11     3/24/17    3/24/17 E        15      100.00-   100.00-                                                      22,350.00
+0 HEDBERG KATHERINE    900 PYMT-EDSI  ACTIVE        198673                                                                              7,451.96
+    120-00-1053 - 01 02     3/13/17    3/13/17 E         5      212.00-   178.73-    33.27-                                             7,273.23
+0 HINZ BRIDGET         900 PYMT-EDSI  ACTIVE        198691                                                                              1,299.31
+    120-00-0999 - 01 02     3/21/17    3/21/17 E         4      177.00-   171.61-     5.39-                                             1,127.70
+0 IWASAKI CHARLOTTE    901 PYMT-ACH   INTRONLY      198689                                                                              3,140.01
+    120-00-1068 - 01 02     3/20/17    3/16/17 A       140       78.00-    65.67-    12.33-                                             3,074.34
+0 IWASAKI NOLA         901 PYMT-ACH   INTRONLY      198689                                                                              3,991.60
+    120-00-1086 - 01 02     3/20/17    3/16/17 A       141       22.00-     6.53-    15.47-                                             3,985.07
+0 JACK NIARA           900 PYMT-EDSI  ACTIVE        198688                                                                              4,043.63
+    120-00-1063 - 01 02     3/16/17    3/16/17 E        28      142.00-   125.60-    16.40-                                             3,918.03
+0 KEANE CLARA          901 PYMT-ACH   INTRONLY      198666                                                                              8,492.08
+    120-00-1050 - 01 02     3/10/17    3/09/17 A        11       50.00-     9.06-    40.94-                                             8,483.02
+0 KOSCIUSKO MARY KATHE 901 PYMT-ACH   INTRONLY      198666                                                                             12,000.00
+    120-00-1049 - 01 02     3/10/17    3/09/17 A        65       60.00-              60.00-                                            12,000.00
+1
+-
+0  12045                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WESTOVER SCHOOL                                                                                                                            RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 LAWLOR KATHERINE     900 PYMT-EDSI  ACTIVE        198688                                                                              9,663.84
+    120-00-1030 - 01 02     3/16/17    3/16/17 E        27      625.00-   540.83-    84.17-                                             9,123.01
+0 LINDSAY KATHERINE    900 PYMT-EDSI  INTRONLY      198688                                                                              2,925.25
+    120-00-1081 - 01 02     3/16/17    3/16/17 E        26       67.15-    51.11-    16.04-                                             2,874.14
+                       900 PYMT-EDSI  INTRONLY      198688                                                                              2,925.26
+                - 02 04     3/16/17    3/16/17 E        26       64.47-    51.10-    13.37-                                             2,874.16
+0 LOWE NICOLE          910 PYMT-SCHL  ACTIVE        198646                                                                                418.41
+    120-00-1011 - 01 02     3/03/17    3/03/17 I         1      300.00-   295.96-     4.04-                                               122.45
+                       910 PYMT-SCHL  ACTIVE        198709                                                                                420.95
+                - 01 02     3/24/17    3/24/17 I         1      300.00-   298.50-     1.50-                                               122.45
+0 LUCKENBACH-BOMAN CLA  61 15DAYPAST  INTRONLY                                                                                          2,082.36 OLD:      00031
+    120-00-1071 - 01 02     3/03/17    0/00/00 S                                                                                        2,082.36 NEW:
+0 MACRAE SHANNON       900 PYMT-EDSI  INTRONLY      198673                                                                              5,979.02
+    120-00-1074 - 01 02     3/13/17    3/13/17 E         7       34.22-     4.90-    29.32-                                             5,974.12
+                       900 PYMT-EDSI  INTRONLY      198673                                                                              5,979.10
+                - 02 04     3/13/17    3/13/17 E         7       25.07-     4.90-    20.17-                                             5,974.20
+0 MARSH CAMILLE        910 PYMT-SCHL  ACTIVE        198646                                                                                992.70
+    120-00-0992 - 01 02     3/03/17    3/03/17 I         2      175.00-   168.44-     6.56-                                               824.26
+                       910 PYMT-SCHL  ACTIVE        198709                                                                                995.72
+                - 01 02     3/24/17    3/24/17 I         2      175.00-   171.46-     3.54-                                               824.26
+0 MCDONALD BRITTANY    903 PAYMENTWEB INTRONLY  1170752478                                                                                896.76
+    120-00-1087 - 01 02     3/16/17    3/16/17 W         1      500.00-   495.08-     4.92-                                               401.68
+0 MCGOVERN EMMA        900 PYMT-EDSI  INTRONLY      198673                                                                              4,703.74
+    120-00-1057 - 01 02     3/13/17    3/13/17 E         9      100.00-    79.01-    20.99-                                             4,624.73
+0 MEDUNA HANNAH        901 PYMT-ACH   ACTIVE        198666                                                                              4,421.50
+    120-00-1031 - 01 02     3/10/17    3/09/17 A        68      260.00-   238.68-    21.32-                                             4,182.82
+0 MILLER CHELSEA       903 PAYMENTWEB INTRONLY  1170722333                                                                              1,900.78
+    120-00-1088 - 01 02     3/13/17    3/13/17 W         2       20.00-    10.50-     9.50-                                             1,890.28
+0 NEWSOM-STEWART LAURA 901 PYMT-ACH   ACTIVE        198689                                                                                997.41
+    120-00-1013 - 01 02     3/20/17    3/16/17 A       153       71.00-    67.08-     3.92-                                               930.33
+0 NOVO JOHN            901 PYMT-ACH   ACTIVE        198666                                                                              1,221.99
+    120-00-1064 - 01 02     3/10/17    3/09/17 A        44       47.00-    41.11-     5.89-                                             1,180.88
+0 PRETTO CRISTINA      901 PYMT-ACH   ACTIVE        198689                                                                              6,800.61
+    120-00-1032 - 01 02     3/20/17    3/16/17 A        69      188.00-   161.28-    26.72-                                             6,639.33
+0 RICHARDSON CAROLINE  901 PYMT-ACH   INTRONLY      198689                                                                              2,992.86
+    120-00-1090 - 01 02     3/20/17    3/16/17 A        93       50.98-    39.22-    11.76-                                             2,953.64
+1
+-
+0  12045                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WESTOVER SCHOOL                                                                                                                            RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          3
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       901 PYMT-ACH   INTRONLY      198689                                                                              2,992.86
+                - 02 04     3/20/17    3/16/17 A        93       49.02-    39.22-     9.80-                                             2,953.64
+0 SHEEHY FELICITY      901 PYMT-ACH   ACTIVE        198689                                                                                429.93
+    120-00-1022 - 01 02     3/20/17    3/16/17 A       123      224.00-   222.31-     1.69-                                               207.62
+0 SHURBERG RACHAEL     900 PYMT-EDSI  INTRONLY      198655                                                                              3,275.42
+    120-00-1075 - 01 02     3/08/17    3/08/17 E        35      818.67-   812.24-     6.43-                                             2,463.18
+                       900 PYMT-EDSI  INTRONLY      198655                                                                              2,729.77
+                - 02 04     3/08/17    3/08/17 E        35      681.33-   676.86-     4.47-                                             2,052.91
+0 SUMMERMATTER EVELYN  900 PYMT-EDSI  INTRONLY      198673                                                                              4,458.27
+    120-00-1058 - 01 02     3/13/17    3/13/17 E         8       75.00-    52.71-    22.29-                                             4,405.56
+0 WASKOWICZ CALEIGH    903 PAYMENTWEB INTRONLY  1170722341                                                                              2,706.89
+    120-00-1091 - 01 02     3/13/17    3/13/17 W         2       50.85-    37.32-    13.53-                                             2,669.57
+                       903 PAYMENTWEB INTRONLY  1170722341                                                                              8,120.76
+                - 02 04     3/13/17    3/13/17 W         2      145.77-   111.93-    33.84-                                             8,008.83
+1
+-
+0  12045                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WESTOVER SCHOOL                                                         *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          4
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI          17         2,886.10-       360.81-                                          3,246.91-
+  901 - Payment received by EDSI-ACH       16         1,184.36-       249.64-                                          1,434.00-
+  903 - Web credit card payment             4           654.83-        61.79-                                            716.62-
+  910 - Payments received by CLIENT         4           934.36-        15.64-                                            950.00-
+0       ** TOTALS                          41         5,659.65-       687.88-                                          6,347.53-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12045                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WESTOVER SCHOOL                                                         *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          5
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       269        1,254,519.36           717,561.62-        165,866.58-                         371,091.16
+  NEW LOANS/ADVANCES
+  COLLECTIONS            41                                 5,659.65-                                              5,659.65-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       269        1,254,519.36           723,221.27-        165,866.58-                         365,431.51
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 717,561.62       170,565.20            50.00                                         888,176.82
+0 PAYMENTS                  **      4,725.29           672.24                                                            5,397.53
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS                   934.36            15.64                                                              950.00
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 723,221.27       171,253.08            50.00                                         894,524.35

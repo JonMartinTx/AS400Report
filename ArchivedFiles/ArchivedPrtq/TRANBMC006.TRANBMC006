@@ -1,0 +1,44 @@
+1
+-
+0   6755                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  BROWN MACKIE COLLEGE - SALINA                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  006 - INSTITUTIONAL / PRIVATE L                                                                                                                             1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   6755                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  BROWN MACKIE COLLEGE - SALINA                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  006 - INSTITUTIONAL / PRIVATE L                                                                                                                             2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        92          180,336.48            63,658.78-          5,898.18-                         110,779.52
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        92          180,336.48            63,658.78-          5,898.18-                         110,779.52
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                  63,658.78        11,830.82         1,287.38                                          76,776.98
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                  63,658.78        11,830.82         1,287.38                                          76,776.98

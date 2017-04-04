@@ -1,0 +1,74 @@
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                                                                                               RUN DATE:  3/31/17
+  300 - GRADUATE INSTITUTIONAL LO                                                                                                                             1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 HENRY MELISSA         28 ADDRCHANGE ACTIVE                                                                                            1,000.00 OLD: OLDSEQ: 2
+    641-30-4328 - 01 01     3/23/17    0/00/00                                                                                          1,000.00 NEW: NEWSEQ: 2
+0 HOLLOWAY LAMARCUS     28 ADDRCHANGE ACTIVE                                                                                            1,859.00 OLD:
+    423-39-2712 - 01 01     3/23/17    0/00/00                                                                                          1,859.00 NEW:
+                        28 ADDRCHANGE ACTIVE                                                                                            1,859.00 OLD:
+                - 01 01     3/23/17    0/00/00                                                                                          1,859.00 NEW:
+0 CLEVELAND CHANDLER   900 PYMT-EDSI  ACTIVE        198643                                                                              5,000.00
+    630-52-5227 - 01 01     3/01/17    3/01/17 E         1      100.00-    55.00-                                         45.00-        4,945.00
+0 CONLEY CAITLIN       900 PYMT-EDSI  ACTIVE        198644                                                                              5,590.00
+    638-09-1475 - 01 01     3/01/17    3/01/17 E         4      100.00-   100.00-                                                       5,490.00
+                       900 PYMT-EDSI  ACTIVE        198726                                                                              5,590.00
+                - 01 01     3/31/17    3/31/17 E        12      100.00-   100.00-                                                       5,490.00
+0 OKORO MICHEL'LE      900 PYMT-EDSI  ACTIVE        198688                                                                              9,919.00
+    635-28-8925 - 01 01     3/16/17    3/16/17 E        12      100.00-   100.00-                                                       9,819.00
+0 MARTINEZ PRISCA      903 PAYMENTWEB ACTIVE    1170753042                                                                              1,636.00
+    564-92-5965 - 01 01     3/16/17    3/16/17 W         1       52.00-    52.00-                                                       1,584.00
+0 WEST ALEATRICE       903 PAYMENTWEB ACTIVE    1170601139                                                                              3,085.75
+    431-61-8064 - 01 01     3/01/17    3/01/17 W         1      100.00-   100.00-                                                       2,985.75
+                       903 PAYMENTWEB ACTIVE    1170722235                                                                              3,085.75
+                - 01 01     3/13/17    3/13/17 W         4      100.00-   100.00-                                                       2,985.75
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  300 - GRADUATE INSTITUTIONAL LO                                                                                                                             2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           4           355.00-                                           45.00-         400.00-
+  903 - Web credit card payment             3           252.00-                                                          252.00-
+0       ** TOTALS                           7           607.00-                                           45.00-         652.00-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  300 - GRADUATE INSTITUTIONAL LO                                                                                                                             3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        98          232,315.88            62,557.10-            297.00-                         169,461.78
+  NEW LOANS/ADVANCES
+  COLLECTIONS             7                                   607.00-                                                607.00-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        98          232,315.88            63,164.10-            297.00-                         168,854.78
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                  62,557.10                          2,570.00                          4,530.00        69,657.10
+0 PAYMENTS                  **        607.00                                                               45.00           652.00
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                  63,164.10                          2,570.00                          4,575.00        70,309.10

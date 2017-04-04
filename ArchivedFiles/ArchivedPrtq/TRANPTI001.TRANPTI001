@@ -1,0 +1,44 @@
+1
+-
+0   7437                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  PITTSBURGH TECHNICAL INSTITUTE                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   7437                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  PITTSBURGH TECHNICAL INSTITUTE                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        10           12,950.00             7,000.00-                                              5,950.00
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        10           12,950.00             7,000.00-                                              5,950.00
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                   7,000.00         2,188.41           348.00                                           9,536.41
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                   7,000.00         2,188.41           348.00                                           9,536.41

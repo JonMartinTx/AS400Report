@@ -1,0 +1,44 @@
+1
+-
+0  12095                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  DEERFIELD ACADEMY                                                       *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  077 - DEERFIELD ACADEMY LOANS                                                                                                                               1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12095                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  DEERFIELD ACADEMY                                                       *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  077 - DEERFIELD ACADEMY LOANS                                                                                                                               2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        89                 .56                  .04-               .05-                                .47
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        89                 .56                  .04-               .05-                                .47
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                        .04        45,404.24                                                           45,404.28
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                        .04        45,404.24                                                           45,404.28

@@ -1,0 +1,54 @@
+1
+-
+0  12075                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SUFFIELD ACADEMY                                                                                                                           RUN DATE:  3/31/17
+  072 - INDEPENDENCE LOAN - 5%                                                                                                                                1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 USZAKIEWICZ TOM       61 15DAYPAST  ACTIVE                                                                                            1,084.74 OLD:      00020
+     75-00-1120 - 01 01     3/16/17    0/00/00 S                                                                                        1,084.74 NEW:
+1
+-
+0  12075                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SUFFIELD ACADEMY                                                        *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  072 - INDEPENDENCE LOAN - 5%                                                                                                                                2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12075                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SUFFIELD ACADEMY                                                        *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  072 - INDEPENDENCE LOAN - 5%                                                                                                                                3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        77          122,522.00            87,034.46-                                             35,487.54
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        77          122,522.00            87,034.46-                                             35,487.54
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                  87,034.46        16,711.06            20.00                                         103,765.52
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                  87,034.46        16,711.06            20.00                                         103,765.52

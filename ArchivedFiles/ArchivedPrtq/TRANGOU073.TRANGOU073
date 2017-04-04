@@ -1,0 +1,59 @@
+1
+-
+0  12080                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  GOULD ACADEMY                                                                                                                              RUN DATE:  3/31/17
+  073 - PLITT PARENT LOAN                                                                                                                                     1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 AIKEN JR NATHANIEL   900 PYMT-EDSI  ACTIVE        198644                                                                             17,278.28
+     80-00-1015 - 01 04     3/01/17    3/01/17 E         9      400.00-   347.00-    53.00-                                            16,931.28
+                       900 PYMT-EDSI  ACTIVE        198720                                                                             17,279.32
+                - 01 04     3/29/17    3/29/17 E         1      400.00-   348.04-    51.96-                                            16,931.28
+0 HUMPHREYS ASHLEY     900 PYMT-EDSI  ACTIVE        198677                                                                             18,213.96
+     80-00-1014 - 01 04     3/16/17    3/16/17 E         1      367.61-   271.76-    95.85-                                            17,942.20
+1
+-
+0  12080                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  GOULD ACADEMY                                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  073 - PLITT PARENT LOAN                                                                                                                                     2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           3           966.80-       200.81-                                          1,167.61-
+0       ** TOTALS                           3           966.80-       200.81-                                          1,167.61-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12080                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  GOULD ACADEMY                                                           *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  073 - PLITT PARENT LOAN                                                                                                                                     3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE        15          243,981.88            73,448.72-         93,953.21-                          76,579.95
+  NEW LOANS/ADVANCES
+  COLLECTIONS             3                                   966.80-                                                966.80-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE        15          243,981.88            74,415.52-         93,953.21-                          75,613.15
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                  73,448.72        31,896.95             5.00                                         105,350.67
+0 PAYMENTS                  **        966.80           200.81                                                            1,167.61
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                  74,415.52        32,097.76             5.00                                         106,518.28

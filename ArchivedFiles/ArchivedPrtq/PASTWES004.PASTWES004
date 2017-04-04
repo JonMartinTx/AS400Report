@@ -1,0 +1,262 @@
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         1
+0                                                                           ***** 10 TO 29 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ BOYER HOPE               MR. & MRS. WILLIAM F. BOYER    413-528-4312     OK    6/15/10    2500.00    1661.39        0.00        2.12        0.00      3/20/17
+ 120-00-1025 - 01         28 MANVILLE STREET                              BAD   3/20/17     838.61     883.97        0.00        0.01        2.13        59.00
+                          GREAT BARRINGTON, MA 01230       6.00    12      3/16/17          59.00        0.00                    0.00      843.35     ACTIVE
+-BOYER SARAH              MR. & MRS. WILLIAM F. BOYER    413-528-4314     OK    6/15/10    2500.00    1661.39        0.00        2.12        0.00      3/20/17
+ 120-00-1026 - 01         28 MANVILLE STREET                              BAD   3/20/17     838.61     883.97        0.00        0.01        2.13        59.00
+                          GREAT BARRINGTON, MA 01230       6.00    12      3/16/17          59.00        0.00                    0.00      843.35     ACTIVE
+-DEBARTOLOMEO CHRISTINA   MR AND MRS DEBARTOLOMEO                         BAD   6/15/16    3000.00      41.48        0.00        0.00        0.00      2/08/17
+ 120-00-1084 - 01         21 MARLIN RD                                    BAD   3/15/17    2958.52     116.49        0.00       17.18       17.18        50.00
+                          SANDY HOOK, CT 06482             6.00    17      2/08/17         212.00        0.00                    0.00     2991.45     INTRONLY
+-DEBARTOLOMEO CHRISTINA   MR AND MRS DEBARTOLOMEO                         BAD   6/15/16    6000.00      82.87        0.00        0.00        0.00      2/08/17
+ 120-00-1084 - 02         21 MARLIN RD                                    BAD   3/15/17    5917.13     194.16        0.00       28.63       28.63        50.00
+                          SANDY HOOK, CT 06482             5.00    17      2/08/17         212.00        0.00                    0.00     5972.00     INTRONLY
+-DUNHAM KATHERINE         VERONIA DUNHAM                 845-496-5466     OK    6/15/10    6000.00    3901.94        0.00      137.96        0.00      3/10/17
+ 120-00-1021 - 01         7 PINECREST ROAD                                BAD   3/10/17    2098.06    2115.14        0.00        0.01      137.97       142.00
+                          SALISBURY MILLS, NY 12577        6.00    22      3/09/17         142.00        0.00                    0.00     2108.90     ACTIVE
+-KOSCIUSKO MARY KATHERINE NEAL SKIP KOSCIUSKO            860-672-3169     OK    6/15/13   12000.00       0.00        0.00        0.00        0.00      3/10/17
+ 120-00-1049 - 01         PO BOX 117                                      BAD   3/10/17   12000.00    2601.14        0.00       44.31       44.31        60.00
+                          WEST CORNWELL, CT 06796          6.00    22      3/09/17         284.00        0.00                    0.00    12106.24     INTRONLY
+-LAWLOR KATHERINE         C/O KAREN BAVARA-LEWIS         860-274-7858     OK    6/15/12   12000.00    2876.99        0.00      155.00        0.00      3/16/17
+ 120-00-1030 - 01         47 NORTHWEST DRIVE                              BAD   3/15/17    9123.01    3294.91        0.00        0.00      155.00       625.00
+                          WATERTOWN, CT 06795              6.00    17      3/16/17         281.00        0.00                    0.00     9167.16     ACTIVE
+-PRETTO CRISTINA          JOHN A. PRETTO                 203-758-5089     OK    6/15/12    8000.00    1360.67        0.00      187.99        0.00      3/20/17
+ 120-00-1032 - 01         16 LUKE STREET                                  BAD   3/20/17    6639.33    2251.95        0.00        0.01      188.00       188.00
+                          PROSPECT, CT 06712               6.00    12      3/16/17         188.00        0.00                    0.00     6676.82     ACTIVE
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         2
+0                                                                           ***** 10 TO 29 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                       52000.00
+                                                             Loan Balance:                      40413.27
+0                                                            Principal Past Due:                  485.19
+                                                             Interest Past Due:                    90.16
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                           575.35
+0                                                            Number Past Due:                          7
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         3
+0                                                                           ***** 30 TO 59 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ LUCKENBACH-BOMAN CLAUDIA ELIZABETH L. LUCKENBACH                         BAD  12/01/13    6000.00    3917.64        0.00        0.00        0.00     12/23/16
+ 120-00-1071 - 01         612 N GLENHURST DR                              BAD   3/01/17    2082.36     465.99        0.00       23.85       23.85        65.00
+                          BIRMINGHAM, MI 48009-1151        6.00    59     12/23/16         116.00        0.00                    0.00     2116.63     INTRONLY
+-                                                                ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                        6000.00
+                                                             Loan Balance:                       2082.36
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                    23.85
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                            23.85
+0                                                            Number Past Due:                          1
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         4
+0                                                                           ***** 60 TO 89 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                           0.00
+                                                             Loan Balance:                          0.00
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                     0.00
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                             0.00
+0                                                            Number Past Due:                          0
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         5
+0                                                                           **** 90 TO 119 DAYS *****
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                           0.00
+                                                             Loan Balance:                          0.00
+0                                                            Principal Past Due:                    0.00
+                                                             Interest Past Due:                     0.00
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                             0.00
+0                                                            Number Past Due:                          0
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         6
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ACHIAW AMA               KINGSLEY ACHIAW                301-353-0710     OK    6/15/11    6000.00    2066.80        0.00     1445.92        0.00      9/22/16
+ 120-00-1034 - 01         23508 PURITON PLACE                             BAD   3/15/17    3933.20    1668.34        0.00      112.08     1558.00       100.00
+                          DAMASCUS, MD 20872               6.00   321      9/22/16         142.00        0.00                    0.00     4066.21     ACTIVE
+-ANELLO CHLOE             PETER ANELLO, PT                                BAD   6/15/13    9000.00      63.50        0.00        0.00        0.00      2/01/17
+ 120-00-1056 - 01         28 WILLERS WAY                                  BAD   3/15/17    8936.50     734.35        0.00      685.55      685.55       176.77
+                          NEWBURGH, NY 12550               6.00   473      2/01/17         227.00        0.00                    0.00     9669.62     INTRONLY
+-ANELLO CHLOE             PETER ANELLO, PT                                BAD   6/15/13    3000.00       0.00        0.00        0.00        0.00      2/01/17
+ 120-00-1056 - 02         28 WILLERS WAY                                  BAD   3/15/17    3000.00     199.26        0.00      115.90      115.90       176.77
+                          NEWBURGH, NY 12550               5.00   290      2/01/17         227.00        0.00                    0.00     3129.21     INTRONLY
+-ARAUJO SAMANTHA          ROY V. ARAUJO                  203-729-4355     OK    6/15/11    3500.00    2120.27        0.00      549.49        0.00      6/11/16
+ 120-00-1043 - 01         587 N. CHURCH STREET                            BAD   3/15/17    1379.73     820.38        0.00       62.51      612.00       100.00
+                          NAUGATUCK, CT 06770              6.00   229      6/11/16          83.00        5.00                    0.00     1449.59     ACTIVE
+-BATES CATHERINE          EUGENIE FERRARA-BATES                           BAD   6/15/13    6000.00       0.00        0.00        0.00        0.00      2/10/17
+ 120-00-1060 - 01         55 MIDDLEBURY TERRACE                           BAD   3/15/17    6000.00     500.00        0.00      826.12      826.12        75.00
+                          MIDDLEBURY, CT 06762             6.00   838      2/10/17         142.00        0.00                    0.00     6858.06     INTRONLY
+-CAMPBELL ASHLEY          155 RIVER TERRACE CT                            BAD   6/15/09    4500.00     322.91        0.00     2636.91        0.00      5/14/15
+ 120-00-0986 - 01                                                         BAD   3/15/17    4177.09     427.09        0.00      724.13     3361.04        25.00
+                          ROSWELL, GA 30076-4445           6.00  1172      5/14/15         135.00        0.00                    0.00     4923.45     ACTIVE
+-CAMPBELL ASHLEY          155 RIVER TERRACE CT                            BAD   6/15/09    2500.00       0.00        0.00     1172.69        0.00      5/14/15
+ 120-00-0986 - 02                                                         BAD   3/15/17    2500.00       0.00        0.00      321.82     1494.51        25.00
+                          ROSWELL, GA 30076-4445           5.00   929      5/14/15         135.00        0.00                    0.00     2832.91     ACTIVE
+-CARLISLE EMELINE         STUART CARLISLE                                 BAD   6/15/12    6000.00       0.00        0.00     1010.03        0.00      0/00/00
+ 120-00-1062 - 01         98 WHETTON RAD                                  BAD   3/15/17    6000.00       0.00        0.00     1709.34     2719.37         0.00
+                          WEST HARTFORD, CT 06117          6.00  1721      5/23/12         142.00        0.00                    0.00     7741.28     ACTIVE
+-CARLISLE PHOEBE          STUART M. CARLISLE             860-231-8078     OK    6/15/13   12000.00       0.00        0.00        0.00        0.00      0/00/00
+ 120-00-1046 - 01         98 WHETTEN ROAD                                 BAD   3/15/17   12000.00       0.00        0.00     2652.84     2652.84         0.00
+                          WEST HARTFORD, CT 06117          6.00  1325      7/10/13         284.00        0.00                    0.00    14716.71     INTRONLY
+-DINIELLI ALLISON         WILLIAM W. DINIELLI            424-206-1642     OK    6/15/10    3000.00     827.04        0.00      634.59        0.00      1/11/16
+ 120-00-1006 - 01         516 BAYVIEW DR                                  BAD   3/10/17    2172.96     957.02        0.00      151.41      786.00        71.00
+                          HERMOSA BEACH, CA 90254          6.00   416      1/11/16          71.00        0.00                    0.00     2335.58     ACTIVE
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         7
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ DIXON LONDON             MR H DIXON & MRS J SMALL-DIXON                  BAD   6/15/15    3000.00       0.00        0.00        0.00        0.00      0/00/00
+ 120-00-1085 - 01         1 ORIENT WAY STE F BOX 159                      BAD   3/15/17    3000.00       0.00        0.00      313.52      313.52         0.00
+                          RUTHERFORD, NJ 07070             6.00   626      7/10/13          71.00        0.00                    0.00     3329.48     INTRONLY
+-FARNHAM SHELBY           STEVEN A. FARNHAM              860-945-0188     OK    6/15/13    6000.00     244.02        0.00        0.00        0.00      2/14/14
+ 120-00-1048 - 01         259 NORTH STREET                                BAD   3/15/17    5755.98     212.62        0.00     1064.68     1064.68        56.64
+                          WATERTOWN, CT 06795              6.00  1113      2/14/14         116.00        0.00                    0.00     6851.30     INTRONLY
+-GRIMMETT GABRIELLE       C/O GILBRET GRIMMETT                            BAD   6/01/12    4000.00     901.55        0.00     3098.45        0.00      6/04/13
+ 120-00-1079 - 01         60-62 ELMWOOD AVENUE                            BAD   3/01/17    3098.45     121.29        0.00      464.09     3562.54      1022.84
+                          MONTCLAIR, NJ 07042              4.00  1492      6/04/13         522.84        0.00                    0.00     3593.52     ACTIVE
+-MARSH CAMILLE            MS. CAROLYN MARSH              248-592-2606     BAD   6/15/07    2000.00    1175.74        0.00      822.50        0.00      3/24/17
+ 120-00-0992 - 01         701 DELAWARE ST                                 BAD   3/15/17     824.26    1137.26        0.00        0.00      822.50       175.00
+                          DETROIT, MI 48202-2451           6.00   899      3/24/17          47.00        0.00                    0.00      827.19     ACTIVE
+-MARSH CRYSTAL            MS. CAROLYN MARSH                               BAD   6/15/05    1000.00     596.58        0.00      403.42        0.00     10/19/15
+ 120-00-0953 - 01         701 DELAWARE ST                                 BAD   3/15/17     403.42     434.65        0.00       33.90      437.32       150.00
+                          DETROIT, MI 48202-2451           6.00  1782     10/19/15          24.00        0.00                    0.00      439.47     ACTIVE
+-MCDONALD CAITLIN         MR. & MRS. MICHAEL S. MCDONALD 203-263-6144     OK    6/15/05   17500.00     282.94        0.00    17217.06        0.00      2/23/09
+ 120-00-0954 - 01         205 CHURCH HILL RD                              BAD   3/15/17   17217.06    3809.35        0.00     8347.15    25564.21        83.21
+                          WOODBURY, CT 06798               6.00  2847      2/23/09         412.00        0.00                    0.00    25655.85     ACTIVE
+-MONIODES ARIANNA         NICHOLAS MONIODES                               BAD   6/15/15    2000.00       0.00        0.00        0.00        0.00      0/00/00
+ 120-00-1070 - 01         114 4TH AVE                                     BAD   3/15/17    2000.00       0.00        0.00      209.01      209.01         0.00
+                          STRATFORD, CT 06615-7709         6.00   626      5/25/12          47.00        0.00                    0.00     2219.66     INTRONLY
+-OREILLY CAITLIN          MR OREILLY AND MS DELIBERTIS                    BAD   6/15/13    3000.00       0.00        0.00        0.00        0.00      0/00/00
+ 120-00-1089 - 01         21 HILLSIDE AVENUE                              BAD   3/15/17    3000.00       0.00        0.00      476.56      476.56         0.00
+                          AMESBURY, MA 01913               6.00   960      7/10/13         115.00        0.00                    0.00     3492.52     INTRONLY
+-OREILLY CAITLIN          MR OREILLY AND MS DELIBERTIS                    BAD   6/15/13    3000.00       0.00        0.00        0.00        0.00      0/00/00
+ 120-00-1089 - 02         21 HILLSIDE AVENUE                              BAD   3/15/17    3000.00       0.00        0.00      568.55      568.55         0.00
+                          AMESBURY, MA 01913               5.00   382      7/10/13         115.00        0.00                    0.00     3581.86     INTRONLY
+-SILVER JILLIAN           SCOTT A. SILVER                305-788-6164     OK    6/15/10    6000.00    2602.51        0.00     1375.84        0.00      5/10/16
+ 120-00-1038 - 01         18001 OLD CUTLER RD NO 600                      BAD   3/10/17    3397.49    1957.05        0.00      185.69     1561.53       142.00
+                          PALMETTO BAY, FL 33157           6.00   295      5/10/16         142.00        0.00                    0.00     3600.72     ACTIVE
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         8
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ SMITH ALYSSA             MR. HERBERT M. LOWE            203-266-9343     OK    6/15/06    4000.00     968.63        0.00     3031.37        0.00     11/08/16
+ 120-00-0994 - 01         172 GOOD HILL ROAD                              BAD   3/15/17    3031.37     792.92        0.00     1204.34     4235.71       154.66
+                          WOODBURY, CT 06798               6.00  2117     11/08/16          94.00        0.00                    0.00     4251.85     ACTIVE
+-STANYON SAMANTHA         MR. JOHN R. STANYON            203-838-2116     OK    6/15/07     500.00       0.00        0.00      500.00        0.00      0/00/00
+ 120-00-0977 - 01         1818 HILLOCK DR UNIT C                          BAD   3/15/17     500.00       0.00        0.00      292.43      792.43         0.00
+                          RALEIGH, NC 27612                6.00  3548      3/10/03          12.00        0.00                    0.00      795.10     ACTIVE
+-SUARSANA IDA AYU MIRA    ROBERTA WADDELL                                 BAD   6/15/09    2000.00     364.42        0.00      988.48        0.00      7/22/14
+ 120-00-1014 - 01         100 RIVERSIDE DR NO 12A                         BAD   3/15/17    1635.58     597.99        0.00      259.52     1248.00        39.00
+                          NEW YORK CITY, NY 10024-4822     6.00   960      7/22/14          39.00        0.00                    0.00     1903.80     ACTIVE
+-SUTTER ALEXANDRA         KRISTINE SUTTER                203-573-9082     OK    6/15/09    9000.00    1478.10        0.00     7521.90        0.00      8/31/09
+ 120-00-1001 - 01         350 BRISTOL STREET EXT. C12                     BAD   3/15/17    7521.90      61.61        0.00     3481.45    11003.35        21.38
+                          WATERBURY, CT 06708              6.00  2329      8/31/09         212.00        0.00                    0.00    11043.38     ACTIVE
+-WEBSTER HANNAH           MARK WEBSTER                   203-245-2986     OK    6/15/12    6000.00     360.46        0.00     1027.07        0.00      6/17/13
+ 120-00-1054 - 01         2885 SANFORD AVE SW NO 30884                    BAD   3/15/17    5639.54       0.00        0.00      250.93     1278.00       360.46
+                          GRANDVILLE, MI 49418-1342        6.00   260      6/17/13         142.00        0.00                    0.00     5920.48     ACTIVE
+-WECTHER IANNA            ALLEN WECHTER                                   BAD   6/15/12   27000.00       0.00        0.00    22262.92        0.00      0/00/00
+ 120-00-1078 - 01         35-31 169TH STREET                              BAD   3/15/17   27000.00       0.00        0.00     5457.08    27720.00         0.00
+                          FLUSHING, NY 11258               4.50  1659      5/24/12         504.00        0.00                    0.00    32564.87     ACTIVE
+-WILLIAMS ALEXANDRIA      ANDREA L. WILLIAMS                              BAD   6/15/11    4000.00       0.00        0.00     1555.31        0.00      0/00/00
+ 120-00-1055 - 01         1791 BRYAN AVE                                  BAD   3/15/17    4000.00       0.00        0.00     1376.68     2931.99         0.00
+                          WINTER PARK, FL 32789-3956       6.00  2087      5/16/11          94.00        0.00                    0.00     5397.97     ACTIVE
+-WILLIAMS BRITTNEY        MR. WELDON C. WILLIAMS         973-416-6181     OK    6/15/06    3500.00       0.00        0.00     3500.00        0.00      7/26/11
+ 120-00-0949 - 01         75 MONTROSE ST                                  BAD   3/15/17    3500.00     661.38        0.00     1595.03     5095.03        83.00
+                          NEWARK, NJ 07106                 6.00  2781      7/26/11          83.00        0.00                    0.00     5113.65     ACTIVE
+-WILLIAMS BRITTNEY        ROSA & WELDON C. WILLIAMS                       BAD   6/15/06   39500.00      15.25        0.00    21340.83        0.00      2/10/12
+ 120-00-1005 - 01         75 MONTROSE STREET                              BAD   3/15/17   39484.75    8201.34        0.00     8756.34    30097.17       200.00
+                          NEWARK, NJ 07106                 4.00  2355      2/10/12         399.92        0.00                    0.00    48381.20     ACTIVE
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                         9
+0                                                                           *** 120 DAYS AND OVER ***
+0Name                     Address 1                      Telephone 1   TC Sep Date       Loan Amt    Prin Coll   Prin Canc   Prin PD     Col/Lit Due  Lst Pmt Dt
+ Acct No     - ID         Address 2                      Telephone 2   TC Lst Due Dt     Cur Bal     Int Coll    Int Canc    Int PD      Total Due    Lst Pmt Amt
+ Comment                  City, State, Zip               Rate   Days Past Last Act       Min Pmt     Lt Chg Coll             Lt Chg/Pen  Payoff         Status
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 ========= SUMMARY TOTALS =========
+                                                             Loan Amount:                      198500.00
+                                                             Loan Balance:                     184109.28
+0                                                            Principal Past Due:                92094.78
+                                                             Interest Past Due:                 41698.65
+                                                             Late Chg/Penalty Due:                  0.00
+                                                             Coll/Litigation Due:                   0.00
+                                                             Total Due:                        133793.43
+0                                                            Number Past Due:                         26
+1
+-
+0  12045-WESTOVER SCHOOL                                                  EDUCATIONAL DATA SYSTEMS, INC.                                               3/31/17
+        4-STUDENT LOAN                                                       LOAN DELINQUENCY REPORT                                                        10
+-                                                                      ====== AGING SUMMARY TOTALS ======
+0         Status          Count        Orig-Principal  Principal-Bal Principal-Due   Interest-Due    Late-Charges  Collection fees  Litigation fees    Total-Due
+          ------          -----        --------------  ------------- --------------  -------------   ------------  ---------------  ---------------    ----------
+0         Paid-in-full      195           805,019.36            .00            .00            .00            .00              .00              .00           .00
+          Enrolled            2            10,000.00      10,000.00            .00            .00            .00              .00              .00           .00
+          Grace               0                  .00            .00            .00            .00            .00              .00              .00           .00
+          Deferred            0                  .00            .00            .00            .00            .00              .00              .00           .00
+          PostDefer           0                  .00            .00            .00            .00            .00              .00              .00           .00
+          < 10 Days          25           183,000.00     128,826.60            .00            .00            .00              .00              .00           .00
+          -- Subtotal       222           998,019.36     138,826.60            .00            .00            .00              .00              .00           .00
+0         10-29 Days          7            52,000.00      40,413.27         485.19          90.16            .00              .00              .00        575.35
+          30-59 Days          1             6,000.00       2,082.36            .00          23.85            .00              .00              .00         23.85
+          60-89 Days          0                  .00            .00            .00            .00            .00              .00              .00           .00
+          90-119 Days         0                  .00            .00            .00            .00            .00              .00              .00           .00
+          120+ Days          26           198,500.00     184,109.28      92,094.78      41,698.65            .00              .00              .00    133,793.43
+0         -- Subtotal        34           256,500.00     226,604.91      92,579.97      41,812.66            .00              .00              .00    134,392.63
+          ** Totals         256         1,254,519.36     365,431.51      92,579.97      41,812.66            .00              .00              .00    134,392.63
+                                                                             *** End of Report ***

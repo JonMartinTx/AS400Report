@@ -1,0 +1,44 @@
+1
+-
+0   1087                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ARIZONA AUTOMOTIVE INSTITUTE                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   1087                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  ARIZONA AUTOMOTIVE INSTITUTE                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     3,743        5,174,348.90         3,329,829.09-         58,118.14-     1,756,187.79-        30,213.88
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE     3,743        5,174,348.90         3,329,829.09-         58,118.14-     1,756,187.79-        30,213.88
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               3,329,829.09       499,191.88        27,988.00         2,782.13         2,560.70     3,862,351.80
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE               3,329,829.09       499,191.88        27,988.00         2,782.13         2,560.70     3,862,351.80

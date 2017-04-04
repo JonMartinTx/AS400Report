@@ -1,0 +1,178 @@
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                                                                                               RUN DATE:  3/31/17
+  301 - WADE STUDENT LOAN                                                                                                                                     1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 COOPER ORIZA          28 ADDRCHANGE ACTIVE                                                                                            2,800.00 OLD:
+           2966 - 01 01     3/23/17    0/00/00                                                                                          2,800.00 NEW:
+0 DAY ALIYAH            28 ADDRCHANGE ACTIVE                                                                                              574.00 OLD:
+           3048 - 01 01     3/23/17    0/00/00                                                                                            574.00 NEW:
+0 WALLACH ASHLEIGH      28 ADDRCHANGE ACTIVE                                                                                            3,200.00 OLD:
+           3006 - 01 01     3/23/17    0/00/00                                                                                          3,200.00 NEW:
+0 CALVERT DANICA       900 PYMT-EDSI  ACTIVE        198676                                                                              3,800.00
+           2899 - 02 01     3/16/17    3/16/17 I         1      200.00-   200.00-                                                       3,600.00
+0 FERRAL CORINA        903 PAYMENTWEB ACTIVE    1170631610                                                                              1,610.40
+           3051 - 01 01     3/04/17    3/04/17 W         3      100.65-   100.65-                                                       1,509.75
+0 ANYANWU PRECIOUS     911 WEBPAYSCHL ACTIVE    1170702125                                                                              1,550.00
+           2985 - 01 01     3/07/17    3/11/17 W         5      100.00-   100.00-                                                       1,450.00
+0 ARDIS AMANDA         911 WEBPAYSCHL ACTIVE    1170601041                                                                                795.00
+           2974 - 02 01     3/01/17    3/01/17 W         9      100.00-   100.00-                                                         695.00
+0 BARAJAS DAISY        911 WEBPAYSCHL ACTIVE    1170601057                                                                              2,693.00
+           3072 - 01 01     2/28/17    3/01/17 W         6      146.00-   146.00-                                                       2,547.00
+0 BONNER MCKINIS       911 WEBPAYSCHL ACTIVE    1170894066                                                                              3,975.00
+           3079 - 01 01     3/29/17    3/30/17 W         2      255.00-   255.00-                                                       3,720.00
+0 BRADFORD KHORI       911 WEBPAYSCHL ACTIVE    1170702125                                                                             18,782.40
+           3044 - 01 01     3/06/17    3/11/17 W         1      700.00-   700.00-                                                      18,082.40
+0 BRUNGARDT FAITH      911 WEBPAYSCHL ACTIVE    1170904204                                                                             13,840.25
+           3080 - 01 01     3/30/17    3/31/17 W         2      601.75-   601.75-                                                      13,238.50
+0 CALVERT DANICA       911 WEBPAYSCHL ACTIVE    1170863879                                                                              3,800.00
+           2899 - 02 01     3/23/17    3/27/17 W         1      200.00-   200.00-                                                       3,600.00
+0 CARMOUCHE DARIELLE   911 WEBPAYSCHL ACTIVE    1170702122                                                                              1,120.00
+           2938 - 02 01     3/06/17    3/11/17 W         2      150.00-   150.00-                                                         970.00
+                       911 WEBPAYSCHL ACTIVE    1170863897                                                                              1,120.00
+                - 02 01     3/27/17    3/27/17 W         1      150.00-   150.00-                                                         970.00
+0 CHAVEZ MAYRA         911 WEBPAYSCHL ACTIVE    1170601041                                                                              6,847.96
+           3046 - 01 01     2/27/17    3/01/17 W         5      445.00-   445.00-                                                       6,402.96
+                       911 WEBPAYSCHL ACTIVE    1170894066                                                                              6,847.96
+                - 01 01     3/29/17    3/30/17 W         1      445.00-   445.00-                                                       6,402.96
+0 COX JOSHUA           911 WEBPAYSCHL ACTIVE    1170702125                                                                              4,000.00
+           3081 - 01 01     3/10/17    3/11/17 W         8       95.00-    95.00-                                                       3,905.00
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                                                                                               RUN DATE:  3/31/17
+  301 - WADE STUDENT LOAN                                                                                                                                     2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 DA COSTA THAINA      911 WEBPAYSCHL ACTIVE    1170601060                                                                              1,125.00
+           3082 - 01 01     3/01/17    3/01/17 W         1       75.00-    75.00-                                                       1,050.00
+0 DAY ALIYAH           911 WEBPAYSCHL ACTIVE    1170601057                                                                                634.00
+           3048 - 01 01     2/27/17    3/01/17 W         3       60.00-    60.00-                                                         574.00
+                       911 WEBPAYSCHL ACTIVE    1170863879                                                                                624.00
+                - 01 01     3/23/17    3/27/17 W         2       50.00-    50.00-                                                         574.00
+0 DRUM ALLYSON         911 WEBPAYSCHL ACTIVE    1170702125                                                                              3,709.50
+           2975 - 01 01     3/07/17    3/11/17 W         4      464.00-   464.00-                                                       3,245.50
+0 ELLIOTT CORTNEY      911 WEBPAYSCHL ACTIVE    1170601057                                                                              1,850.00
+           2956 - 01 01     2/27/17    3/01/17 W         5      350.00-   350.00-                                                       1,500.00
+0 EPHRIAM DESIREE      911 WEBPAYSCHL ACTIVE    1170601041                                                                              2,260.00
+           3085 - 01 01     2/28/17    3/01/17 W         7      120.00-   120.00-                                                       2,140.00
+0 FAUL KATELYN         911 WEBPAYSCHL ACTIVE    1170702122                                                                              1,292.80
+           3050 - 01 01     3/02/17    3/11/17 W         1       95.00-    95.00-                                                       1,197.80
+0 HOLLOWAY LAMARCUS    911 WEBPAYSCHL ACTIVE    1170702122                                                                              1,338.00
+           2721 - 02 01     3/10/17    3/11/17 W         5       45.00-    45.00-                                                       1,293.00
+0 JACKSON SABRA        911 WEBPAYSCHL ACTIVE    1170702035                                                                              1,673.00
+           3068 - 01 01     3/02/17    3/11/17 W         8      262.00-   262.00-                                                       1,411.00
+0 JUSULAVAGE KATELYN   911 WEBPAYSCHL ACTIVE    1170702122                                                                              8,100.00
+           3084 - 01 01     3/07/17    3/11/17 W         3      300.00-   300.00-                                                       7,800.00
+0 LEE JORDAN           911 WEBPAYSCHL ACTIVE    1170894021                                                                              2,200.00
+           3073 - 01 01     3/29/17    3/30/17 W         1      200.00-   200.00-                                                       2,000.00
+0 MEDINA AMANDA        911 WEBPAYSCHL ACTIVE    1170601114                                                                              2,994.00
+           3054 - 01 01     3/01/17    3/01/17 W         2      200.00-   200.00-                                                       2,794.00
+0 MOORE ALEXANDRIA     911 WEBPAYSCHL ACTIVE    1170601057                                                                              2,703.00
+           3055 - 01 01     2/27/17    3/01/17 W         4      180.00-   180.00-                                                       2,523.00
+                       911 WEBPAYSCHL ACTIVE    1170803109                                                                              2,658.00
+                - 01 01     3/21/17    3/21/17 W         4      135.00-   135.00-                                                       2,523.00
+0 MOORE DIAMOND        911 WEBPAYSCHL ACTIVE    1170803144                                                                              4,800.00
+           3002 - 01 01     3/18/17    3/21/17 W         2      400.00-   400.00-                                                       4,400.00
+0 MORRISON JASMINE     911 WEBPAYSCHL ACTIVE    1170702125                                                                                100.00
+           3003 - 01 01     3/09/17    3/11/17 W         7       29.63-    29.63-                                                          70.37
+                       911 WEBPAYSCHL ACTIVE    1170702125                                                                              1,900.00
+                - 02 01     3/09/17    3/11/17 W         7       70.37-    70.37-                                                       1,829.63
+0 NORRIS SERENITY MORR 911 WEBPAYSCHL ACTIVE    1170702125                                                                                631.70
+           3056 - 01 01     3/06/17    3/11/17 W         3       52.25-    52.25-                                                         579.45
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                                                                                               RUN DATE:  3/31/17
+  301 - WADE STUDENT LOAN                                                                                                                                     3
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 OLSEN HALEY          911 WEBPAYSCHL ACTIVE    1170803109                                                                              1,132.10
+           2978 - 01 01     3/18/17    3/21/17 W         1      566.50-   566.50-                                                         565.60
+0 PATINO MARIA         911 WEBPAYSCHL ACTIVE    1170601057                                                                                750.00
+           3071 - 01 01     2/24/17    3/01/17 W         2       50.00-    50.00-                                                         700.00
+                       911 WEBPAYSCHL ACTIVE    1170813276                                                                                750.00
+                - 01 01     3/22/17    3/22/17 W         1       50.00-    50.00-                                                         700.00
+0 RENTERIA JOE         911 WEBPAYSCHL ACTIVE    1170702125                                                                                700.00
+           3069 - 01 01     3/09/17    3/11/17 W         6      100.00-   100.00-                                                         600.00
+0 RIDEAUX ERIQA        911 WEBPAYSCHL ACTIVE    1170601041                                                                              1,519.91
+           3059 - 01 01     2/27/17    3/01/17 W         6       90.00-    90.00-                                                       1,429.91
+                       911 WEBPAYSCHL ACTIVE    1170863879                                                                              1,529.91
+                - 01 01     3/27/17    3/27/17 W         3      100.00-   100.00-                                                       1,429.91
+0 SHARPER TAYLOR       911 WEBPAYSCHL ACTIVE    1170601041                                                                                400.00
+           3075 - 01 01     2/28/17    3/01/17 W         4       25.00-    25.00-                                                         375.00
+0 SHOLES SASHA         911 WEBPAYSCHL ACTIVE    1170904204                                                                              4,526.78
+           3076 - 01 01     3/30/17    3/31/17 W         1      238.22-   238.22-                                                       4,288.56
+0 SIMS KEONNAH         911 WEBPAYSCHL ACTIVE    1170601057                                                                              2,616.00
+           3004 - 01 01     2/27/17    3/01/17 W         1      200.00-   200.00-                                                       2,416.00
+0 SMALL III DESI       911 WEBPAYSCHL ACTIVE    1170702125                                                                                759.48
+           3061 - 01 01     3/06/17    3/11/17 W         2      200.00-   200.00-                                                         559.48
+                       911 WEBPAYSCHL ACTIVE    1170813274                                                                                759.48
+                - 01 01     3/22/17    3/22/17 W         1      200.00-   200.00-                                                         559.48
+0 STIFF TAYLOR         911 WEBPAYSCHL ACTIVE    1170803166                                                                              1,071.22
+           3062 - 01 01     3/21/17    3/21/17 W         1       73.85-    73.85-                                                         997.37
+0 TAMPLIN CZANARA      911 WEBPAYSCHL ACTIVE    1170601041                                                                                543.04
+           3077 - 01 01     2/28/17    3/01/17 W         8       69.00-    69.00-                                                         474.04
+0 TRAYLOR RHIANNON     911 WEBPAYSCHL ACTIVE    1170863893                                                                              1,267.50
+           3078 - 01 01     3/23/17    3/27/17 W         1       84.50-    84.50-                                                       1,183.00
+0 VALLADARES GABRIELLA 911 WEBPAYSCHL ACTIVE    1170863879                                                                              1,800.00
+           2988 - 01 01     3/27/17    3/27/17 W         4      500.00-   500.00-                                                       1,300.00
+0 WELLS JORDEN         911 WEBPAYSCHL ACTIVE    1170702122                                                                              2,261.00
+           3064 - 01 01     3/08/17    3/11/17 W         4      180.00-   180.00-                                                       2,081.00
+0 WEST LINDSEY         911 WEBPAYSCHL ACTIVE    1170803144                                                                                199.00
+           2989 - 01 01     3/14/17    3/21/17 W         1       99.00-    99.00-                                                         100.00
+0 JACKSON SABRA        961 PAYREVERSE ACTIVE        198667                                                                              1,149.00
+           3068 - 01 01     3/11/17    3/11/17 E         1      262.00    262.00                                                        1,411.00
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  301 - WADE STUDENT LOAN                                                                                                                                     4
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           1           200.00-                                                          200.00-
+  903 - Web credit card payment             1           100.65-                                                          100.65-
+  911 - Payments recvd by Client-Web       47         9,302.07-                                                        9,302.07-
+  961 - Payment Reversal-CLIENT             1           262.00                                                           262.00
+0       ** TOTALS                          50         9,340.72-                                                        9,340.72-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  20100                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  WADE COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  301 - WADE STUDENT LOAN                                                                                                                                     5
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       160          381,722.31           216,283.55-          6,500.02-                         165,538.49
+  NEW LOANS/ADVANCES
+  COLLECTIONS            50                                 9,340.72-                                              9,340.72-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       160          381,722.31           225,624.27-          6,500.02-                         156,197.77
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 216,283.55                          1,776.00                                         218,059.55
+0 PAYMENTS                  **      9,602.72                                                                             9,602.72
+  PAYMENTS-REVR             **        262.00-                                                                              262.00-
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 225,624.27                          1,776.00                                         227,400.27

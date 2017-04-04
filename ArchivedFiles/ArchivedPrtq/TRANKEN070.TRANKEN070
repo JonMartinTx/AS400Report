@@ -1,0 +1,136 @@
+1
+-
+0  12070                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KENT SCHOOL                                                                                                                                RUN DATE:  3/31/17
+  070 - KENT INDEPENDENT LOAN                                                                                                                                 1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 ALLEN EMILY           63 60DAYPAST  ACTIVE                                                                                            1,470.73 OLD:      00061
+     70-00-0459 - 01 01     3/01/17    0/00/00 S                                                                                        1,470.73 NEW:
+0 BURROW TIMOTHY        63 60DAYPAST  ACTIVE                                                                                            1,838.40 OLD:      00061
+     70-00-0460 - 01 01     3/01/17    0/00/00 S                                                                                        1,838.40 NEW:
+0 CASACCI NICHOLAS      63 60DAYPAST  ACTIVE                                                                                            1,838.40 OLD:      00061
+     70-00-0461 - 01 01     3/01/17    0/00/00 S                                                                                        1,838.40 NEW:
+0 CHEONG MARK          901 PYMT-ACH   ACTIVE        198689                                                                              1,222.12
+     70-00-0304 - 01 01     3/20/17    3/16/17 A       106       55.57-    51.88-     3.69-                                             1,170.24
+                       901 PYMT-ACH   ACTIVE        198689                                                                              1,222.43
+                - 02 01     3/20/17    3/16/17 A       106       55.52-    51.84-     3.68-                                             1,170.59
+                       901 PYMT-ACH   ACTIVE        198689                                                                              1,222.43
+                - 03 01     3/20/17    3/16/17 A       106       55.52-    51.84-     3.68-                                             1,170.59
+                       901 PYMT-ACH   ACTIVE        198689                                                                              1,222.43
+                - 04 01     3/20/17    3/16/17 A       106       55.52-    51.84-     3.68-                                             1,170.59
+                       901 PYMT-ACH   ACTIVE        198689                                                                              1,222.43
+                - 05 01     3/20/17    3/16/17 A       106       55.52-    51.84-     3.68-                                             1,170.59
+0 FINAN ABIGAIL        900 PYMT-EDSI  ACTIVE        198704                                                                              1,634.75
+     70-00-0422 - 01 01     3/24/17    3/24/17 E        14       30.00-    22.73-     6.05-       1.22-                                 1,612.02
+                       900 PYMT-EDSI  ACTIVE        198704                                                                              3,269.68
+                - 02 01     3/24/17    3/24/17 E        14       60.00-    45.46-    12.09-       2.45-                                 3,224.22
+                       900 PYMT-EDSI  ACTIVE        198704                                                                              3,269.68
+                - 03 01     3/24/17    3/24/17 E        14       60.00-    45.46-    12.09-       2.45-                                 3,224.22
+0 JABLONSKI JACOB      900 PYMT-EDSI  ACTIVE        198655                                                                              1,540.28
+     70-00-0463 - 01 01     3/08/17    3/08/17 E        24      100.00-    92.62-     7.38-                                             1,447.66
+0 LEON SIMONE           63 60DAYPAST  ACTIVE                                                                                            3,676.83 OLD:      00061
+     70-00-0439 - 01 01     3/01/17    0/00/00 S                                                                                        3,676.83 NEW:
+0 MARTINO TAYLOR        63 60DAYPAST  ACTIVE                                                                                            1,838.40 OLD:      00061
+     70-00-0442 - 01 01     3/01/17    0/00/00 S                                                                                        1,838.40 NEW:
+0 MATEER JONATHAN      371 ADJ L/CDUE SPECIAL       198641                                                                              3,678.48
+     70-00-0466 - 01 01     3/01/17    3/01/17 E         1        2.45-                           2.45-                                 3,678.48
+                       900 PYMT-EDSI  SPECIAL       198655                                                                              3,678.48
+                - 01 01     3/08/17    3/08/17 E        23      100.00-             100.00-                                             3,678.48
+                         1 STATUS CHG SPECIAL                                                                                           3,678.48 OLD:        050
+                - 01 01     3/01/17    0/00/00 E                                                                                        3,678.48 NEW:        059
+                        61 15DAYPAST  SPECIAL                                                                                           3,678.48 OLD:      00031
+                - 01 01     3/03/17    0/00/00 S                                                                                        3,678.48 NEW:
+                        62 45DAYPAST  SPECIAL                                                                                           3,678.48 OLD:      00048
+                - 01 01     3/16/17    0/00/00 S                                                                                        3,678.48 NEW:
+0 MORIN LANDON          63 60DAYPAST  ACTIVE                                                                                            3,676.83 OLD:      00061
+     70-00-0467 - 01 01     3/01/17    0/00/00 S                                                                                        3,676.83 NEW:
+1
+-
+0  12070                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KENT SCHOOL                                                                                                                                RUN DATE:  3/31/17
+  070 - KENT INDEPENDENT LOAN                                                                                                                                 2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 PROKSCHA JASMINE     903 PAYMENTWEB SPECIAL   1170883954                                                                              1,805.05
+     70-00-0318 - 01 01     3/29/17    3/29/17 W         1       18.00-    10.80-     7.20-                                             1,794.25
+                       903 PAYMENTWEB SPECIAL   1170883954                                                                              5,415.71
+                - 02 01     3/29/17    3/29/17 W         1       54.00-    32.40-    21.60-                                             5,383.31
+                       903 PAYMENTWEB SPECIAL   1170883954                                                                              5,415.71
+                - 03 01     3/29/17    3/29/17 W         1       54.00-    32.40-    21.60-                                             5,383.31
+                       903 PAYMENTWEB SPECIAL   1170883954                                                                              5,415.71
+                - 04 01     3/29/17    3/29/17 W         1       54.00-    32.40-    21.60-                                             5,383.31
+                       403 CHGINT YTD SPECIAL       198719                                                                              1,794.25
+                - 01 01     3/29/17    3/29/17 E         2        7.20                7.20                                              1,794.25
+                       552 PAY PRIN   SPECIAL       198719                                                                              1,801.45
+                - 01 01     3/29/17    3/29/17 E         1        7.20-     7.20-                                                       1,794.25
+                       403 CHGINT YTD SPECIAL       198719                                                                              5,383.31
+                - 02 01     3/29/17    3/29/17 E         4       21.60               21.60                                              5,383.31
+                       552 PAY PRIN   SPECIAL       198719                                                                              5,404.91
+                - 02 01     3/29/17    3/29/17 E         3       21.60-    21.60-                                                       5,383.31
+                       403 CHGINT YTD SPECIAL       198719                                                                              5,383.31
+                - 03 01     3/29/17    3/29/17 E         6       21.60               21.60                                              5,383.31
+                       552 PAY PRIN   SPECIAL       198719                                                                              5,404.91
+                - 03 01     3/29/17    3/29/17 E         5       21.60-    21.60-                                                       5,383.31
+                       403 CHGINT YTD SPECIAL       198719                                                                              5,383.31
+                - 04 01     3/29/17    3/29/17 E         8       21.60               21.60                                              5,383.31
+                       552 PAY PRIN   SPECIAL       198719                                                                              5,404.91
+                - 04 01     3/29/17    3/29/17 E         7       21.60-    21.60-                                                       5,383.31
+0 RINN ROBERT           63 60DAYPAST  ACTIVE                                                                                            2,451.21 OLD:      00061
+     70-00-0443 - 01 01     3/01/17    0/00/00 S                                                                                        2,451.21 NEW:
+0 ZENK KAYLA            63 60DAYPAST  ACTIVE                                                                                            3,064.03 OLD:      00061
+     70-00-0444 - 01 01     3/01/17    0/00/00 S                                                                                        3,064.03 NEW:
+                        63 60DAYPAST  ACTIVE                                                                                            3,064.03 OLD:      00061
+                - 02 01     3/01/17    0/00/00 S                                                                                        3,064.03 NEW:
+1
+-
+0  12070                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KENT SCHOOL                                                             *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  070 - KENT INDEPENDENT LOAN                                                                                                                                 3
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 371 - Adjust L/C Fees Due                 1                                      2.45-                                   2.45-
+  403 - Change Interest Paid YTD/LTD        4                          72.00                                              72.00
+  552 - Adjust Principal Paid               4            72.00-                                                           72.00-
+  900 - Payments received by EDSI           5           206.27-       137.61-      6.12-                                 350.00-
+  901 - Payment received by EDSI-ACH        5           259.24-        18.41-                                            277.65-
+  903 - Web credit card payment             4           108.00-        72.00-                                            180.00-
+0       ** TOTALS                          23           645.51-       156.02-      8.57-                                 810.10-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12070                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KENT SCHOOL                                                             *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  070 - KENT INDEPENDENT LOAN                                                                                                                                 4
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       231          669,336.11           495,867.55-          9,196.42-                         164,272.14
+  NEW LOANS/ADVANCES
+  COLLECTIONS            14                                   573.51-                                                573.51-
+  CANCELLATIONS
+  ADJUSTMENTS             5                                    72.00-                                                 72.00-
+  NON-MONETARY ADJ        4
+  DELETIONS
+  CLOSING BALANCE       231          669,336.11           496,513.06-          9,196.42-                         163,626.63
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 495,867.55        55,351.88         3,109.19                                         554,328.62
+0 PAYMENTS                  **        645.51           228.02             6.12                                             879.65
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS                                           72.00-                                                              72.00-
+0 CLOSING BALANCE                 496,513.06        55,507.90         3,115.31                                         555,136.27

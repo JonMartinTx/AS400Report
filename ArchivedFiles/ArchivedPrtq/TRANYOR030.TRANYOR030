@@ -1,0 +1,44 @@
+1
+-
+0   2567                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  YORK COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  030 - YORK COLLEGE STUDENT LOAN                                                                                                                             1
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   2567                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  YORK COLLEGE                                                            *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  030 - YORK COLLEGE STUDENT LOAN                                                                                                                             2
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       107          338,239.39           288,816.14-          9,895.60-                          39,527.65
+  NEW LOANS/ADVANCES
+  COLLECTIONS
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       107          338,239.39           288,816.14-          9,895.60-                          39,527.65
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 288,816.14       105,178.26        12,454.43        25,616.81                        432,065.64
+0 PAYMENTS                  **
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 288,816.14       105,178.26        12,454.43        25,616.81                        432,065.64

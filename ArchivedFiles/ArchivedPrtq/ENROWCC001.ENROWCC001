@@ -1,0 +1,44 @@
+1
+-
+0     2447-WILLIAM CAREY UNIVERSITY                    Educational Data Systems, Inc.                          3/31/17
+          1-FEDERAL PERKINS LOAN                     ==== In School Verification ====                                1
+0   Name                         Acct No. - Seq      Loan Amt    Int Rate
+    Address                      Telephone 1         Advances    Loan Type    Sep Date    New Sep             New
+    City, State Zip              Telephone 2         Cur Bal     1st Pay Dt               Date                Telephone
+0   BARLOW SHAQUINTA B           428-39-5543-01        1500.00     5.00
+    103 YELLOW PINE DR           601-577-0664          1500.00      09         0/00/00    ______________      ______________
+    HATTIESBURG, MS 39402                              3000.00    0/00/00
+0   BARLOW SHAQUINTA B           428-39-5543-02        2667.00     5.00
+    103 YELLOW PINE DR           601-577-0664          5333.00      09         0/00/00    ______________      ______________
+    HATTIESBURG, MS 39402                              8000.00    0/00/00
+0   FLY ASHLEY LAUREN            428-69-7345-01        1834.00     5.00
+    2701 LAKEVIEW RD             601-754-9642              .00      09         0/00/00    ______________      ______________
+    HATTIESBURG, MS 39401                              1834.00    0/00/00
+0   HINTON LATEISHA T            257-81-7647-01        1834.00     5.00
+    52 BRANTLEY DRIVE            601-441-3085          3666.00      09         0/00/00    ______________      ______________
+    HATTIESBURG, MS 39402                              5500.00    0/00/00
+0   HINTON LATEISHA T            257-81-7647-02        1834.00     5.00
+    52 BRANTLEY DRIVE            601-441-3085          3666.00      09         0/00/00    ______________      ______________
+    HATTIESBURG, MS 39402                              5500.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-01        1834.00     5.00
+    1168 WIRE RD WEST            601-723-0083          1833.00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               3667.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-02        1833.00     5.00
+    1168 WIRE RD WEST            601-723-0083              .00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               1833.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-03        1834.00     5.00
+    1168 WIRE RD WEST            601-723-0083          1833.00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               3667.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-04        1834.00     5.00
+    1168 WIRE RD WEST            601-723-0083          3666.00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               5500.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-05        1834.00     5.00
+    1168 WIRE RD WEST            601-723-0083          3666.00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               5500.00    0/00/00
+0   RUBLE TRACY                  335-60-6935-06        1834.00     5.00
+    1168 WIRE RD WEST            601-723-0083          1833.00      09         5/15/17    ______________      ______________
+    PERKINSTON, MS 39573                               3667.00    0/00/00
+-
+0                                 Total number:                          11
+                                  Total loan amount:                47668.00
+                                  Total current balance:            47668.00

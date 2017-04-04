@@ -1,0 +1,55 @@
+1
+-
+0  12050                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SAINT MARK'S SCHOOL                                                                                                                        RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 FEARNLEY WILLIAM     900 PYMT-EDSI  ACTIVE        198643                                                                              1,734.54
+    205-00-9295 - 01 04     3/01/17    3/01/17 E         2      100.00-    52.26-    47.74-                                             1,682.28
+1
+-
+0  12050                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SAINT MARK'S SCHOOL                                                     *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           1            52.26-        47.74-                                            100.00-
+0       ** TOTALS                           1            52.26-        47.74-                                            100.00-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12050                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  SAINT MARK'S SCHOOL                                                     *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       318          881,316.48           613,016.58-        198,500.12-                          69,799.78
+  NEW LOANS/ADVANCES
+  COLLECTIONS             1                                    52.26-                                                 52.26-
+  CANCELLATIONS
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       318          881,316.48           613,068.84-        198,500.12-                          69,747.52
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 613,016.58       116,944.69            20.00                                         729,981.27
+0 PAYMENTS                  **         52.26            47.74                                                              100.00
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 613,068.84       116,992.43            20.00                                         730,081.27

@@ -1,0 +1,286 @@
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 HAYES MICHAEL G       28 ADDRCHANGE INTRONLY                                                                                            170.52 OLD:
+    120-04-1197 - 01 01     3/23/17    0/00/00                                                                                            170.52 NEW:
+0 MORRIS M/MRS PAUL B   28 ADDRCHANGE INTRONLY                                                                                          2,795.40 OLD:
+    120-03-6976 - 01 01     3/23/17    0/00/00                                                                                          2,795.40 NEW:
+0 VERALLIS GREGORY D.   61 15DAYPAST  INTRONLY                                                                                          3,933.48 OLD:      00048
+    120-02-2129 - 01 01     3/16/17    0/00/00 S                                                                                        3,933.48 NEW:
+0 VERALLIS JOANNE M.    61 15DAYPAST  INTRONLY                                                                                          1,432.23 OLD:      00048
+    220-02-2129 - 01 01     3/16/17    0/00/00 S                                                                                        1,432.23 NEW:
+0 PENFIELD JASON       311 ADJ COLFEE COLLAGEN      198662                                                                              2,986.26
+    120-01-4125 - 01 01     3/09/17    3/09/17 I         1       66.67                                     66.67                        2,986.26
+0 RUGUTT JOSEPH        311 ADJ COLFEE COLLAGEN      198662                                                                              2,332.01
+    120-01-3839 - 01 01     3/09/17    3/09/17 I         3       70.00                                     70.00                        2,332.01
+                       311 ADJ COLFEE COLLAGEN      198684                                                                              2,332.01
+                - 01 01     3/16/17    3/16/17 I         1       70.00                                     70.00                        2,332.01
+0 JAFFE ROBERTA        403 CHGINT YTD PAID OFF      198668                                                                                   .00
+    120-01-1042 - 01 01     3/11/17    3/11/17 E         2         .02                 .02                                                   .00
+0 BROWNER JACQUELINE   451 ADJ INTDUE PAID OFF      198658                                                                                   .00
+    100-12-1239 - 01 01     3/09/17    3/09/17 I         1        2.87-               2.87-                                                  .00
+0 O'NEILL-ARANA MARGAR 502 PAYRVR PRN PAID OFF      198663                                                                                 10.31-
+    120-01-3934 - 01 01     3/09/17    3/09/17 I         1       10.31     10.31                                                             .00
+0 JAFFE ROBERTA        552 PAY PRIN   PAID OFF      198668                                                                                   .02
+    120-01-1042 - 01 01     3/11/17    3/11/17 E         1         .02-      .02-                                                            .00
+0 ADUAMA CHRIS         900 PYMT-EDSI  ACTIVE        198711                                                                                600.17
+    120-00-6208 - 01 01     3/24/17    3/24/17 E        11      100.00-    97.79-     2.21-                                               502.38
+0 BIRMINGHAM JOSEPH M. 900 PYMT-EDSI  ACTIVE        198688                                                                              1,595.25
+    120-02-2507 - 01 01     3/16/17    3/16/17 E        19      460.72-   430.92-    29.80-                                             1,164.33
+0 BRILL MIMI           900 PYMT-EDSI  INTRONLY      198659                                                                              1,439.28
+    220-03-4623 - 01 01     3/09/17    3/09/17 E         4      106.43-    98.88-     7.55-                                             1,340.40
+0 BROCK DAVID C.       900 PYMT-EDSI  INTRONLY      198726                                                                              7,845.36
+    120-03-2853 - 01 01     3/31/17    3/31/17 E         2      100.00-    63.70-    36.30-                                             7,781.66
+0 BROWNER JACQUELINE   900 PYMT-EDSI  PAID OFF      198658                                                                              1,286.58
+    100-12-1239 - 01 01     3/09/17    3/09/17 I         2    1,286.58-  1286.58-                                                            .00
+0 CANGELOSI ANDREW     900 PYMT-EDSI  ACTIVE        198711                                                                              2,034.25
+    120-01-9242 - 01 01     3/24/17    3/24/17 E        12       50.00-    43.41-     6.59-                                             1,990.84
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 CANGELOSI ANDREW     900 PYMT-EDSI  ACTIVE        198711                                                                                218.48
+    120-02-1389 - 01 01     3/24/17    3/24/17 E        13       50.00-    49.29-      .71-                                               169.19
+0 COLLINS DEBRA S.     900 PYMT-EDSI  ACTIVE        198647                                                                                219.57
+    120-00-9468 - 01 01     3/03/17    3/03/17 E         5       75.00-    73.70-     1.30-                                               145.87
+                       900 PYMT-EDSI  ACTIVE        198726                                                                                220.04
+                - 01 01     3/31/17    3/31/17 E         4       75.00-    74.17-      .83-                                               145.87
+0 CZEPIEL STEPHEN      900 PYMT-EDSI  ACTIVE        198726                                                                                934.80
+    120-00-0368 - 01 01     3/31/17    3/31/17 E         3      200.00-   195.67-     4.33-                                               739.13
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198655                                                                                270.71
+    100-13-2240 - 01 01     3/08/17    3/08/17 E        41       30.00-    29.44-      .56-                                               241.27
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198655                                                                              2,842.85
+    100-13-4936 - 01 01     3/08/17    3/08/17 E        42       30.00-    25.51-     4.49-                                             2,817.34
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198655                                                                              2,860.83
+    100-13-4937 - 01 01     3/08/17    3/08/17 E        43       30.00-    25.48-     4.52-                                             2,835.35
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198673                                                                                271.05
+    100-13-2240 - 01 01     3/13/17    3/13/17 E        32       30.00-    29.78-      .22-                                               241.27
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198673                                                                              2,845.39
+    100-13-4936 - 01 01     3/13/17    3/13/17 E        33       30.00-    28.05-     1.95-                                             2,817.34
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198673                                                                              2,863.39
+    100-13-4937 - 01 01     3/13/17    3/13/17 E        31       30.00-    28.04-     1.96-                                             2,835.35
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198688                                                                                271.15
+    100-13-2240 - 01 01     3/16/17    3/16/17 E        30       30.00-    29.88-      .12-                                               241.27
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198688                                                                              2,846.18
+    100-13-4936 - 01 01     3/16/17    3/16/17 E        29       30.00-    28.84-     1.16-                                             2,817.34
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198688                                                                              2,864.18
+    100-13-4937 - 01 01     3/16/17    3/16/17 E        31       30.00-    28.83-     1.17-                                             2,835.35
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198704                                                                                270.98
+    100-13-2240 - 01 01     3/24/17    3/24/17 E        17       30.00-    29.71-      .29-                                               241.27
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198704                                                                              2,844.28
+    100-13-4936 - 01 01     3/24/17    3/24/17 E        18       30.00-    26.94-     3.06-                                             2,817.34
+0 DONALD MALCOLM       900 PYMT-EDSI  ACTIVE        198704                                                                              2,862.28
+    100-13-4937 - 01 01     3/24/17    3/24/17 E        19       30.00-    26.93-     3.07-                                             2,835.35
+0 DUMAIS DAVID J.      900 PYMT-EDSI  ACTIVE        198655                                                                              2,742.72
+    120-01-6517 - 01 01     3/08/17    3/08/17 E        13      103.67-    89.66-    14.01-                                             2,653.06
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          3
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 GONZALEZ MRS. LISA   900 PYMT-EDSI  INTRONLY      198655                                                                              2,006.22
+    120-02-8475 - 01 01     3/08/17    3/08/17 E        11      500.00-   489.76-    10.24-                                             1,516.46
+0 GOUVEIA, JR. KENNETH 900 PYMT-EDSI  INTRONLY      198711                                                                              2,611.37
+    120-03-2992 - 01 01     3/24/17    3/24/17 E        15      113.15-   103.52-     9.63-                                             2,507.85
+0 HAYES MICHAEL G      900 PYMT-EDSI  INTRONLY      198673                                                                              2,496.30
+    120-04-1197 - 01 01     3/13/17    3/13/17 E        18    2,500.00-  2325.78-   174.22-                                               170.52
+0 HUME JAMES           900 PYMT-EDSI  ACTIVE        198655                                                                              1,367.94
+    120-00-5715 - 01 01     3/08/17    3/08/17 E         8      133.61-   126.63-     6.98-                                             1,241.31
+0 LIMA TEDD A          900 PYMT-EDSI  INTRONLY      198688                                                                              4,416.06
+    120-03-9167 - 01 01     3/16/17    3/16/17 E        18       25.00-    13.47-    11.53-                                             4,402.59
+0 LIVINGSTON PETER K   900 PYMT-EDSI  ACTIVE        198647                                                                              1,011.89
+    100-12-6047 - 01 01     3/03/17    3/03/17 E        20      267.22-   261.57-     5.65-                                               750.32
+                       900 PYMT-EDSI  ACTIVE        198726                                                                              1,013.72
+                - 01 01     3/31/17    3/31/17 E         6      267.22-   263.40-     3.82-                                               750.32
+0 MCATAMNEY JOANN      900 PYMT-EDSI  ACTIVE        198673                                                                              2,189.02
+    120-00-1675 - 01 01     3/13/17    3/13/17 E        17       80.00-    67.35-    12.65-                                             2,121.67
+0 MORIATY, JR. PAUL J. 900 PYMT-EDSI  INTRONLY      198655                                                                              2,849.43
+    120-02-5549 - 01 01     3/08/17    3/08/17 E         7       25.00-    14.26-    10.74-                                             2,835.17
+0 MORRIS M/MRS PAUL B  900 PYMT-EDSI  INTRONLY      198716                                                                              2,823.76
+    120-03-6976 - 01 01     3/27/17    3/27/17 E        15       50.00-    28.36-    21.64-                                             2,795.40
+0 O'BRIEN KEVIN T      900 PYMT-EDSI  INTRONLY      198720                                                                              1,958.49
+    120-04-2568 - 01 01     3/29/17    3/29/17 E         4       50.00-    37.09-    12.91-                                             1,921.40
+0 PAYTON MARK          900 PYMT-EDSI  ACTIVE        198704                                                                              3,709.10
+    120-01-0815 - 01 01     3/24/17    3/24/17 E        20      125.00-   111.33-    13.67-                                             3,597.77
+0 PIASCIK MR. GARY J.  900 PYMT-EDSI  INTRONLY      198655                                                                              1,851.19
+    120-02-2695 - 01 01     3/08/17    3/08/17 E        10       20.00-    10.55-     9.45-                                             1,840.64
+0 PINKNEY JR WILFORD   900 PYMT-EDSI  INTRONLY      198655                                                                              4,429.37
+    120-03-7042 - 01 01     3/08/17    3/08/17 E        12       50.00-    31.99-    18.01-                                             4,397.38
+0 ROUNTREE DAVID       900 PYMT-EDSI  INTRONLY      198673                                                                              5,510.11
+    120-03-4623 - 01 01     3/13/17    3/13/17 E        19      125.12-    92.60-    32.52-                                             5,417.51
+                       900 PYMT-EDSI  INTRONLY      198711                                                                              5,534.29
+                - 01 01     3/24/17    3/24/17 E        14      124.96-   116.78-     8.18-                                             5,417.51
+0 SANDERCOX MR. ROBERT 900 PYMT-EDSI  INTRONLY      198711                                                                              5,218.63
+    120-03-5243 - 01 01     3/24/17    3/24/17 E         9      100.00-    80.77-    19.23-                                             5,137.86
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          4
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 SANDERCOX MR. ROBERT 900 PYMT-EDSI  INTRONLY      198711                                                                              5,205.66
+    120-03-5245 - 01 01     3/24/17    3/24/17 E        10      100.00-    80.81-    19.19-                                             5,124.85
+0 SHAW KATHY S         900 PYMT-EDSI  INTRONLY      198655                                                                              5,982.73
+    120-03-6534 - 01 01     3/08/17    3/08/17 E         9       50.00-    21.06-    28.94-                                             5,961.67
+0 TASHITALA MARTIN     900 PYMT-EDSI  ACTIVE        198716                                                                                532.81
+    120-01-5694 - 01 01     3/27/17    3/27/17 E        14      100.00-    97.82-     2.18-                                               434.99
+0 TOBIN KEVIN          900 PYMT-EDSI  ACTIVE        198726                                                                              1,580.32
+    120-01-2504 - 01 01     3/31/17    3/31/17 E         1      120.00-   113.39-     6.61-                                             1,466.93
+0 VERALLIS GREGORY D.  900 PYMT-EDSI  INTRONLY      198721                                                                              3,935.60
+    120-02-2129 - 01 01     3/30/17    3/30/17 E         6       48.66-     2.12-    46.54-                                             3,933.48
+0 VERALLIS JOANNE M.   900 PYMT-EDSI  INTRONLY      198721                                                                              1,433.01
+    220-02-2129 - 01 01     3/30/17    3/30/17 E         5       17.72-      .78-    16.94-                                             1,432.23
+0 WHITE MARY C.        900 PYMT-EDSI  ACTIVE        198655                                                                                706.81
+    120-01-7626 - 01 01     3/08/17    3/08/17 E         6       69.11-    66.45-     2.66-                                               640.36
+0 BAKER WILLIAM H.     901 PYMT-ACH   ACTIVE        198666                                                                                582.65
+    120-01-6524 - 01 01     3/10/17    3/09/17 A        89      100.00-    97.66-     2.34-                                               484.99
+0 CROWLEY DEBBIE       901 PYMT-ACH   INTRONLY      198666                                                                              1,865.37
+    220-02-3235 - 01 01     3/10/17    3/09/17 A        24       25.00-    17.50-     7.50-                                             1,847.87
+0 CROWLEY KERRY        901 PYMT-ACH   INTRONLY      198666                                                                              5,412.53
+    120-02-3235 - 01 01     3/10/17    3/09/17 A        25       25.00-     3.25-    21.75-                                             5,409.28
+0 DANIERE AMRITA       901 PYMT-ACH   ACTIVE        198666                                                                                514.37
+    120-01-0374 - 01 01     3/10/17    3/09/17 A         4      143.98-   141.92-     2.06-                                               372.45
+0 DAVENPORT ELIZABETH  901 PYMT-ACH   PAID OFF      198689                                                                                 69.49
+    120-00-0948 - 01 01     3/20/17    3/16/17 A        52       69.77-    69.54-      .23-                                                  .05-
+0 DAVENPORT ELIZABETH  901 PYMT-ACH   INTRONLY      198689                                                                              2,693.71
+    120-00-4027 - 01 01     3/20/17    3/16/17 A        51       75.00-    67.38-     7.62-                                             2,626.33
+0 DODGE FORBES         901 PYMT-ACH   ACTIVE        198689                                                                              1,698.11
+    100-13-7507 - 01 01     3/20/17    3/16/17 A        54      100.00-   100.00-                                                       1,598.11
+0 DONOHUE SUSAN        901 PYMT-ACH   ACTIVE        198689                                                                              1,406.72
+    120-00-9810 - 01 01     3/20/17    3/16/17 A       138      165.87-   161.27-     4.60-                                             1,245.45
+0 DUNMORE RAYMOND      901 PYMT-ACH   ACTIVE        198689                                                                              1,539.78
+    120-00-8917 - 01 01     3/20/17    3/16/17 A       124       93.30-    88.25-     5.05-                                             1,451.53
+0 FLANAGAN REBECCA S   901 PYMT-ACH   INTRONLY      198689                                                                              5,083.80
+    120-03-8257 - 01 01     3/20/17    3/16/17 A       125      150.00-   133.36-    16.64-                                             4,950.44
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          5
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 HINES-JOHNSON LISA   901 PYMT-ACH   INTRONLY      198666                                                                              3,551.69
+    120-02-8902 - 01 01     3/10/17    3/09/17 A        56      100.00-    85.73-    14.27-                                             3,465.96
+0 JAFFE ROBERTA        901 PYMT-ACH   PAID OFF      198666                                                                                 93.84
+    120-01-1042 - 01 01     3/10/17    3/09/17 A        74       94.43-    93.84-      .59-                                                  .00
+0 KEARNS KEVIN M.      901 PYMT-ACH   ACTIVE        198689                                                                              2,094.74
+    120-01-1937 - 01 01     3/20/17    3/16/17 A        83       80.63-    73.78-     6.85-                                             2,020.96
+0 LEIN MEREDITH        901 PYMT-ACH   ACTIVE        198689                                                                                620.79
+    100-14-2702 - 01 01     3/20/17    3/16/17 A       111      131.31-   129.28-     2.03-                                               491.51
+0 MACLEAN ALEX         901 PYMT-ACH   ACTIVE        198666                                                                                614.39
+    120-00-9494 - 01 01     3/10/17    3/09/17 A         1       57.59-    55.12-     2.47-                                               559.27
+0 MANNAI DAVID         901 PYMT-ACH   ACTIVE        198666                                                                              2,866.18
+    120-00-9785 - 01 01     3/10/17    3/09/17 A        21      179.69-   168.18-    11.51-                                             2,698.00
+0 MCCALL DONALD S      901 PYMT-ACH   ACTIVE        198689                                                                                965.56
+    100-15-0259 - 01 01     3/20/17    3/16/17 A        47      195.81-   192.65-     3.16-                                               772.91
+0 MONTES DR. ARLEEN C. 901 PYMT-ACH   INTRONLY      198689                                                                              8,272.00
+    120-02-9425 - 01 01     3/20/17    3/16/17 A        17       50.00-    22.92-    27.08-                                             8,249.08
+0 O'DAY THOMAS         901 PYMT-ACH   ACTIVE        198689                                                                              4,937.04
+    120-02-3221 - 01 01     3/20/17    3/16/17 A       143      138.22-   122.06-    16.16-                                             4,814.98
+0 SCHONES TOM          901 PYMT-ACH   INTRONLY      198689                                                                              3,702.59
+    120-03-5224 - 01 01     3/20/17    3/16/17 A       146       50.00-    37.88-    12.12-                                             3,664.71
+0 SIWICKI, JR. J.R.    901 PYMT-ACH   ACTIVE        198666                                                                                395.94
+    120-03-2576 - 01 01     3/10/17    3/09/17 A        46      100.00-    98.41-     1.59-                                               297.53
+0 STIEFEL JAN M.       901 PYMT-ACH   ACTIVE        198689                                                                              3,889.81
+    120-00-7800 - 01 01     3/20/17    3/16/17 A        62      115.18-   102.45-    12.73-                                             3,787.36
+0 SULLIVAN CAROL       901 PYMT-ACH   ACTIVE        198689                                                                              1,687.79
+    220-00-8294 - 01 01     3/20/17    3/16/17 A        33      103.67-    98.14-     5.53-                                             1,589.65
+0 SULLIVAN KEVIN       901 PYMT-ACH   ACTIVE        198689                                                                              1,406.25
+    120-00-8294 - 01 01     3/20/17    3/16/17 A        84       86.39-    81.78-     4.61-                                             1,324.47
+0 WILDER SANDY         901 PYMT-ACH   ACTIVE        198666                                                                              8,252.78
+    100-09-9831 - 01 01     3/10/17    3/09/17 A        33       40.00-     6.84-    33.16-                                             8,245.94
+0 WOLPE DAVID          901 PYMT-ACH   ACTIVE        198666                                                                                225.67
+    120-01-1920 - 01 01     3/10/17    3/09/17 A        23       34.55-    33.64-      .91-                                               192.03
+0 ZORIAN LORA          901 PYMT-ACH   INTRONLY      198666                                                                              6,000.00
+    120-02-1378 - 01 01     3/10/17    3/09/17 A        58       25.00-              25.00-                                             6,000.00
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                                                                                             RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          6
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 CIOLFI LAWRENCE J    903 PAYMENTWEB INTRONLY  1170601121                                                                                833.06
+    120-04-1422 - 01 01     3/01/17    3/01/17 W         1      100.00-    95.97-     4.03-                                               737.09
+0 HARRINGTON ROSEMARY  903 PAYMENTWEB INTRONLY  1170671610                                                                              1,737.85
+    120-03-6893 - 01 01     3/08/17    3/08/17 W         1      100.00-    89.25-    10.75-                                             1,648.60
+0 MARTIN JOHN J.       903 PAYMENTWEB ACTIVE    1170833627                                                                              2,408.09
+    120-01-6516 - 01 01     3/24/17    3/24/17 W         1      126.70-   117.82-     8.88-                                             2,290.27
+0 PENFIELD JASON       915 AGCYCLIENT COLLAGEN      198662                                                                              3,094.22
+    120-01-4125 - 01 01     3/09/17    3/09/17 I         2      200.00-   107.96-    25.37-                66.67-                       2,986.26
+0 RUGUTT JOSEPH        915 AGCYCLIENT COLLAGEN      198662                                                                              2,463.74
+    120-01-3839 - 01 01     3/09/17    3/09/17 I         4      210.00-   131.73-     8.27-                70.00-                       2,332.01
+                       915 AGCYCLIENT COLLAGEN      198684                                                                              2,388.68
+                - 01 01     3/16/17    3/16/17 I         2      210.00-    56.67-    83.33-                70.00-                       2,332.01
+                       965 AGCYREVCLT COLLAGEN      198683                                                                              2,203.21
+                - 01 01     3/16/17    3/16/17 E         1      210.00    128.80     81.20                                              2,332.01
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          7
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 311 - Adjust Collection Fees Due          3                                                206.67                      206.67
+  403 - Change Interest Paid YTD/LTD        1                            .02                                                .02
+  451 - Adjust Interest Due                 1                           2.87-                                              2.87-
+  502 - Adjust Principal Paid               1            10.31                                                            10.31
+  552 - Adjust Principal Paid               1              .02-                                                             .02-
+  900 - Payments received by EDSI          47         7,398.84-       630.33-                                          8,029.17-
+  901 - Payment received by EDSI-ACH       27         2,282.83-       247.56-                                          2,530.39-
+  903 - Web credit card payment             3           303.04-        23.66-                                            326.70-
+  915 - CollAgcy payment recvd-CLIENT       3           296.36-       116.97-                206.67-                     620.00-
+  965 - CollAgcy-Client Reversal            1           128.80         81.20                                             210.00
+0       ** TOTALS                          88        10,141.98-       940.17-                                         11,082.15-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12110                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  NORTHFIELD MOUNT HERMON SCHOOL                                          *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  080 - STUDENT LOAN                                                                                                                                          8
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     2,071       10,333,010.74         8,306,010.05-      1,732,537.86-                         294,462.83
+  NEW LOANS/ADVANCES
+  COLLECTIONS            81                                10,152.27-                                             10,152.27-
+  CANCELLATIONS
+  ADJUSTMENTS             6                                    10.29                                                  10.29
+  NON-MONETARY ADJ        1
+  DELETIONS
+  CLOSING BALANCE     2,071       10,333,010.74         8,316,152.03-      1,732,537.86-                         284,320.85
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               8,306,010.05     2,236,029.51           697.62       257,757.46                     10,800,494.64
+0 PAYMENTS                  **      9,984.73           901.55                                                           10,886.28
+  PAYMENTS-REVR             **        139.11-           81.20-                                                             220.31-
+0 NON-CASH PAYMENTS                   296.36           116.97                            206.67                            620.00
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS                                             .02-                                                                .02-
+0 CLOSING BALANCE               8,316,152.03     2,236,966.81           697.62       257,964.13                     10,811,780.59

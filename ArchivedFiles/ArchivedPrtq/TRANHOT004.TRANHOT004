@@ -1,0 +1,78 @@
+1
+-
+0  12065                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  HOTCHKISS SCHOOL                                                                                                                           RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 BORGE MICHAEL        901 PYMT-ACH   ACTIVE        198666                                                                                378.47
+     65-00-6882 - 01 06     3/10/17    3/09/17 A        15       23.04-    21.52-     1.52-                                               356.95
+                       901 PYMT-ACH   ACTIVE        198666                                                                                378.68
+                - 02 06     3/10/17    3/09/17 A        15       23.03-    21.51-     1.52-                                               357.17
+0 HUNTER JULLA         900 PYMT-EDSI  ACTIVE        198688                                                                                226.25
+     65-00-6950 - 01 06     3/16/17    3/16/17 E        25       40.00-    39.27-      .73-                                               186.98
+                       900 PYMT-EDSI  ACTIVE        198688                                                                                226.25
+                - 02 06     3/16/17    3/16/17 E        25       40.00-    39.27-      .73-                                               186.98
+0 JOSEPH BRANDON       251 CANCELLATN PAID OFF        8614                                                                                 89.13 Write Off
+     65-00-6461 - 01 06     3/17/17    3/16/17 I         1       97.35-    89.13-     8.22-                                       12         .00 COUNT: 01 - 100%
+                       251 CANCELLATN PAID OFF        8614                                                                                112.49 Write Off
+                - 02 06     3/17/17    3/16/17 I         1      122.86-   112.49-    10.37-                                       12         .00 COUNT: 01 - 100%
+                       251 CANCELLATN PAID OFF        8614                                                                                112.49 Write Off
+                - 03 06     3/17/17    3/16/17 I         1      122.86-   112.49-    10.37-                                       12         .00 COUNT: 01 - 100%
+                       251 CANCELLATN PAID OFF        8614                                                                                112.49 Write Off
+                - 04 06     3/17/17    3/16/17 I         1      122.86-   112.49-    10.37-                                       12         .00 COUNT: 01 - 100%
+0 ROBINSON IAN         900 PYMT-EDSI  ACTIVE        198725                                                                                304.53
+     65-00-7007 - 01 06     3/31/17    3/31/17 E         1       27.83-    26.42-     1.41-                                               278.11
+                       900 PYMT-EDSI  ACTIVE        198725                                                                                226.96
+                - 02 06     3/31/17    3/31/17 E         1       22.17-    21.12-     1.05-                                               205.84
+0 VILLADOLLD JAMIE      62 45DAYPAST  ACTIVE                                                                                              993.43 OLD:      00061
+     65-00-6262 - 01 06     3/01/17    0/00/00 S                                                                                          993.43 NEW:
+1
+-
+0  12065                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  HOTCHKISS SCHOOL                                                        *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          2
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 900 - Payments received by EDSI           4           126.08-         3.92-                                            130.00-
+  901 - Payment received by EDSI-ACH        2            43.03-         3.04-                                             46.07-
+0       ** TOTALS                           6           169.11-         6.96-                                            176.07-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0  12 - Write Off
+      -      #1  CANCEL 100.000%            4           426.60-        39.33-                                            465.93-
+0       ** TOTALS                           4           426.60-        39.33-                                            465.93-
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0  12065                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  HOTCHKISS SCHOOL                                                        *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  004 - STUDENT LOAN                                                                                                                                          3
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE       883          784,631.88           690,924.30-         87,759.09-                           5,948.49
+  NEW LOANS/ADVANCES
+  COLLECTIONS             6                                   169.11-                                                169.11-
+  CANCELLATIONS           4                                                      426.60-                             426.60-
+  ADJUSTMENTS
+  NON-MONETARY ADJ
+  DELETIONS
+  CLOSING BALANCE       883          784,631.88           691,093.41-         88,185.69-                           5,352.78
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE                 690,924.30       140,160.87            50.00                                         831,135.17
+0 PAYMENTS                  **        169.11             6.96                                                              176.07
+  PAYMENTS-REVR             **
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS
+0 CLOSING BALANCE                 691,093.41       140,167.83            50.00                                         831,311.24

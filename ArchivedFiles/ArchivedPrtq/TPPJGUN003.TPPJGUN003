@@ -1,0 +1,24 @@
+1
+-
+0  12105-THE GUNNERY                                               EDUCATIONAL DATA SYSTEMS, INC                                                     DATE: 3/31/17
+        3-TUITION PAYMENT PLAN                                     TUITION PAYMENT PLAN JOURNAL                                                      PAGE:   1
+0 STUDENT NAME                   STU-ACCT-NBR  NBR-MON   DAYS-PST          PLAN-AMT       CUR-DUE    LATE CHG-DUE        TOTAL-DUE       TOT-PAID     LST-PAY-AMT      INT-DUE
+  APPLICANT NAME/ADDR            PHONE         REM-MON   STATUS             CUR-BAL       PAST-DUE   LATE CHG-PAID       NEXT-DUE        MON-PAY-AMT  LST-PAY-DTE  INT-COLLECT
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 RHODES MAXWELL                        3087     10             0         27,675.00            .00            .00               .00              .00          .00        .00
+  WENDY RHODES                   203-426-0488    10        ACTIVE         27,675.00            .00            .00           5/01/17         2,767.50      0/00/00        .00
+  28 SCUDDER RD.
+  NEWTOWN, CT 06470
+0 STAMMEN CAITLIN                       3089     10             0         53,865.00            .00            .00               .00              .00          .00        .00
+  JEFFREY STAMMEN                917-273-9789    10        ACTIVE         53,865.00            .00            .00           5/01/17         5,386.50      0/00/00        .00
+  2 RIVER TERRACE, APT. 18B
+  NEW YORK, NY 10282
+1
+-
+0  12105-THE GUNNERY                                               EDUCATIONAL DATA SYSTEMS, INC                                                     DATE: 3/31/17
+        3-TUITION PAYMENT PLAN                                     TUITION PAYMENT PLAN JOURNAL                                                      PAGE:   2
+-
+-
+                                                          **** TOTALS ****
+-  COUNT                         PLAN-AMT    CURRENT BAL PAST DUE       TOT-PAID      LATECHG-DUE  LATECHG-PAID                                                        INT-DUE
+       2                        81,540.00     81,540.00

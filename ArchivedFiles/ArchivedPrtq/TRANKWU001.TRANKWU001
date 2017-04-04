@@ -1,0 +1,475 @@
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  1
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 ALEXANDER ADRIANNE N 903 PAYMENTWEB ACTIVE    1170681868                                                                              1,443.52
+    511-06-7680 - 01 09     3/09/17    3/09/17 W         1       40.00-    35.25-     4.75-                                             1,408.27
+0 ANTHOLZ HANNAH R      70 90DAYGRACE 1STGRACE                                                                                          1,000.00 OLD:      00000
+    499-08-2184 - 01 09     3/13/17    0/00/00 S                                                                                        1,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          1,000.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                        1,000.00 NEW:
+0 AUGUSTIN JOSUE        70 90DAYGRACE 1STGRACE                                                                                          1,000.00 OLD:      00000
+    595-45-4098 - 01 09     3/13/17    0/00/00 S                                                                                        1,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          3,000.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          1,000.00 OLD:      00000
+                - 03 09     3/13/17    0/00/00 S                                                                                        1,000.00 NEW:
+0 AYERS MEAGAN S       901 PYMT-ACH   ACTIVE        198666                                                                              2,226.41
+    512-08-8014 - 01 09     3/10/17    3/09/17 A        62       28.50-    20.27-     8.23-                                             2,206.14
+                       901 PYMT-ACH   ACTIVE        198666                                                                              1,681.27
+                - 02 09     3/10/17    3/09/17 A        62       21.50-    15.29-     6.21-                                             1,665.98
+0 BARON JUSTINE M      903 PAYMENTWEB ACTIVE    1170631534                                                                              4,206.79
+    513-06-1065 - 01 09     3/04/17    3/04/17 W         4       72.00-    54.13-    17.87-                                             4,152.66
+0 BARROW II GARY D     900 PYMT-EDSI  ACTIVE        198691                                                                              1,725.63
+    633-20-4343 - 01 09     3/21/17    3/21/17 E         8       43.00-    35.20-     7.80-                                             1,690.43
+0 BATEMAN ALEXIS B     904 EDSICCPAY  ACTIVE    1170823357                                                                              1,656.41
+    523-83-3095 - 01 09     3/23/17    3/23/17 W         1       42.00-    31.38-     8.62-       2.00-                                 1,625.03
+0 BERKLUND STEVEN M    901 PYMT-ACH   ACTIVE        198689                                                                              2,887.21
+    511-96-0191 - 01 09     3/20/17    3/16/17 A       136       59.00-    50.30-     8.70-                                             2,836.91
+0 BETTIS TAMMY L        61 15DAYPAST  ACTIVE                                                                                              406.25 OLD:      00016
+    452-99-3471 - 01 09     3/30/17    0/00/00 S                                                                                          406.25 NEW:
+0 BLAIR JESSICA A      903 PAYMENTWEB ACTIVE    1170702122                                                                              3,617.86
+    507-33-5835 - 01 09     3/11/17    3/11/17 W         8       48.00-    33.62-    14.38-                                             3,584.24
+                        28 ADDRCHANGE ACTIVE                                                                                            3,584.24 OLD:
+                - 01 09     3/23/17    0/00/00                                                                                          3,584.24 NEW:
+0 BOHL CHRISTINA M      61 15DAYPAST  ACTIVE                                                                                            1,049.77 OLD:      00016
+    515-02-6349 - 01 09     3/30/17    0/00/00 S                                                                                        1,049.77 NEW:
+0 BREEDLOVE JESSICA A   70 90DAYGRACE 1STGRACE                                                                                          3,269.48 OLD:      00000
+    491-06-7586 - 01 09     3/13/17    0/00/00 S                                                                                        3,269.48 NEW:
+0 BRINKER DANE D       901 PYMT-ACH   ACTIVE        198666                                                                              1,004.87
+    511-06-7180 - 01 09     3/10/17    3/09/17 A        51       80.00-    76.29-     3.71-                                               928.58
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  2
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 BRINSON CHITON TRAE   70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+    510-06-6150 - 01 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 BROWN HALEY D         62 45DAYPAST  ACTIVE                                                                                            2,001.29 OLD:      00047
+    515-96-2317 - 01 09     3/01/17    0/00/00 S                                                                                        2,001.29 NEW:
+                        63 60DAYPAST  ACTIVE                                                                                            2,001.29 OLD:      00065
+                - 01 09     3/16/17    0/00/00 S                                                                                        2,001.29 NEW:
+0 BRUBAKER LORI K      901 PYMT-ACH   1STGRACE      198689                                                                              2,017.42
+    511-96-2718 - 01 09     3/20/17    3/16/17 A        99      111.00-   111.00-                                                       1,906.42
+0 BRUGGER SARAH M       61 15DAYPAST  ACTIVE                                                                                            1,438.60 OLD:      00016
+    509-06-7434 - 01 09     3/30/17    0/00/00 S                                                                                        1,438.60 NEW:
+0 BUCHANAN KYLE D      900 PYMT-EDSI  ACTIVE        198673                                                                              3,738.28
+    622-60-0713 - 01 09     3/13/17    3/13/17 E        55       43.00-    28.61-    14.39-                                             3,709.67
+0 BUCKNER TY A         901 PYMT-ACH   ACTIVE        198689                                                                              1,475.92
+    515-04-3585 - 01 09     3/20/17    3/16/17 A       149       43.00-    38.55-     4.45-                                             1,437.37
+0 BUEHRE JANET P       900 PYMT-EDSI  ACTIVE        198673                                                                                756.75
+    575-35-4092 - 01 09     3/13/17    3/13/17 E        34       60.00-    56.87-     3.13-                                               699.88
+                       900 PYMT-EDSI  ACTIVE        198704                                                                                758.73
+                - 01 09     3/24/17    3/24/17 E         7       60.00-    58.85-     1.15-                                               699.88
+0 CAIN DUSTIN L        901 PYMT-ACH   ACTIVE        198666                                                                              3,998.37
+    644-28-0234 - 01 09     3/10/17    3/09/17 A        31       75.00-    60.22-    14.78-                                             3,938.15
+0 CAIN EMILY E         451 ADJ INTDUE DEFER-ST      198693                                                                              1,500.00
+    513-08-5787 - 01 09     3/21/17    3/21/17 E         1        7.39-               7.39-                                             1,500.00
+                       271 DEFERMENT  DEFER-ST       10736                                                                              1,500.00 Student (at least 1/2 tim
+                - 01 09     8/15/16    3/21/17 I         1                                                                              1,500.00 08/15/16 - 05/15/17
+0 CARDWELL RACHEL L    903 PAYMENTWEB 1STGRACE  1170803109                                                                                802.99
+    601-35-9920 - 01 09     3/21/17    3/21/17 W         3       50.00-    50.00-                                                         752.99
+0 CHANCE DANIEL C      903 PAYMENTWEB ACTIVE    1170884021                                                                              1,772.00
+    515-06-1535 - 01 09     3/29/17    3/29/17 W         1      200.00-   160.68-    31.32-       8.00-                                 1,611.32
+0 CLARK ALISON C       903 PAYMENTWEB ACTIVE    1170833784                                                                              1,305.25
+    523-73-5151 - 01 09     3/24/17    3/24/17 W         1       42.00-    29.99-    10.01-       2.00-                                 1,275.26
+0 COLE BRANDON R       901 PYMT-ACH   ACTIVE        198689                                                                              2,003.38
+    512-02-3854 - 01 09     3/20/17    3/16/17 A        24       54.00-    47.97-     6.03-                                             1,955.41
+0 COOPER JR RODNEY L    61 15DAYPAST  ACTIVE                                                                                            2,373.60 OLD:      00016
+    635-03-4161 - 01 09     3/01/17    0/00/00 S                                                                                        2,373.60 NEW:
+0 CROUSE SARAH R       903 PAYMENTWEB REHABILI  1170753042                                                                              3,679.08
+    515-08-0269 - 01 09     3/15/17    3/16/17 W         2       43.00-    28.89-    14.11-                                             3,650.19
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  3
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 DESILVA JOSEPH A      61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+    600-51-6618 - 01 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 DONOHUE COLY J        70 90DAYGRACE 1STGRACE                                                                                          3,000.00 OLD:      00000
+    645-40-0972 - 01 09     3/13/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                            817.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                          817.00 NEW:
+0 EARLEY TARA B        900 PYMT-EDSI  ACTIVE        198677                                                                              1,084.34
+    521-73-1813 - 01 09     3/16/17    3/16/17 E         2      100.00-    94.95-     5.05-                                               989.39
+0 EGGLESTON BRENDAN A  900 PYMT-EDSI  ACTIVE        198688                                                                                371.78
+    513-98-0529 - 01 09     3/16/17    3/16/17 E        14      371.78-   370.20-     1.58-                                                 1.58
+0 EICHINGER SEAN P     903 PAYMENTWEB ACTIVE    1170702122                                                                              3,788.67
+    510-11-3396 - 01 09     3/11/17    3/11/17 W         9       43.00-    21.54-    21.46-                                             3,767.13
+                       903 PAYMENTWEB ACTIVE    1170904204                                                                              3,799.72
+                - 01 09     3/31/17    3/31/17 W         3       43.00-    32.59-    10.41-                                             3,767.13
+0 EMIG SHAILA C        903 PAYMENTWEB ACTIVE    1170600996                                                                                795.64
+    514-06-6091 - 01 09     3/01/17    3/01/17 W         1       40.00-    36.81-     3.19-                                               758.83
+                       903 PAYMENTWEB ACTIVE    1170904192                                                                                795.56
+                - 01 09     3/31/17    3/31/17 W         1       40.00-    36.73-     3.27-                                               758.83
+0 ERVING TIARA Z        70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+    632-44-3604 - 01 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 ESHLEMAN STUART M    901 PYMT-ACH   RENEGOTI      198689                                                                              1,140.61
+    509-04-3377 - 01 09     3/20/17    3/16/17 A       137       40.00-    36.57-     3.43-                                             1,104.04
+0 FAIRLEIGH GAGE C     903 PAYMENTWEB ACTIVE    1170621280                                                                              2,716.76
+    513-08-9671 - 01 09     3/03/17    3/03/17 W         2       82.00-    71.34-     8.66-       2.00-                                 2,645.42
+                       903 PAYMENTWEB ACTIVE    1170833493                                                                              2,677.71
+                - 01 09     3/24/17    3/24/17 W         2       40.00-    32.29-     7.71-                                             2,645.42
+                        61 15DAYPAST  ACTIVE                                                                                            2,645.42 OLD:      00016
+                - 01 09     3/01/17    0/00/00 S                                                                                        2,645.42 NEW:
+0 FORTE SEAN J         903 PAYMENTWEB ACTIVE    1170752648                                                                              3,515.77
+    487-11-0052 - 01 09     3/16/17    3/16/17 W         2       90.00-    51.62-    34.08-       4.30-                                 3,464.15
+                       903 PAYMENTWEB ACTIVE    1170752648                                                                              3,554.15
+                - 01 09     3/16/17    3/16/17 W         3       90.00-    90.00-                                                       3,464.15
+                        62 45DAYPAST  ACTIVE                                                                                            3,464.15 OLD:      00047
+                - 01 09     3/01/17    0/00/00 S                                                                                        3,464.15 NEW:
+0 FRANKLIN MANDY M     900 PYMT-EDSI  1STGRACE      198677                                                                              2,184.84
+    585-83-3024 - 01 09     3/16/17    3/16/17 E         8       43.00-    43.00-                                                       2,141.84
+0 FULTON MATTHEW M     901 PYMT-ACH   ACTIVE        198689                                                                              1,206.22
+    615-92-8093 - 01 09     3/20/17    3/16/17 A       109       40.00-    36.37-     3.63-                                             1,169.85
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  4
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 GARZA CASSANDRA L    903 PAYMENTWEB ACTIVE    1170752599                                                                                901.02
+    645-22-4585 - 01 09     3/16/17    3/16/17 W         4       40.00-    36.18-     3.82-                                               864.84
+0 GIL BRANDON C        903 PAYMENTWEB ACTIVE    1170702122                                                                              1,671.72
+    513-06-5963 - 01 09     3/11/17    3/11/17 W         6       21.34-    15.39-     5.95-                                             1,656.33
+                       903 PAYMENTWEB ACTIVE    1170702122                                                                              3,343.86
+                - 02 09     3/11/17    3/11/17 W         6       42.68-    30.77-    11.91-                                             3,313.09
+0 GODFREY TRAVIS       901 PYMT-ACH   ACTIVE        198666                                                                              1,001.09
+    255-77-7360 - 01 09     3/10/17    3/09/17 A        86       50.00-    46.30-     3.70-                                               954.79
+0 GRAMMER DYLAN S      901 PYMT-ACH   ACTIVE        198689                                                                                886.10
+    509-08-4383 - 01 09     3/20/17    3/16/17 A        50       40.00-    37.33-     2.67-                                               848.77
+0 GRAVES MIRANDA N     901 PYMT-ACH   ACTIVE        198689                                                                                400.65
+    481-17-4331 - 01 09     3/20/17    3/16/17 A       115       40.00-    38.79-     1.21-                                               361.86
+0 GRIFFITH ANDY L      901 PYMT-ACH   ACTIVE        198666                                                                              1,610.09
+    509-06-3627 - 01 09     3/10/17    3/09/17 A         6       40.00-    34.04-     5.96-                                             1,576.05
+0 HALLMAN REBEKAH G    903 PAYMENTWEB ACTIVE    1170631610                                                                              2,824.02
+    524-91-3044 - 01 09     3/04/17    3/04/17 W         4       40.00-    35.75-     4.25-                                             2,788.27
+0 HAND JOSEPH J        900 PYMT-EDSI  ACTIVE        198673                                                                                330.01
+    514-86-6511 - 01 09     3/13/17    3/13/17 E        41       40.00-    38.19-     1.81-                                               291.82
+0 HANKS JAIA J          62 45DAYPAST  ACTIVE                                                                                            2,800.00 OLD:      00047
+    509-06-4511 - 01 09     3/01/17    0/00/00 S                                                                                        2,800.00 NEW:
+                        63 60DAYPAST  ACTIVE                                                                                            2,800.00 OLD:      00065
+                - 01 09     3/16/17    0/00/00 S                                                                                        2,800.00 NEW:
+0 HARBAUGH ALISON M    901 PYMT-ACH   ACTIVE        198689                                                                              2,356.72
+    509-02-8693 - 01 09     3/20/17    3/16/17 A        45       41.00-    33.90-     7.10-                                             2,322.82
+0 HARTWICK LAWSON A    453 CHGINT YTD PAID OFF      198665                                                                                   .00
+    641-22-9806 - 01 09     3/09/17    3/09/17 E         2        1.72-               1.72-                                                  .00
+                       502 PAYRVR PRN PAID OFF      198665                                                                                  1.72-
+                - 01 09     3/09/17    3/09/17 E         1        1.72      1.72                                                             .00
+0 HOLT DANIELLE L      901 PYMT-ACH   ACTIVE        198689                                                                              1,599.46
+    511-90-9755 - 01 09     3/20/17    3/16/17 A        41       54.00-    49.18-     4.82-                                             1,550.28
+0 HORYNA KIEFER T      903 PAYMENTWEB ACTIVE    1170621250                                                                                569.86
+    512-04-9556 - 01 09     3/03/17    3/03/17 W         3       40.00-    38.60-     1.40-                                               531.26
+0 HOWSER ANDREW J      901 PYMT-ACH   ACTIVE        198666                                                                              1,548.15
+    519-35-6162 - 01 09     3/10/17    3/09/17 A         5       43.00-    37.27-     5.73-                                             1,510.88
+0 HUDSON MICHELLE L    900 PYMT-EDSI  ACTIVE        198677                                                                                418.54
+    623-68-1927 - 01 09     3/16/17    3/16/17 E         3       55.00-    53.23-     1.77-                                               365.31
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  5
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 JEROME MELISSA J     903 PAYMENTWEB ACTIVE    1170894066                                                                              1,893.25
+    511-96-5783 - 01 09     3/30/17    3/30/17 W         3       50.00-    19.25-    26.45-       4.30-                                 1,874.00
+                        61 15DAYPAST  ACTIVE                                                                                            1,874.00 OLD:      00016
+                - 01 09     3/01/17    0/00/00 S                                                                                        1,874.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,874.00 OLD:      00016
+                - 01 09     3/30/17    0/00/00 S                                                                                        1,874.00 NEW:
+0 JOHNSON MORGAN N      61 15DAYPAST  ACTIVE                                                                                            3,000.00 OLD:      00016
+    626-78-6021 - 01 09     3/30/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 JONES TYLER L         61 15DAYPAST  ACTIVE                                                                                            2,071.34 OLD:      00016
+    514-08-4445 - 01 09     3/30/17    0/00/00 S                                                                                        2,071.34 NEW:
+0 JUNEK MICHAEL A      403 CHGINT YTD PAID OFF      198664                                                                                   .00
+    512-92-8293 - 01 09     3/09/17    3/09/17 E         4        1.37                1.37                                                   .00
+                       552 PAY PRIN   PAID OFF      198664                                                                                  1.37
+                - 01 09     3/09/17    3/09/17 E         3        1.37-     1.37-                                                            .00
+0 KAPROSY ERIN E        70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+    611-78-8330 - 01 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 KEPKA LINDSEY J      903 PAYMENTWEB ACTIVE    1170621247                                                                                768.40
+    514-02-4824 - 01 09     3/03/17    3/03/17 W         1       40.00-    36.84-     3.16-                                               731.56
+0 KIRBY CHANIA A        70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+    634-44-5518 - 01 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          4,000.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                        4,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                          2,000.00 OLD:      00000
+                - 03 09     3/13/17    0/00/00 S                                                                                        2,000.00 NEW:
+0 KITCH EMMA J         900 PYMT-EDSI  ACTIVE        198673                                                                              1,022.63
+    522-89-1775 - 01 09     3/13/17    3/13/17 E        43       40.00-    36.08-     3.92-                                               986.55
+0 KOHMAN CHELSEY K     371 ADJ L/CDUE DEFER-ST      198702                                                                              1,300.00
+    629-28-9723 - 01 09     3/24/17    3/24/17 E         2        2.00-                           2.00-                                 1,300.00
+                       451 ADJ INTDUE DEFER-ST      198702                                                                              1,300.00
+                - 01 09     3/24/17    3/24/17 E         1        6.95-               6.95-                                             1,300.00
+                       271 DEFERMENT  DEFER-ST       10738                                                                              1,300.00 Student (at least 1/2 tim
+                - 01 09     8/15/16    3/24/17 I         1                                                                              1,300.00 08/15/16 - 05/15/17
+0 KOMP THOMAS W        901 PYMT-ACH   ACTIVE        198689                                                                                195.28
+    512-98-0170 - 01 09     3/20/17    3/16/17 A       142       40.00-    39.41-      .59-                                               155.87
+0 KREIDER JASMIL       903 PAYMENTWEB ACTIVE    1170702035                                                                              1,095.94
+     95-82-0410 - 01 09     3/11/17    3/11/17 W         4      140.00-   137.44-     2.56-                                               958.50
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  6
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       903 PAYMENTWEB ACTIVE    1170702035                                                                              1,098.50
+                - 01 09     3/11/17    3/11/17 W         5      140.00-   140.00-                                                         958.50
+                       903 PAYMENTWEB ACTIVE    1170833741                                                                              1,056.62
+                - 01 09     3/24/17    3/24/17 W         1      100.00-    98.12-     1.88-                                               958.50
+0 LAMPMANN CIARA C     901 PYMT-ACH   ACTIVE        198666                                                                                755.76
+    601-62-4163 - 01 09     3/10/17    3/09/17 A        18      100.00-    97.20-     2.80-                                               658.56
+0 LAZORCHAK STEVEN     900 PYMT-EDSI  ACTIVE        198647                                                                                565.96
+    601-82-7407 - 01 09     3/03/17    3/03/17 E        17       55.00-    50.53-     4.47-                                               515.43
+                       900 PYMT-EDSI  ACTIVE        198695                                                                                588.90
+                - 01 09     3/22/17    3/22/17 E         1       75.00-    73.47-     1.53-                                               515.43
+0 LEWIS AMANDA L       900 PYMT-EDSI  ACTIVE        198688                                                                              2,849.68
+    605-70-5724 - 01 09     3/16/17    3/16/17 E        11       40.00-    26.72-    13.28-                                             2,822.96
+0 LEWIS MARISSA N      901 PYMT-ACH   ACTIVE        198666                                                                              1,319.95
+    512-96-0425 - 01 09     3/10/17    3/09/17 A        60       31.84-    26.96-     4.88-                                             1,292.99
+                       901 PYMT-ACH   ACTIVE        198666                                                                                835.11
+                - 02 09     3/10/17    3/09/17 A        60       20.16-    17.07-     3.09-                                               818.04
+0 LUNDY RIKKI R        901 PYMT-ACH   ACTIVE        198666                                                                                586.88
+    510-06-1779 - 01 09     3/10/17    3/09/17 A        72       40.00-    37.83-     2.17-                                               549.05
+0 LUTES ALYX V         900 PYMT-EDSI  ACTIVE        198673                                                                              2,492.74
+    509-02-9887 - 01 09     3/13/17    3/13/17 E        57       43.00-    34.47-     8.53-                                             2,458.27
+0 MACK MEGAN M         903 PAYMENTWEB 1STGRACE  1170702035                                                                              3,338.00
+    513-04-5713 - 01 09     3/11/17    3/11/17 W         6       43.00-    43.00-                                                       3,295.00
+0 MARKS SEQUENTE S      70 90DAYGRACE 1STGRACE                                                                                          3,000.00 OLD:      00000
+    509-11-6080 - 01 09     3/13/17    0/00/00 S                                                                                        3,000.00 NEW:
+0 MARSTON MICHAEL D    901 PYMT-ACH   ACTIVE        198689                                                                              1,417.47
+    515-84-9085 - 01 09     3/20/17    3/16/17 A       112       64.00-    59.73-     4.27-                                             1,357.74
+0 MARTIN TOMMY G       901 PYMT-ACH   ACTIVE        198666                                                                                771.89
+    493-06-8592 - 01 09     3/10/17    3/09/17 A        85       40.00-    37.15-     2.85-                                               734.74
+0 MARTINEZ JAYRO S     900 PYMT-EDSI  ACTIVE        198659                                                                                563.62
+    604-06-5005 - 01 09     3/09/17    3/09/17 E         1       75.00-    72.92-     2.08-                                               490.70
+0 MAUPIN KORTE A       901 PYMT-ACH   ACTIVE        198689                                                                                347.43
+    514-88-5091 - 01 09     3/20/17    3/16/17 A        85       43.00-    41.95-     1.05-                                               305.48
+0 MCCLAIN HAYDEN T     901 PYMT-ACH   ACTIVE        198689                                                                              3,076.73
+    616-88-3427 - 01 09     3/20/17    3/16/17 A        56       43.00-    33.73-     9.27-                                             3,043.00
+0 MEYER COURTNEY L     901 PYMT-ACH   ACTIVE        198689                                                                              2,673.71
+    514-04-7416 - 01 09     3/20/17    3/16/17 A        39       43.00-    34.94-     8.06-                                             2,638.77
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  7
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 MEYER DEREK C        901 PYMT-ACH   ACTIVE        198689                                                                                412.02
+    510-04-0552 - 01 09     3/20/17    3/16/17 A        46       85.00-    83.76-     1.24-                                               328.26
+0 MOHR CHRISTOPHER G    61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+    603-92-1265 - 01 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 MOORE PRECIOUS M     903 PAYMENTWEB ACTIVE    1170601114                                                                              3,601.02
+    607-34-7093 - 01 09     3/01/17    3/01/17 W         1       88.15-    75.64-    10.36-       2.15-                                 3,525.38
+0 NELSON JOSHUA M       61 15DAYPAST  ACTIVE                                                                                            1,150.00 OLD:      00016
+    514-08-6346 - 01 09     3/30/17    0/00/00 S                                                                                        1,150.00 NEW:
+0 NEUBRANDT ALIA R     900 PYMT-EDSI  ACTIVE        198688                                                                              3,864.38
+    623-72-8224 - 01 09     3/16/17    3/16/17 E         5       44.45-    25.39-    19.06-                                             3,838.99
+                       900 PYMT-EDSI  ACTIVE        198688                                                                              3,864.42
+                - 02 09     3/16/17    3/16/17 E         5       44.44-    25.38-    19.06-                                             3,839.04
+                       900 PYMT-EDSI  ACTIVE        198688                                                                                966.12
+                - 03 09     3/16/17    3/16/17 E         5       11.11-     6.34-     4.77-                                               959.78
+0 PALMER LYSA L         61 15DAYPAST  ACTIVE                                                                                            1,200.00 OLD:      00016
+    512-98-5869 - 01 09     3/30/17    0/00/00 S                                                                                        1,200.00 NEW:
+0 PATTERSON KIMBERLY D 900 PYMT-EDSI  ACTIVE        198673                                                                              3,895.38
+    511-11-3186 - 01 09     3/13/17    3/13/17 E        49       43.00-    14.39-    28.61-                                             3,880.99
+0 PATTERSON STEPHANIE  901 PYMT-ACH   ACTIVE        198666                                                                              1,663.93
+    511-08-9083 - 01 09     3/10/17    3/09/17 A        81       20.29-    14.14-     6.15-                                             1,649.79
+                       901 PYMT-ACH   ACTIVE        198666                                                                              3,503.27
+                - 02 09     3/10/17    3/09/17 A        81       42.71-    29.76-    12.95-                                             3,473.51
+0 PENROD HILLARY M     900 PYMT-EDSI  ACTIVE        198677                                                                                125.20
+    524-47-2144 - 01 09     3/16/17    3/16/17 E         4       40.00-    39.52-      .48-                                                85.68
+0 POTTS JESSICA A      900 PYMT-EDSI  ACTIVE        198659                                                                              1,397.39
+    513-98-0587 - 01 09     3/09/17    3/09/17 E         3       50.00-    46.93-     3.07-                                             1,350.46
+0 POWELL RACHAEL E     901 PYMT-ACH   ACTIVE        198666                                                                              1,993.06
+    510-04-9960 - 01 09     3/10/17    3/09/17 A        70       43.00-    35.63-     7.37-                                             1,957.43
+0 PROSSER RYAN A       900 PYMT-EDSI  ACTIVE        198716                                                                              1,871.23
+    509-04-9622 - 01 09     3/27/17    3/27/17 E         1      500.00-   389.31-    88.69-      22.00-                                 1,481.92
+0 RESA ALICIA E        903 PAYMENTWEB ACTIVE    1170722341                                                                              4,000.00
+    510-11-6925 - 01 09     3/13/17    3/13/17 W         6       43.00-    27.66-    15.34-                                             3,972.34
+0 RING VICTORIA E       61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+    508-35-7091 - 01 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  8
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 RIVERS JAMES E       903 PAYMENTWEB ACTIVE    1170631329                                                                              2,172.63
+    513-94-4496 - 01 09     3/04/17    3/04/17 W         2       48.00-    38.77-     9.23-                                             2,133.86
+                        28 ADDRCHANGE ACTIVE                                                                                            2,133.86 OLD:
+                - 01 09     3/23/17    0/00/00                                                                                          2,133.86 NEW:
+0 ROBBINS SHAWNA N     901 PYMT-ACH   ACTIVE        198689                                                                              1,589.53
+    511-90-1390 - 01 09     3/20/17    3/16/17 A       134       56.00-    51.21-     4.79-                                             1,538.32
+0 SCHMELZLE JOSHUA D   901 PYMT-ACH   ACTIVE        198689                                                                                283.94
+    512-04-8848 - 01 09     3/20/17    3/16/17 A        75       40.00-    39.14-      .86-                                               244.80
+0 SCHMIDT SCOTT R       61 15DAYPAST  ACTIVE                                                                                            1,150.46 OLD:      00016
+    509-94-1509 - 01 09     3/30/17    0/00/00 S                                                                                        1,150.46 NEW:
+0 SCHNEIDER KAYLIE B   901 PYMT-ACH   ACTIVE        198689                                                                                293.75
+    513-08-3771 - 01 09     3/20/17    3/16/17 A        28       40.00-    39.11-      .89-                                               254.64
+0 SCOTT JEREMIAH J     903 PAYMENTWEB ACTIVE    1170752478                                                                              1,800.12
+    446-02-5849 - 01 09     3/16/17    3/16/17 W         2       80.00-    72.36-     7.64-                                             1,727.76
+0 SEIM CHANTAY A        28 ADDRCHANGE ACTIVE                                                                                              814.30 OLD: OLDSEQ: 4
+    509-02-3352 - 01 09     3/23/17    0/00/00                                                                                            814.30 NEW: NEWSEQ: 4
+                        61 15DAYPAST  ACTIVE                                                                                              814.30 OLD:      00016
+                - 01 09     3/30/17    0/00/00 S                                                                                          814.30 NEW:
+0 SHAFFER DUZTIN Z      61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+    625-80-0172 - 01 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            4,000.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        4,000.00 NEW:
+0 SHEFFIELD KATHERINE  900 PYMT-EDSI  ACTIVE        198704                                                                                440.29
+    514-98-5839 - 01 09     3/24/17    3/24/17 E         2       50.00-    42.14-     3.56-       4.30-                                   398.15
+0 SKINNER TIMOTHY G    900 PYMT-EDSI  ACTIVE        198704                                                                              2,770.14
+    510-92-8447 - 01 09     3/24/17    3/24/17 E         6       75.00-    61.01-    10.24-       3.75-                                 2,709.13
+0 SPARACIO NICHOLE F   451 ADJ INTDUE DEFER-ST      198670                                                                              4,000.00
+    650-01-9984 - 01 09     3/11/17    3/11/17 E         1       14.24-              14.24-                                             4,000.00
+                       451 ADJ INTDUE DEFER-ST      198670                                                                              4,000.00
+                - 02 09     3/11/17    3/11/17 E         2       14.24-              14.24-                                             4,000.00
+                       271 DEFERMENT  DEFER-ST       10735                                                                              4,000.00 Student (at least 1/2 tim
+                - 01 09     8/15/16    3/11/17 I         1                                                                              4,000.00 08/15/16 - 05/15/17
+                       271 DEFERMENT  DEFER-ST       10735                                                                              4,000.00 Student (at least 1/2 tim
+                - 02 09     8/15/16    3/11/17 I         1                                                                              4,000.00 08/15/16 - 05/15/17
+0 STEWARD IAN B        903 PAYMENTWEB ACTIVE    1170631449                                                                              3,863.82
+    513-08-8488 - 01 09     3/04/17    3/04/17 W         1       50.00-    37.30-    12.70-                                             3,826.52
+0 SWIFT THOMAS D       900 PYMT-EDSI  ACTIVE        198673                                                                              1,208.53
+    645-44-0213 - 01 09     3/13/17    3/13/17 E        48       40.00-    35.37-     4.63-                                             1,173.16
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                  9
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0 TIMBERLAKE KYLEE S   901 PYMT-ACH   ACTIVE        198689                                                                              3,545.40
+    515-08-9222 - 01 09     3/20/17    3/16/17 A        89       50.00-    39.31-    10.69-                                             3,506.09
+0 VANSKIKE LISA R      901 PYMT-ACH   ACTIVE        198666                                                                              2,108.89
+    514-98-3082 - 01 09     3/10/17    3/09/17 A        57      100.00-    92.20-     7.80-                                             2,016.69
+0 WAGONER AUSTIN J      61 15DAYPAST  ACTIVE                                                                                            2,000.00 OLD:      00016
+    514-92-2224 - 01 09     3/30/17    0/00/00 S                                                                                        2,000.00 NEW:
+0 WALKER LINDSEY R     901 PYMT-ACH   ACTIVE        198689                                                                              2,307.49
+    633-09-6535 - 01 09     3/20/17    3/16/17 A        96       40.00-    33.05-     6.95-                                             2,274.44
+0 WALKUP NICOLE L      903 PAYMENTWEB ACTIVE    1170631439                                                                              2,970.22
+    508-21-5539 - 01 09     3/04/17    3/04/17 W         1       50.00-    40.23-     9.77-                                             2,929.99
+0 WALTON AUTUMN A      371 ADJ L/CDUE DEFER-ST      198715                                                                              4,000.00
+    509-13-5858 - 01 09     3/27/17    3/27/17 E         2        2.12-                           2.12-                                 4,000.00
+                       451 ADJ INTDUE DEFER-ST      198715                                                                              4,000.00
+                - 01 09     3/27/17    3/27/17 E         1       23.01-              23.01-                                             4,000.00
+                       371 ADJ L/CDUE DEFER-ST      198715                                                                              4,000.00
+                - 02 09     3/27/17    3/27/17 E         4        2.12-                           2.12-                                 4,000.00
+                       451 ADJ INTDUE DEFER-ST      198715                                                                              4,000.00
+                - 02 09     3/27/17    3/27/17 E         3       23.01-              23.01-                                             4,000.00
+                       271 DEFERMENT  DEFER-ST       10739                                                                              4,000.00 Student (at least 1/2 tim
+                - 01 09     8/15/16    3/27/17 I         1                                                                              4,000.00 08/15/16 - 05/15/17
+                       271 DEFERMENT  DEFER-ST       10739                                                                              4,000.00 Student (at least 1/2 tim
+                - 02 09     8/15/16    3/27/17 I         1                                                                              4,000.00 08/15/16 - 05/15/17
+0 WARD MIRANDA L        61 15DAYPAST  ACTIVE                                                                                              600.00 OLD:      00016
+    509-02-9244 - 01 09     3/30/17    0/00/00 S                                                                                          600.00 NEW:
+                        61 15DAYPAST  ACTIVE                                                                                            1,200.00 OLD:      00016
+                - 02 09     3/30/17    0/00/00 S                                                                                        1,200.00 NEW:
+0 WATSON ADAM J        901 PYMT-ACH   ACTIVE        198689                                                                                729.03
+    509-06-1659 - 01 09     3/20/17    3/16/17 A         4       40.00-    37.80-     2.20-                                               691.23
+0 WRIGHT TYRONE O       70 90DAYGRACE 1STGRACE                                                                                          3,000.00 OLD:      00000
+    512-08-6616 - 01 09     3/13/17    0/00/00 S                                                                                        3,000.00 NEW:
+                        70 90DAYGRACE 1STGRACE                                                                                            500.00 OLD:      00000
+                - 02 09     3/13/17    0/00/00 S                                                                                          500.00 NEW:
+0 YANG MARLENE M       901 PYMT-ACH   ACTIVE        198666                                                                              1,671.28
+    514-06-5780 - 01 09     3/10/17    3/09/17 A        61       21.31-    15.13-     6.18-                                             1,656.15
+                       901 PYMT-ACH   ACTIVE        198666                                                                              2,172.96
+                - 02 09     3/10/17    3/09/17 A        61       27.69-    19.66-     8.03-                                             2,153.30
+0 ZINK DUSTIN T        451 ADJ INTDUE DEFER-ST      198693                                                                              4,000.00
+    513-13-1573 - 01 09     3/21/17    3/21/17 E         2       19.72-              19.72-                                             4,000.00
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                                                                                                 RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                 10
+0 BORROWER NAME        T/C ACTIVITY   STATUS        BATCH               ==================== TRANSACTION DETAIL ===================      OLD BAL   COMMENTS
+    ACCOUNT NBR     TYPE     POSTED    ENTRY   S     SEQ      TRAN AMT  PRINCIPAL  INTEREST   LATE/PEN    COLL FEES   LITG FEES    T     NEW BAL
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                       451 ADJ INTDUE DEFER-ST      198693                                                                              4,000.00
+                - 02 09     3/21/17    3/21/17 E         3       19.72-              19.72-                                             4,000.00
+                       271 DEFERMENT  DEFER-ST       10736                                                                              4,000.00 Student (at least 1/2 tim
+                - 01 09     8/15/16    3/21/17 I         2                                                                              4,000.00 08/15/16 - 05/15/17
+                       271 DEFERMENT  DEFER-ST       10736                                                                              4,000.00 Student (at least 1/2 tim
+                - 02 09     8/15/16    3/21/17 I         2                                                                              4,000.00 08/15/16 - 05/15/17
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                              *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                 11
+-
+0 PAYMENTS/ADJUSTMENTS                  COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0 371 - Adjust L/C Fees Due                 3                                      6.24-                                   6.24-
+  403 - Change Interest Paid YTD/LTD        1                           1.37                                               1.37
+  451 - Adjust Interest Due                 8                         128.28-                                            128.28-
+  453 - Change Interest Paid YTD/LTD        1                           1.72-                                              1.72-
+  502 - Adjust Principal Paid               1             1.72                                                             1.72
+  552 - Adjust Principal Paid               1             1.37-                                                            1.37-
+  900 - Payments received by EDSI          25         1,759.07-       252.66-     30.05-                               2,041.78-
+  901 - Payment received by EDSI-ACH       40         1,725.51-       205.49-                                          1,931.00-
+  903 - Web credit card payment            32         1,688.78-       307.64-     22.75-                               2,019.17-
+  904 - Office credit card payment          1            31.38-         8.62-      2.00-                                  42.00-
+0       ** TOTALS                         113         5,204.39-       903.04-     61.04-                               6,168.47-
+-
+0 CANCELLATIONS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+-
+0 DEFERMENTS                            COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+0   2 - Student (at least 1/2 time)         8
+0       ** TOTALS                           8
+-
+0 POSTPONEMENTS                         COUNT        PRINCIPAL      INTEREST      LATE/PEN    COLL FEES   LITIG FEES    TOTAL
+-       ** TOTALS                           0
+1
+-
+0   1929                                                              TRANSACTIONS AND ADJUSTMENTS JOURNAL                                                           EDSI
+  KANSAS WESLEYAN UNIVERSITY                                              *** TRANSACTION TOTALS ***                                         RUN DATE:  3/31/17
+  001 - FEDERAL PERKINS LOAN                                                                                                                                 12
+-
+0                                         LOAN             PRINCIPAL         PRINCIPAL          PRINCIPAL          LOAN
+                       COUNT             AMOUNT            COLLECTED         CANCELLED           ASSIGNED         BALANCE
+0 OPENING BALANCE     3,101        7,431,345.00         5,303,539.04-        647,406.61-       366,528.72-     1,113,870.63
+  NEW LOANS/ADVANCES
+  COLLECTIONS            98                                 5,204.74-                                              5,204.74-
+  CANCELLATIONS
+  ADJUSTMENTS            13                                      .35                                                    .35
+  NON-MONETARY ADJ        2
+  DELETIONS
+  CLOSING BALANCE     3,101        7,431,345.00         5,308,743.43-        647,406.61-       366,528.72-     1,108,666.24
+-
+-                                                                         *** COLLECTIONS SUMMARY ***
+0                                  PRINCIPAL         INTEREST     LATE/PENALTY        COLL FEES         LIT FEES            TOTAL
+0 OPENING BALANCE               5,303,539.04       623,897.69        48,933.40             3.00                      5,976,373.13
+0 PAYMENTS                  **      5,206.11           774.41            54.80                                           6,035.32
+  PAYMENTS-REVR             **          1.72-                                                                                1.72-
+0 NON-CASH PAYMENTS
+  NON-CASH REVR
+0 DELETED ACCOUNTS
+  ADJUSTMENTS                                             .35                                                                 .35
+0 CLOSING BALANCE               5,308,743.43       624,672.45        48,988.20             3.00                      5,982,407.08

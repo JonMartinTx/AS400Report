@@ -1,0 +1,81 @@
+1
+-
+0      5041-UNIVERSITY OF MARY HARDIN-BAYLOR
+        007-UMHB - C.I.O.S. LOANS
+-                                                                           3/31/17                                                                      1
+-
+-CONWAY CAROL GLENDA      462-55-7091-01 M    100.13   5989.00        .00        .00    3928.93    4/02/15     2060.07             .00        .00     YES
+ 2309 KENTUCKY ST                     B  ACTIVE        3928.93      .0000        .00        .00    9/07/11         .00             .00    0/00/00   12/20/16
+ BAYTOWN, TX 77520-6157     .00       6  B   1   OK   12/30/01    3936.01       7.08       4729      16.67       40.96         0/00/00       0         0
+                                                                  4/20/17        .00    3936.01    9/07/11         .00
+0CONWAY CAROL GLENDA      462-55-7091-02 M     66.87   4000.00        .00        .00    2668.96    4/02/15     1331.04             .00        .00     YES
+                                      B  ACTIVE        2668.96      .0000        .00        .00    9/07/11         .00             .00    0/00/00   12/20/16
+                            .00       6  B   2   OK   12/30/01    2673.76       4.80       4729      16.67       17.60         0/00/00       0         0
+                                                                  4/20/17        .00    2673.76    9/07/11         .00
+0FURNACE RICHARD ALLEN    461-15-3316-01 M    137.00   8250.00        .00        .00    7684.00    3/31/16      566.00             .00        .00     YES
+ 8810 OAK HILLS DR                    B  BNKRPT-13     7684.00      .0000        .00        .00    9/29/03         .00             .00    0/00/00   12/20/16
+ TEMPLE, TX 76502-5262      .00       6  B   1   OK    6/30/98    7731.00      47.00       2365      20.00       45.00         0/00/00       0         0
+                                                                  4/01/17        .00    7731.00    9/29/03         .00
+0HART WENDY               535-98-1886-01 M     50.00   1689.00        .00        .00    1343.40    8/08/14      345.60             .00        .00     YES
+ 1502 LANTERN LIGHT DR                B  ACTIVE        1343.40      .0000        .00        .00   10/21/09         .00             .00    0/00/00   12/20/16
+ ROUND ROCK, TX 78681-197   .00       6  B   1   OK    6/30/98    1357.40      14.00       5966      23.10       40.00         0/00/00       0         0
+                                                                  4/01/17        .00    1357.40   10/21/09         .00
+0TANKSLEY DARWIN          453-91-3477-01 M     50.00   3000.00      13.11        .00    2573.31   10/08/14      426.69             .00        .00     YES
+ 1610 COTTONWOOD CT                   B  ACTIVE        2573.31      .4230      11.85    2233.03   11/03/00         .00             .00    0/00/00   12/20/16
+ ROUND ROCK, TX 78664      6.00       6  B   1   OK    6/30/99    4880.30      49.00       5905     431.69        5.00         0/00/00       0         0
+                                                                  4/01/17        .00    4867.19   11/03/00         .00
+1
+-
+0      5041-UNIVERSITY OF MARY HARDIN-BAYLOR
+        007-UMHB - C.I.O.S. LOANS
+-                                                                           3/31/17                                                                      2
+-
+-
+0                                                                 ====SUMMARY TOTALS====
+0                               Borrowers            Accounts On               Prior Years             Cumulative                         Year To Date
+                                                   Student Journal             Paid in Full              Totals
+                                                       Printed                 Not Printed
+0                                  Number          Number    Amount       Number       Amount      Number      Amount                  Nbr     Amount
+   Original Loan Amount                 44              5      22928.00       42     146231.00         47      169159.00
+   Principal Collected                  43              5       4729.40       41     143231.00         46      147960.40                  0        .00
+   Principal Cancelled                   0              1           .00        1       3000.00          2        3000.00                  0        .00
+   Principal Assigned                    0              0           .00        0           .00          0            .00
+   Loan Amount Outstanding                                     18198.60                    .00                  18198.60
+0                                                                 ====CANCELLATIONS====
+0                                      Assigned                    Others                    Total
+                                Principal      Interest     Principal   Interest     Principal    Interest
+   Current Month                        .00           .00        .00          .00          .00         .00
+   Year to Date                         .00           .00        .00          .00          .00         .00
+   Cumulative                           .00           .00
++                                                            3000.00          .00
++                                                                                      3000.00
++                                                                                                      .00
+-                                                                 ====COLLECTIONS====
+0                               Principal       Interest    Late/Pen      Col/Lit      Total
+   Current Month                        .00           .00        .00          .00          .00
+   Year to Date                         .00           .00        .00          .00          .00
+   Cumulative                     147960.40        279.53
++                                                             654.56          .00
++                                                                                    148894.49
+1
+-
+0      5041-UNIVERSITY OF MARY HARDIN-BAYLOR
+        007-UMHB - C.I.O.S. LOANS
+-                                                                           3/31/17                                                                      3
+-
+-
+-
+-
+-                                                     ====STATUS SUMMARY====
+0  Status                         Code           Loans         Acct      Loan Amt    Prin Coll   Prin Canc    Loan Bal      Int Accrued
+   Enrolled                      10-15               0            0             .00         .00         .00          .00           .00
+   On Grace                      20-25               0            0             .00         .00         .00          .00           .00
+   Deferred                      30-49               0            0             .00         .00         .00          .00           .00
+   Postponed                     45                  0            0             .00         .00         .00          .00           .00
+   Active (not in coll)          50-69               4            3        14678.00     4163.40         .00     10514.60       2257.99
+   Active (in coll)              90-96               0            0             .00         .00         .00          .00           .00
+   Holding (bankruptcy)          97-98               1            1         8250.00      566.00         .00      7684.00           .00
+   Holding (assignments)         99                  0            0             .00         .00         .00          .00           .00
+   Paid in Full                  70-75              42           40       146231.00   143231.00     3000.00          .00           .00
+                                                 ------       ------   ------------------------------------ ------------  ------------
+   Totals                                           47           44       169159.00   147960.40     3000.00     18198.60       2257.99
